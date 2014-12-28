@@ -1,0 +1,30 @@
+--- !hobix.com,2004/entry 
+title: En ook certificaat nummer twee is binnen!
+created: 2010-04-12 17:13:24 +02:00
+updated: 2010-04-12 17:18:26 +02:00
+tags: 
+- java
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    
+    Sinds vanmorgen mag ik mijzelf "na Sun Certified Java
+    Programmer":/hacking/scjp.html ook "Sun Certified Web Component
+    Developer":http://in.sun.com/training/certification/java/scwcd.xml
+    noemen! Met andere woorden, ik heb Sun overtuigd dat ik weet wat
+    servlets zijn, hoe ik daarin met sessies en cookies moet omgaan, hoe
+    ik filters kan toepassen, hoe ik dat alles in Tomcat kan deployen en
+    nog "een paar andere nuttige
+    feitjes":http://in.sun.com/training/catalog/courses/CX-310-083.xml.
+    
+    !(left)/image/tomcat-f14.png(Een F14 Tomcat vliegt laag over)!
+    In het kader van "leer elk jaar een nieuwe programmeertaal" denk ik
+    dat 2009 hiermee voor mij het Java-jaar was.
+    
+    In 2010 ga ik mij wagen aan het illustere Objective-C, de taal
+    achter Mac OS X applicaties en iPhone apps. Eens zien hoe me dat
+    vergaat.
+    
+    Maar nu eerst even de overwinning vieren :-)
+
+  "@hard_breaks": false

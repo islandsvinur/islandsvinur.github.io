@@ -1,0 +1,5 @@
+--- !hobix.com,2004/entry 
+title: Pinpoint
+author: christian
+content: <p><a href="http://nogates.nl/pinpoint/">Pinpoint</a> is the name of my first real project of <a href="http://nogates.nl/">Nogates.</a> It is a bowling (hence the Pin) score (hence the Point) management application written in the beautiful <a href="http://www.ruby-lang.org/">Ruby programming language.</a></p> 	<p>It will feature multiple frontend interfaces, but will primarily be built upon <a href="http://www.gtk.org/"><span class="caps">GNOME2</span>/Gtk+.</a> Maybe a Cocoa frontend will also be created, if I manage to understand the <a href="http://www.fobj.com/rubycocoa/doc/">RubyCocoa</a> bindings.</p> 	<p>The <span class="caps">SVN</span> version can be checked out using the command:</p> 	<blockquote> 	<p><code>svn co http://nogates.nl/svn/pinpoint</code></p> 	</blockquote>
+created: 2005-02-12T20:39:19+01:00

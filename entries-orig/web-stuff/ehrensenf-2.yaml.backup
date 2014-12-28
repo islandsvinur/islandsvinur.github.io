@@ -1,0 +1,5 @@
+--- !hobix.com,2004/entry 
+title: Ehrensenf & RSS
+author: christian
+content: <p>Very few of you might have noticed that <a href="http://www.ehrensenf.de/">Ehrensenf</a> I <a href="http://luijten.org/web-stuff/ehrensenf.html">mentioned yesterday</a> doesn&#8217;t offer a <span class="caps">RSS</span> feed with enclosures, so you can&#8217;t add it to your favorite podcatcher (go <a href="http://www.getdemocracy.com/">Democracy!!!</a>) for automatic downloading of new episodes.</p> 	<p class="center"><img src="http://luijten.org/image/democracy-player.png" alt="" /></p> 	<p>Well, I sat down for half an hour, pulled some <span class="caps">PHP</span> and <span class="caps">DOM XML</span> magic out of the hat and voila; a <a href="http://orion.luon.net/~christian/ehrensenf.rss.php">feed with enclosures</a>! (psst, don&#8217;t tell them, they lack the feed for a reason, namely advertisements).</p>
+created: 2007-02-20T11:59:32+01:00

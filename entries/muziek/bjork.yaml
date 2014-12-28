@@ -1,0 +1,10 @@
+--- !hobix.com,2004/entry 
+title: "Bj\xC3\xB6rk - Debut"
+created: 2005-02-22 22:28:11 +01:00
+updated: 2008-10-09 10:58:07 +02:00
+tags: 
+- ijsland
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: <p>Just wanted to say, I bought a CD today&#8230; Wow!</p>
+  "@hard_breaks": false

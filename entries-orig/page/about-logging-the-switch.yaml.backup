@@ -1,0 +1,31 @@
+--- !hobix.com,2004/entry 
+title: Over dit weblog
+created: 2006-01-05 23:41:47 +01:00
+updated: 2009-02-26 23:14:37 +01:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    *Logging the Switch* is een weblog van "Christian
+    Luijten":/page/about-me.html, die in 2004 besloot dat hij zou stoppen met
+    PCs en _switchen_ naar de Mac. In eerste instantie was het plan om te
+    switchen van Linux op de PC naar Linux op de Mac. Het werd uiteindelijk een
+    switch naar Mac OS X naar opperste tevredenheid.
+    
+    De naam *Logging the Switch* komt van Apple's beroemde _Switch_-campagne
+    (De originele pagina's staan niet meer online, op de "Way Back
+    Machine":http://web.archive.org/web/*/http://apple.com/switch/ads is nog
+    het een en ander te vinden) waar normale mensen voor de camera vertellen
+    over hun ervaringen bij de switch naar het Mac platform.
+    
+    p(center). <object width="425" height="350">  <param name="movie" value="http://www.youtube.com/v/l2-UuIEOcss"></param>  <param name="wmode" value="transparent"></param>  <embed src="http://www.youtube.com/v/l2-UuIEOcss" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed> </object> 
+    
+    Intussen is de auteur een beetje van het thema afgezwaaid en schrijft
+    onregelmatig over van alles en nog wat en soms komt daar de Mac bij kijken.
+    
+    En natuurlijk geldt voor bloggen net als voor snijden: "altijd van je
+    &aacute;f":http://nl.wikipedia.org/wiki/Kreatief_met_Kurk! Daarnaast is het
+    verstandig om het "Helvetica":http://www.helveticafilm.com/ lettertype te
+    hebben ge&iuml;nstalleerd op je computer, want dan ziet alles er wat mooier
+    uit hier.
+
+  "hard_breaks": false

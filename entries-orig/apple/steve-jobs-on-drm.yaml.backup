@@ -1,0 +1,91 @@
+--- !hobix.com,2004/entry 
+title: Steve Jobs on DRM
+created: 2007-02-06 23:02:37 +01:00
+updated: 2008-10-09 10:58:05 +02:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    
+    In response to the European countries which are starting to take action
+    against the closed-off DRM software by Apple called FairPlay, Steve Jobs
+    personally responded with an open letter to the European government and the
+    music industry titled "Thoughts on
+    Music":http://www.apple.com/nl/hotnews/thoughtsonmusic/ on the website of
+    the computer company.
+    
+    !<http://luijten.org/image/photos/steve-jobs-ipod-nano.png(Steve Jobs holding the new iPod nano)! 
+    
+    Firstly, he rejects the allegations that iPod and iTunes are strongly
+    locked into eachother, which is simply not true; music ripped from CDs into
+    iTunes can be perfectly played on any MP3 player in the market. And
+    conversely, MP3s created by any encoder can be played on the iPod. So there
+    is no lock-in between iTunes and iPod.
+    
+    There is however, a lock-in between the iTunes Store and the iPod; only the
+    iPod can play content bought in the iTunes Store. This is against European
+    free market regulations and this is what Norway started complaining about,
+    getting joined by many other countries including the Netherlands.
+    
+    In the letter, Steve Jobs defends their strategy, enabling users to play
+    their bought items on relatively quite a lot devices, be them all by Apple.
+    
+    <blockquote> 
+    
+    Apple was able to negotiate landmark usage rights at the time, which
+    include allowing users to play their DRM protected music on up to 5
+    computers and on an unlimited number of iPods.  [...] So far we have met
+    our commitments to the music companies to protect their music, and we have
+    given users the most liberal usage rights available in the industry for
+    legally downloaded music.
+    
+    </blockquote> 
+    
+    Remember that the Windows Media DRM is much more restrictive (and much less
+    end-user friendly). So he is proud that Apple could negotiate the
+    relatively free DRM with the music industry. He is however not proud of the
+    fact that they have DRM at all and would much better liked to have
+    completely free content in the iTunes Store. Once a hacker, always a
+    hacker, I guess...
+    
+    He foresees three scenarios for the future:
+    
+    # The current system of FairPlay which is only playable on iPods and iTunes, probably resulting in being forced to close the European iTunes Store.
+    # Licensing the FairPlay technology to other media player producers, becoming unable to guarantee the safety of the encryption - Microsoft actually used this scenario, but with the introduction of the Zune they changed into the above one. It shows how weak the system becomes.
+    # Free all content of DRM.
+    
+    All have their problems and issues. On the third option, Jobs argues that
+    90% of all music sales are in fact already DRM-free, namely CDs, and asks
+    the music business why this small percentage should be bothered with the
+    hassle of administrating DRM on the files, while CDs can be ripped and
+    copied just as easily.
+    
+    Jobs doesn't forget to mention that two of the four big music companies are
+    in fact European themselves and that a third is 50% in European hands.
+    
+    <blockquote> 
+    
+    For Europeans, two and a half of the big four music companies are located
+    right in their backyard. The largest, Universal, is 100% owned by Vivendi,
+    a French company. EMI is a British company, and Sony BMG is 50% owned by
+    Bertlesmann, a German company. Convincing them to license their music to
+    Apple and others DRM-free will create a truly interoperable music
+    marketplace. Apple will embrace this wholeheartedly.
+    
+    </blockquote> 
+    
+    In this light, it is strange that as far as I know, indie releases on
+    iTunes are also crippled with FairPlay. Most indie artists have a much more
+    relaxed attitude towards internet downloads. If those releases where freed
+    from their shackles, it would certainly put the big music companies in a
+    disadvantageous position and could put a little bit of pressure on them to
+    loosen up.
+    
+    So if Steve Jobs really meant anything of what he wrote, Apple should sit
+    around the table with all the small labels and individuals offering their
+    stuff on the iTunes Store, suggesting to release it free from DRM.
+    
+    *Update*: EMI apparently is "thinking about selling unprotected MP3 files
+    online":http://www.nytimes.com/2007/02/09/business/media/09online.html?_r=1&#38;oref=slogin,
+    so it's already starting.
+
+  "hard_breaks": false

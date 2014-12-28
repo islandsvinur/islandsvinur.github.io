@@ -1,0 +1,6 @@
+--- !hobix.com,2004/entry 
+title: Its first Linux boot
+author: christian
+tags: [powermac]
+content: "<p>Today I tried the <a href=\"http://ftp.snt.utwente.nl/pub/os/linux/gentoo/experimental/ppc64/livecd/install-ppc64-g5-minimal-2004.3-beta1.iso.bz2\">experimental Gentoo <span class=\"caps\">PPC64</span> LiveCD</a> and it worked. I totally got two Tuxes&#8230; Tuces&#8230; Tuxi&#8230; Tuxii&#8230; whatever and a #-prompt.</p> \t<p>And then I remembered it was a Gentoo system and against my religion to use that, so the first command I entered was halt<enter>, which printed haltC on the prompt&#8230; Great, wrong keymap. Luckily the numpad-enter was a real enter, so I tried that one.</p>"
+created: 2004-10-22T14:37:52+01:00

@@ -1,0 +1,18 @@
+--- !hobix.com,2004/entry 
+title: Leukerbad posts moved from journal to archive
+created: 2005-09-01 09:24:50 +02:00
+updated: 2009-02-24 20:08:19 +01:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    I moved the posts of the "holidays in
+    Leukerbad":/page/holidays/leukerbad/intro.html to the archive. This way, it
+    won't show up anymore in the sections sidebar, but in the static section of
+    the site.
+    
+    Because of the ordering of the journal, the holiday diaries should be read
+    in reverse order. I'll look into it to check whether it is possible to
+    define your own ordering, thus enabling an ascending chronological order
+    (instead of descending like in the journal).
+
+  "@hard_breaks": false

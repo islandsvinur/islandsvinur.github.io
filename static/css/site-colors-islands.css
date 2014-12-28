@@ -1,0 +1,34 @@
+/* Source: http://en.wikipedia.org/wiki/Flag_of_Iceland
+     blue: 100-69-0-11.5 = #0046E0, #0035A8 (slightly darker shade)
+     red:  0-94-100-0    = #D1241D */
+
+/* Used colors: white, #0035A8, #546FA8, #D1241D, #D17B77 */
+
+#page { background-color: #0035A8; }
+#page, #blog .dayHeader a { color: white; }
+
+#banner  a { color: white; }
+/* #content a, #pageFooter a { color: #D1241D; } */
+#content a, #pageFooter a { color: #D14841; }
+
+a:hover { color: #0035A8; background: white; }
+#blog a:visited, #sidebar a:visited { color: #D17B77; }
+
+#blog div.scroll, 
+blockquote,
+.bar {
+  border-color: white;
+  background-color: #546FA8;
+}
+
+.bar, .withflag { background-color: #D1241D; }
+
+.withflag {
+  background-image: url('../image/header-flag.png');
+  background-position: -5px -8px;
+  padding-left: 120px; 
+  text-align: right;
+}
+
+#banner { background: url('../image/background.jpg'); }
+

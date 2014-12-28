@@ -1,0 +1,2 @@
+entry_footer: ""
+title: "&ldquo;<%= entry.title %>&rdquo; is een pagina op &ldquo;<%= weblog.title %>&rdquo; van Christian Luijten"

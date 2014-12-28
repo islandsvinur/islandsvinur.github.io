@@ -1,0 +1,19 @@
+title:
+  Jaaroverzicht <%= entries.first.created.strftime "%Y" %> van Logging the Switch
+
+entries: |
+  <div class="entry">
+  <h2>Jaaroverzicht <%= entries.first.created.strftime "%Y" %></h2>
+  <dl>
+  <% entries.each do |entry| %>
+  <+ entry +>
+  <% end %>
+  </dl>
+  </div>
+
+entry: |
+  <dt> <+ entry_footer +> </dt>
+  <dd> <a href="<%= entry.link %>"><%= entry.title %></a><br /> </dd>
+
+entry_footer: | 
+  <%= entry.created.strftime( "%e.%m.%Y" ) %>

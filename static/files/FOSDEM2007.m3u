@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:5427,FOSDEM - Welcome
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Welcome.ogg
+#EXTINF:28788,Jim Gettys - Keynote: OLPC
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-OLPC.ogg
+#EXTINF:40483,Simon Phipps - Keynote: Liberating Java
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Liberating-Java.ogg
+#EXTINF:22302,Pieter Hintjens - Status of Software Patents in Europe
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Status-of-Software-Patents-in-Europe.ogg
+#EXTINF:34305,Georg Greve - Beyond GPLv3
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-BeyondGPLv3.ogg
+#EXTINF:23671,Pete Herzog - Security Testing
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-SecurityTesting.ogg
+#EXTINF:31772,H. D. Moore - Metasploit Framework
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Metasploit.ogg
+#EXTINF:34334,Kern Sibbald - Bacula
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Bacula.ogg
+#EXTINF:35618,Keith Packard - X.org
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Xorg.ogg
+#EXTINF:27387,Kristian Høgsberg - AIGLX
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-AIGLX.ogg
+#EXTINF:35996,Øyvind Kolås - GEGL
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-GEGL.ogg
+#EXTINF:30892,Frederico Mena Quintero - Profiling Desktop Applications
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-ProfilingDesktopApplication.ogg
+#EXTINF:23647,Jim Blandy - GDB Tracepoints
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-GDBTracePoints.ogg
+#EXTINF:36138,Miguel de Icaza - Turbocharging Linux with Mono
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-TurboCachingLinuxWithMono.ogg
+#EXTINF:27622,Aleksey Bragin - ReactOS
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-ReactOS.ogg
+#EXTINF:27994,Ronald G. Minnich - LinuxBIOS
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-LinuxBios.ogg
+#EXTINF:31650,Andrew Morton - Linux Kernel
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-LinuxKernel.ogg
+#EXTINF:21362,Paul Everitt - Plone 3.0
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Plone.ogg
+#EXTINF:26556,Dries Buytaert - Drupal
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Drupal.ogg
+#EXTINF:24268,Mike Schroepfer - Mozilla
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Mozilla.ogg
+#EXTINF:28379,Tom Baeyens - JBoss BPM
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-JBoss.ogg
+#EXTINF:20679,Peter Saint-Andre - Secure Communications with Jabber
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-SecureCommunicationsWithJabber.ogg
+#EXTINF:31377,Jeremy Allison - Samba
+http://ftp.belnet.be/mirrors/FOSDEM/2007/FOSDEM2007-Samba.ogg

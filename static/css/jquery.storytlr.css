@@ -1,0 +1,31 @@
+
+#storyTlr {
+	color: #085258; 
+	padding-bottom: 1em;
+}
+
+#storyTlr .storytlr_list {
+	-webkit-border-radius: .5em;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #CECEFF; 
+}
+
+#storyTlr .storytlr_list li {
+	overflow: auto;
+	padding: .5em; 
+}
+
+#storyTlr .storytlr_list .storytlr_even {
+	background-color: #EEEEFF; 
+}
+
+#storyTlr .storytlr_list .storytlr_link {
+	padding-right: .5em;
+	float: left; 
+}
+
+#storyTlr .storytlr_list .storytlr_link .storytlr_image {
+	vertical-align: middle; 
+}

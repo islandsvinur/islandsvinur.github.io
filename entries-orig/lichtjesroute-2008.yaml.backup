@@ -1,0 +1,14 @@
+--- !hobix.com,2004/entry 
+title: Lichtjesroute 2008
+created: 2008-09-28 12:55:24 +02:00
+updated: 2008-11-10 11:56:46 +01:00
+tags: 
+- flip
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    Marly en ik zijn de Lichtjesroute gaan fietsen en Flip ging mee:
+    
+    p(center). <object width="500" height="377" type="application/x-shockwave-flash">  <param name="allowfullscreen" value="true" /> <param name="allowscriptaccess" value="always" /> <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=1818928&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" /> <embed src="http://vimeo.com/moogaloop.swf?clip_id=1818928&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="377"></embed></object>
+
+  "hard_breaks": false

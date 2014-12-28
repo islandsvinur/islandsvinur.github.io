@@ -1,0 +1,19 @@
+--- !hobix.com,2004/entry 
+title: Voedsel van Ver
+created: 2009-08-11 16:35:36 +02:00
+updated: 2009-08-11 16:37:37 +02:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    Via "swissmiss":http://www.swiss-miss.com/2009/08/far-foods.html:
+    
+    p(center). <a href="http://www.jwgreynolds.co.uk/files/gimgs/9_foods.gif" rel="lightbox[far-foods]">!http://www.jwgreynolds.co.uk/files/gimgs/th-9_foods.gif!</a> <a href="http://www.jwgreynolds.co.uk/files/gimgs/9_receiptfinal.gif" rel="lightbox[far-foods]">!http://www.jwgreynolds.co.uk/files/gimgs/th-9_receiptfinal.gif!</a>
+    
+    "Far Foods":http://www.jwgreynolds.co.uk/index.php?/far-foods/:
+    
+    bq. Een alternatieve verpakking voor supermarktprodukten, om de
+    afstanden die voedsel soms moet afleggen en de hoeveelheid CO2 die
+    daarbij vrijkomt te benadrukken. De bon heeft een afscheur-strip zoals
+    bekend van boarding passes.
+
+  "@hard_breaks": false

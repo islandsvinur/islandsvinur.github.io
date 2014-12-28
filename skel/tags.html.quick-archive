@@ -1,0 +1,25 @@
+title:
+  Tagoverzicht &ldquo;<+ tag +>&rdquo; van Logging the Switch
+
+feed_links:
+  <link rel='alternate' type='application/rss+xml' title='RSS 2.0 feed for <+ tag +>' href='<%= File.dirname(page.link) %>/index.xml' />
+
+tag:
+  <%= page.id.split("/")[-2] %>
+
+entries: |
+  <div class="entry">
+  <h2>Tagoverzicht &ldquo;<+ tag +>&rdquo;</h2>
+  <dl>
+  <% entries.each do |entry| %>
+  <+ entry +>
+  <% end %>
+  </dl>
+  </div>
+
+entry: |
+  <dt> <+ entry_footer +> </dt>
+  <dd> <a href="<%= entry.link %>"><%= entry.title %></a><br /> </dd>
+
+entry_footer: | 
+  <%= entry.created.strftime( "%e.%m.%Y" ) %>

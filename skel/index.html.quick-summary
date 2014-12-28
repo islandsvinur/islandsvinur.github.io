@@ -1,0 +1,5 @@
+entry_title: |
+  
+  <h2 class="entryTitle"><a href="<%= entry.link %>"><%= entry.title %></a></h2>
+  <% if entry.respond_to? :tagline and entry.tagline %><div class="entryTagline"><%= entry.tagline %></div><% end %>
+

@@ -1,0 +1,29 @@
+--- !hobix.com,2004/entry 
+title: Geslaagd!
+created: 2009-06-29 21:02:41 +02:00
+updated: 2009-06-29 21:18:04 +02:00
+tags: 
+- coffeedregs
+- java
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    
+    Ik ben geslaagd! Alweer meer dan een week, maar gewoon geen tijd gehad
+    om erover te schrijven. Op 19 juni hield ik mijn eindpresentatie en na
+    een vrij lange ondervraging/discussie kreeg ik het eindoordeel:
+    Geslaagd!
+    
+    p(center). !/image/software/coffeedregs-wordle.png! <br /> _Een tag-wolk van mijn afstudeerverslag_
+    
+    Ik ben eens met "Wordle":http://www.wordle.net/ aan de slag gegaan
+    om een leuk plaatje te maken van mijn afstudeerverslag.
+    
+    Intussen werk ik nu bijna een maand bij "ISAAC":http://www.isaac.nl/
+    en het bevalt me wel! De collega's zijn leuk en de projecten
+    uitdagend. Er is alleen meteen wel weer een hoop nieuws te leren...
+    Ach ja, zo is het nou eenmaal. ISAAC wil dat ik mijn
+    "SCJP":http://www.sun.com/training/certification/java/scjp.xml haal,
+    dus zit ik weer lekker te studeren, en eigenlijk bevalt dat ook wel.
+
+  "@hard_breaks": false

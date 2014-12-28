@@ -1,0 +1,13 @@
+entries: |
+  <dl>
+  <% entries.each do |entry| %>
+  <+ entry +>
+  <% end %>
+  </dl>
+
+entry: |
+  <dt> <+ entry_footer +> </dt>
+  <dd> <a href="<%= entry.link %>"><%= entry.title %></a><br /> </dd>
+
+entry_footer: | 
+  <%= entry.created.strftime( "%e.%m.%Y" ) %>

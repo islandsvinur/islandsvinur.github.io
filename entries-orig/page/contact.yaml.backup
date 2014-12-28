@@ -1,0 +1,19 @@
+--- !hobix.com,2004/entry 
+title: Contact me
+created: 2005-08-22 20:24:02 +02:00
+updated: 2009-02-26 16:21:15 +01:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    Ik ben te vinden op vele netwerken, stuur me er een berichtje!
+    "Facebook":http://www.facebook.com/profile.php?id=1218531191,
+    "Twitter":http://twitter.com/islandsvinur,
+    "Hyves":http://midhrandir.hyves.nl/,
+    "StudiVZ":http://www.studivz.net/Profile/a99e2f02fa5a155d/tid/102,
+    "LinkedIn":http://www.linkedin.com/in/christianluijten,
+    "Technorati":http://technorati.com/people/technorati/ChristianLuijten,
+    "Last.FM":http://www.last.fm/user/AntiChris,
+    "Digg":http://digg.com/users/MavicA
+    en via "Jabber":xmpp:christian@luon.net.  
+
+  "hard_breaks": false

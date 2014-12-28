@@ -1,0 +1,12 @@
+--- !hobix.com,2004/entry 
+title: christian = designer
+created: 2007-10-22 23:50:00 +02:00
+updated: 2008-10-10 11:34:12 +02:00
+author: christian
+content: !str:RedCloth::TextileDoc |
+  p(center). "!/photos/iedereen-is-designer.jpg!":http://www.iedereenisdesigner.nl/
+  
+  p(center). <a href="/photos/christian-is-designer.jpg" rel="lightbox"><img src="/photos/christian-is-designer.jpg" /></a>
+  
+  Voor m&#8217;n hyves-vriendjes, er zijn er "nog meer":http://jensie.hyves.nl/index.php?l3=ph&#38;l4=listalbum&#38;album_id=18485580!
+

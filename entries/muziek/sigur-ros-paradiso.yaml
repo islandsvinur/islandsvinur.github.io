@@ -1,0 +1,10 @@
+--- !hobix.com,2004/entry 
+title: "Sigur R\xC3\xB3s in Paradiso!"
+created: 2005-04-09 20:38:03 +02:00
+updated: 2008-10-09 10:58:07 +02:00
+tags: 
+- ijsland
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: "<p>A nice surprise yesterday when I came on the <a href=\"http://www.sigur-ros.co.uk/\">Sigur R\xC3\xB3s</a> website. They come to the Netherlands on their 2005 tour! 13 July is the day, Paradiso Amsterdam the place. I&#8217;ll be there, who&#8217;ll be joining me?</p>"
+  "@hard_breaks": false

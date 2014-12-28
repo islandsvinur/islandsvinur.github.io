@@ -1,0 +1,13 @@
+--- !hobix.com,2004/entry 
+title: "Prachtige time lapse van Eyjafjallaj\xC3\xB6kull"
+created: 2010-05-18 21:41:45 +02:00
+updated: 2010-08-19 19:32:35 +02:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    Oneindig mooie "time lapse van
+    Eyjafjallaj&ouml;kull":http://vimeo.com/11673745
+    
+    p(center). <iframe src="http://player.vimeo.com/video/11673745?portrait=0" width="500" height="250" frameborder="0"></iframe>
+
+  "hard_breaks": false

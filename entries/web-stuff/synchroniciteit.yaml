@@ -1,0 +1,27 @@
+--- !hobix.com,2004/entry 
+title: Synchroniciteit
+created: 2007-07-10 16:30:24 +02:00
+updated: 2009-01-28 17:29:47 +01:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    Wim de Bie had het er al over,
+    "synchroniciteit":http://bieslog.vpro.nl/programma/bieslog/news.jsp?news=35559572,
+    het verschijnsel dat twee ongerelateerde gebeurtenissen onafhankelijk niet
+    eens zo heel opmerkelijk zijn, maar wanneer ze tegelijk optreden w&eacute;l.
+    Toevallig net gisteren nog trouwens, synchroniciteit aan het werk, want
+    precies vandaag produceerde Nu.nl een knap staaltje!
+    
+    Neem nou deze twee koppen:
+    
+    * "Kans op referendum Europees Verdrag niet groot":http://www.nu.nl/news/1148229/11/rss/Kans_op_referendum_Europees_Verdrag_niet_groot.html
+    * "Grote brand bij Nedap Eibergen":http://www.nu.nl/news/1148014/12/rss/Grote_brand_bij_Nedap_Eibergen.html
+    
+    Wat gebeurde er, ontstond eerst de brand waarna de Eerste Kamer besloot
+    waarschijnlijk tegen een referendum te stemmen omdat de stemmachines op zich
+    zouden laten wachten en nog meer uitstel ongewenst zou zijn? Of lekte het
+    nieuws uit dat de Eerste Kamer het wetsvoorstel zou verwerpen en heeft daarom
+    de directeur van Nedap de vlam erin gezet om zo toch nog iets van de
+    verzekering te vangen van die onverkoopbare stemmachines?
+
+  "@hard_breaks": false

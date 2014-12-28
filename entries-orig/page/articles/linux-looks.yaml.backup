@@ -1,0 +1,91 @@
+--- !hobix.com,2004/entry 
+title: Linux' Looks
+created: 2005-10-11 12:19:10 +02:00
+updated: 2008-10-09 10:58:08 +02:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    I get many questions about &#8216;what Linux looks like&#8217;, like
+    everyone wants to know &#8216;what that new Windows Vista looks
+    like&#8217;. With Windows, that answer is easy, there is only one desktop
+    and that desktop always has the same look: Start-button, system tray,
+    taskbar, icons on the desktop and a few windows&#8230;
+    
+    h2. Wrong question
+    
+    Now, Linux is actually just a <dfn title='a piece of software that
+    interacts between the applications and the hardware'>kernel</dfn>. Linux
+    looks like this:
+    
+    <div class='scroll'> <pre> Linux NET4.0 for Linux 2.4 Based upon Swansea University Computer Society NET3.039 Initializing RT netlink socket apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16) Starting kswapd Journalled Block Device driver loaded devfs: v1.12c (20020818) Richard Gooch (rgooch@atnf.csiro.au) devfs: boot_options: 0x1 pty: 256 Unix98 ptys configured Serial driver version 5.05c (2001-07-08) with MANY_PORTS SHARE_IRQ SERIAL_PCI enabled ttyS00 at 0x03f8 (irq = 4) is a 16550A Floppy drive(s): fd0 is 1.44M FDC 0 is a National Semiconductor PC87306 Linux agpgart interface v0.99 (c) Jeff Hartmann agpgart: Maximum main memory to use for agp memory: 149M agpgart: Detected Intel 440BX chipset agpgart: AGP aperture is 64M @ 0xe0000000 Uniform Multi-Platform E-IDE driver Revision: 7.00beta4-2.4 ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx PIIX4: IDE controller at PCI slot 00:07.1 PIIX4: chipset revision 1 PIIX4: not 100% native mode: will probe irqs later ide0: BM-DMA at 0x10a0-0x10a7, BIOS settings: hda:DMA, hdb:pio ide1: BM-DMA at 0x10a8-0x10af, BIOS settings: hdc:DMA, hdd:pio hda: FUJITSU MHK2060AT, ATA DISK drive blk: queue c03526e0, I/O limit 4095Mb (mask 0xffffffff) hdc: CD-224E, ATAPI CD/DVD-ROM drive </pre>  And so on&#8230; </div> 
+    
+    Well, that is a bit dull, right? Right&#8230; It seems that the question
+    asked is the wrong one!
+    
+    h2. Window managers
+    
+    The looks that everyone is asking for is actually the looks of the window
+    manager. The window manager has various tasks, the first of course is the
+    managing of the applications&#8217; windows. Managing in this case means it
+    draws the borders around them, handles the moving, resizing of the window
+    and input focus. There are many window managers out there, the most well
+    known are <a href="http://www.windowmaker.org/">WindowMaker</a> and <a
+    href="http://www.enlightenment.org/">Enlightenment.</a> The window
+    manager Metacity is the current default window manager of the <acronym
+    title="GNU Network Object Model Environment">GNOME</acronym> 2 desktop
+    environment.
+    
+    h2. Desktop environment
+    
+    I already mentioned <span class="caps">GNOME 2</span>, which is
+    <em>not</em> a window manager, but a desktop environment. This will manage
+    your taskbar, icons, panels <abbr title='et cetera'>etc.</abbr>. You
+    won&#8217;t need a desktop environment, but if you&#8217;re coming from a
+    Windows environment you&#8217;ll find it familiar using one. Known desktop
+    environments are <a href="http://www.gnome.org/"><span
+    class="caps">GNOME</span></a> and <a href="http://www.kde.org/"><span
+    class="caps">KDE</span>.</a>
+    
+    h2. Widget set / Toolkit
+    
+    Finally, there is a third, very important factor of the looks of your Linux
+    box is the choice of widget set for your applications. A widget is
+    everything that can be placed on an application&#8217;s <dfn title='the
+    area used by the application to show its user interface'>canvas</dfn>. It
+    varies from buttons to scrollbars, <acronym title="HyperText Markup
+    Language">HTML</acronym> viewers to listboxes. They enable you to
+    communicate with your software application. There are many different widget
+    sets, but <a href="http://www.gtk.org/">Gtk</a> (used by <span
+    class="caps">GNOME</span>) and <a
+    href="http://www.trolltech.com/">Qt</a> (used by <span
+    class="caps">KDE</span>) are the best known.
+    
+    h2. Screenshots
+    
+    Of course, after this sermon about the how and what of the user interface
+    of Linux-machines, I cannot leave you without at least one screenshot.
+    
+    <a href="http://luijten.org/image/screenshot-wmaker1.png"><img src="http://luijten.org/image/screenshot-wmaker1.png" class="fullWidth" title="Screenshot of WindowMaker in action" alt="Screenshot of WindowMaker in action" /></a>
+    
+    We see WindowMaker as the window manager, gtk+ as widgetset and I
+    don&#8217;t use a desktop environment. On the right are several system
+    monitors, which is a WindowMaker feature to have small 64&#215;64
+    applications that show information. From top to bottom: Lock-button, Clock,
+    Memory-, swapusage-, uptime- and interrupt-monitor, <span
+    class="caps">CPU</span> and memory usage, network usage, sorted
+    mailboxes, power management information and on the bottom there is my
+    musicplayer.
+    
+    WindowMaker has, as almost every window manager the ability to have
+    multiple desktops. I have a dedicated desktop for shell-access, one for
+    Internet chat, a graphics desktop and a browser desktop. It&#8217;s a whole
+    different approach than having a taskbar or something, but you get
+    accustomed very fast. I switch desktops every few seconds to check if
+    something has happened, imagine me having to click all the buttons on a
+    taskbar, or alt-tabbing through the window list.
+    
+    More screenshots of various Non-Windows Operating Systems can for instance
+    be found at the <a href="http://screenshots.luon.net/">screenshots
+    page</a> of the <a href="http://luon.net/">Luon network.</a>
+
+  "hard_breaks": false

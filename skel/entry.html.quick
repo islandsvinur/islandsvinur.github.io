@@ -1,0 +1,2 @@
+title: "&ldquo;<%= entry.title %>&rdquo; in <%= weblog.title %>"
+entry_comments: <+ disqus_comments +>

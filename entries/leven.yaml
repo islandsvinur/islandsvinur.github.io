@@ -1,0 +1,11 @@
+--- !hobix.com,2004/entry 
+title: Leven!
+created: 2012-06-01 10:51:31 +02:00
+updated: 2012-11-24 23:58:37 +01:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    Ja! Deze blog leeft nog! Sterker nog, er staat het een en ander
+    op stapel waardoor hier weer wat gaat gebeuren. Stay tuned!
+
+  "@hard_breaks": false

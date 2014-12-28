@@ -1,0 +1,6 @@
+--- !hobix.com,2004/entry 
+title: Status
+author: christian
+tags: [powermac]
+content: <p>I&#8217;m losing interest in installing Debian on my Mac; <span class="caps">OS X</span> is very nice after all. Meanwhile, the Debian PowerPC project is quarreling about going 64-bit all the way or just the kernel.</p> 	<p>Patrons argue that the amd64 team does exactly the same, while they could have a 32-bit userspace. Opposers argue that the archive is large enough already and it isn&#8217;t really profitable to have 64-bit binaries.</p> 	<p>In Ubuntu, <span class="caps">PPC64</span> support has been postponed as a long term goal.</p> 	<p>So, the only way I could get Linux on my machine is using Gentoo, but I don&#8217;t want to compile each and every little package until I get a working system, I want a system that &#8220;Just Works&#8221;(tm).</p>
+created: 2004-12-09T21:07:50+01:00

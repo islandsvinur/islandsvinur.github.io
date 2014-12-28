@@ -1,0 +1,19 @@
+--- !hobix.com,2004/entry 
+title: Albert Heijn Recepten Greasemonkey-script
+created: 2008-11-11 17:10:31 +01:00
+updated: 2008-11-11 17:10:31 +01:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    "Albert Heijn's recepten":http://www.ah.nl/recepten/ is een handige
+    verzameling als je even niet weet wat je wilt gaan koken. Nu hebben ze heel
+    handig, een snelcode om snel je recepten terug te kunnen vinden. Alleen maken
+    ze die alleen zichtbaar als je het recept uitprint, anders is het verborgen.
+    
+    !(left)/image/hacking/ah-recepten-greasemonkey.jpg! Met het
+    "ah-recipe":/files/ah-recipe.user.js
+    "Greasemonkey-script":http://nl.wikipedia.org/wiki/Greasemonkey kan je je
+    browser dit laten fixen en dan krijg je gewoon de snelcode weer op je
+    scherm te zien.
+
+  "@hard_breaks": false

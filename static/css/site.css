@@ -1,0 +1,131 @@
+/* * { margin: 0; padding: 0; } */
+
+html, body { margin: 0; padding: 0; background: #eee; }
+
+body {
+  line-height: 1.5em;
+  font: normal 100% Helvetica, Arial, sans-serif;
+  min-width: 960px;
+  padding: 10pt;
+}
+
+#page { line-height: 1.5em; }
+
+#banner { border: thin solid white; }
+#banner a, #blog .entryTitle a { text-decoration: none; }
+#banner h1 { font-size: 100%; margin-top: 1.5em; margin-bottom: -0.1em; }
+#banner h1 .title { font-size: 3em; }
+#banner h1 .tagline { font-size: 0.9em; display: block; float: right; font-style: italic; }
+
+h2 { font-size: 1.25em; margin-top: 0.7em; }
+h3 { font-size: 1.15em; }
+h4 { font-size: 1.05em; }
+
+#page {
+  border: thin solid #ddd;
+  margin: 0 auto;
+  padding: 0 16px;
+  width: 940px;
+  background: white url('../image/bg-gradient.png') repeat-x bottom;
+  -webkit-border-radius: 1em;
+}
+
+#content {
+}
+
+#sidebar {
+  float: right;
+  width: 380px;
+}
+
+#sidebarLeft { float: left; width: 220px; }
+#sidebarRight { float: right; width: 140px; }
+#sidebarWide { clear: both; }
+
+#blog {
+  float: left;
+  width: 540px;
+  text-align: justify;
+}
+
+#blog.wide {
+  width: 100%;
+}
+
+#blog .entry, #sidebar .sidebarBox, #footer {
+  border-top: thin solid black;
+  padding-top: 1em;
+}
+
+#blog .entry * { max-width: 540px; }
+#blog.wide .entry * { max-width: 940px; }
+
+#blog .entry .tweetDate { font-size: 80%; }
+
+#blog .entryTitle {
+  text-align: left;
+}
+
+#blog .entryFooter {
+  text-align: right;
+  font-size: 0.9em;
+  clear: both;
+}
+
+#footer {
+  clear: both;
+  text-align: center;
+}
+
+a:visited { color: #990000; }
+a { color: #000099; }
+
+a img { border: none; }
+
+img.thumbnail { margin-bottom: -4em; }
+img.left { float: left; margin-right: 1em }
+img.right { float: right; margin-left: 1em }
+img.border { border: 3pt solid #990000; }
+
+div.center, p.center { text-align: center; }
+
+blockquote {
+  border-left: 3pt solid #990000;
+  border-right: 3pt solid #990000;
+  padding: 0 1em;
+  margin: 0 1em;
+  background: #eee;
+  text-align: left;
+  font-family: Georgia, serif;
+}
+
+span.prev-link { float: left; }
+span.next-link { }
+
+#tweet { margin: 0; padding: 0; font-size: 0.8em; overflow: hidden; }
+#tweet .date { display: none; }
+#tweet .name { }
+#tweet .text { }
+#tweet .permalink { display: block; text-align: right; }
+
+#sidebar #sidebarAbout { text-align: justify; } 
+
+#sidebar #sidebarLinks ul li, 
+  #sidebar #sidebarSyndicate ul li, 
+  #sidebar #sidebarFeatured ul li, 
+  #sidebar #sidebarArchive ol li { display: block; }
+
+#sidebar .sidebarBox ul, 
+  #sidebar .sidebarBox ol { padding: 0; }
+
+/* #sidebarTagList .tag span { display: none;  }
+#sidebarTagList ul { padding: 0; text-align: center; font-size: 1.5em; ; }
+#sidebarTagList ul li { display: inline; } */
+
+#sidebarDisqus ul.dsq-widget-list { padding: 0; font-size: 0.8em; }
+
+table.schaatstijden { width: 100%; }
+
+#tagList { text-align: center; }
+#tagList li { display: none; }
+

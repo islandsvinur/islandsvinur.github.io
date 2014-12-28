@@ -1,0 +1,5 @@
+--- !hobix.com,2004/entry 
+title: Fluids, now with isolines!
+author: christian
+content: <p><img src="http://luijten.org/image/bytesmall.png" alt="" /> And we&#8217;re already two weeks later! Today I hacked together isolines in Fluids, based on a <a href="http://local.wasp.uwa.edu.au/~pbourke/papers/conrec/">paper published in Byte magazine in July 1987</a>.</p> 	<p>So, there it is, for Mac <span class="caps">OS X</span> in PowerPC and Intel glory:</p> 	<ul> 	<li><a href="http://luijten.org/files/fluids/Fluids-i386-0.0.2.dmg">Fluids 0.0.2 Intel version</a></li> 	<li><a href="http://luijten.org/files/fluids/Fluids-powerpc-0.0.2.dmg">Fluids 0.0.2 PowerPC version</a></li> 	</ul> 	<p>And, another anouncement, over at <a href="http://nogates.nl/">nogates.nl</a> I set up a <a href="http://trac.edgewall.com/">Trac</a> page for the <a href="http://nogates.nl/fluids/">Fluids project</a>. There you can get the source and some more information.</p>
+created: 2007-03-19T21:14:23+01:00

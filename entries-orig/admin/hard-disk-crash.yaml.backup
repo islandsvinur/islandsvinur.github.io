@@ -1,0 +1,14 @@
+--- !hobix.com,2004/entry 
+title: Hard Disk Crash
+created: 2008-10-09 11:21:10 +02:00
+updated: 2008-10-10 19:53:24 +02:00
+tags: 
+- shit
+author: christian
+content: !str:RedCloth::TextileDoc |
+  Nee, geen Wall Street Crash. De schijf van m'n laptop heeft het niet overleefd en de backup die ik had, heb ik gesloopt voordat ik hem terug kon zetten. 
+  
+  Helaas stond ook de bron van deze site op de schijf en die ben ik nu dus kwijt. Gelukkig daarentegen heb ik wel nog alle XML bestanden e.d., dus ik moet in staat zijn de hele site weer werkend te krijgen, maar dat duurt dus nog wel even. Voorlopig dus even geen updates hier :(
+  
+  *Update*: Ik heb gisteravond even lekker met Ruby, de XMLs en YAML gestoeid en het gevolg is dat ik vrijwel alles heb kunnen herstellen. Bijna alles, want als je op de website zelf kijkt zie je wel dat er het een en ander mist, zoals opmaak.
+

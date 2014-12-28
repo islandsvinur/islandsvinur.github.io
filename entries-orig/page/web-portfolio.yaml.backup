@@ -1,0 +1,12 @@
+--- !hobix.com,2004/entry 
+title: Web Portfolio
+created: 2008-10-15 10:43:51 +02:00
+updated: 2008-10-15 10:43:51 +02:00
+author: christian
+content: !str:RedCloth::TextileDoc 
+  str: |
+    A selection of the websites I created in the past few years.
+    
+    <a href="../image/web-portfolio/cib-w096-large.jpg" rel="lightbox" title="CIB-W096 Architectural Management">!../image/web-portfolio/cib-w096-small.jpg!</a>
+
+  "hard_breaks": false

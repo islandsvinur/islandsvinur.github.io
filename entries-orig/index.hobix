@@ -1,0 +1,1844 @@
+--- !omap 
+- walibi-noord-korea-style: !ruby/object:Hobix::IndexEntry 
+    title: Walibi, Noord-Korea-style
+    created: 2011-01-23 22:57:51 +01:00
+    modified: &id001 2011-01-24 22:35:55 +01:00
+    updated: *id001
+    tags: []
+
+- gelukkig-2011: !ruby/object:Hobix::IndexEntry 
+    title: Gelukkig 2011!
+    created: 2011-01-05 20:18:53 +01:00
+    modified: &id002 2011-01-05 20:18:53 +01:00
+    updated: *id002
+    tags: []
+
+- nieuwe-fotosite: !ruby/object:Hobix::IndexEntry 
+    title: Nieuwe Fotosite
+    created: 2010-09-15 23:29:04 +02:00
+    modified: &id003 2010-09-15 23:31:45 +02:00
+    updated: *id003
+    tags: 
+    - foto's
+- apple/mac-mini-2010: !ruby/object:Hobix::IndexEntry 
+    title: Mac mini
+    created: 2010-06-15 13:07:17 +02:00
+    modified: &id004 2010-06-15 13:08:45 +02:00
+    updated: *id004
+    tags: 
+    - apple
+    - mac-mini
+- roken-en-de-vuvuzela: !ruby/object:Hobix::IndexEntry 
+    title: Roken en de Vuvuzela
+    created: 2010-06-14 21:24:03 +02:00
+    modified: &id005 2010-06-16 18:18:32 +02:00
+    updated: *id005
+    tags: []
+
+- apple/de-keynote-2010: !ruby/object:Hobix::IndexEntry 
+    title: "D\xC3\xA9 keynote van 2010?"
+    created: 2010-06-07 22:47:06 +02:00
+    modified: &id006 2010-06-07 22:49:49 +02:00
+    updated: *id006
+    tags: 
+    - apple
+    - iphone
+- web-stuff/atlas-van-geotaggers: !ruby/object:Hobix::IndexEntry 
+    title: Een atlas van stedelijke geotaggers
+    created: 2010-05-26 21:47:12 +02:00
+    modified: &id007 2010-08-19 19:38:43 +02:00
+    updated: *id007
+    tags: 
+    - web-stuff
+    - cartografie
+    - visualisatie
+- ijsland/prachtige-time-lapse-van-eyjafjallajokull: !ruby/object:Hobix::IndexEntry 
+    title: "Prachtige time lapse van Eyjafjallaj\xC3\xB6kull"
+    created: 2010-05-18 21:41:45 +02:00
+    modified: &id008 2010-08-19 19:34:16 +02:00
+    updated: *id008
+    tags: 
+    - ijsland
+- web-stuff/quit-facebook-day: !ruby/object:Hobix::IndexEntry 
+    title: Quit Facebook Day
+    created: 2010-05-18 08:43:09 +02:00
+    updated: 2010-05-18 21:27:25 +02:00
+    tags: 
+    - web-stuff
+- hacking/scwcd: !ruby/object:Hobix::IndexEntry 
+    title: En ook certificaat nummer twee is binnen!
+    created: 2010-04-12 17:13:24 +02:00
+    modified: &id009 2010-05-26 22:10:34 +02:00
+    updated: *id009
+    tags: 
+    - hacking
+    - java
+- hypotheekrenteaftrek: !ruby/object:Hobix::IndexEntry 
+    title: "Volwassen praat: Hypotheekrenteaftrek"
+    created: 2010-03-31 20:40:50 +02:00
+    updated: 2010-03-31 21:29:54 +02:00
+    tags: 
+    - volwassen praat
+- sport/hoezo-schaatsen-is-een-saaie-sport: !ruby/object:Hobix::IndexEntry 
+    title: Hoezo "Schaatsen is een saaie sport"?
+    created: 2010-03-22 20:18:52 +01:00
+    updated: 2010-03-22 20:20:55 +01:00
+    tags: 
+    - sport
+- web-stuff/brekend-piraterij-zorgt-niet-voor-lager-bioscoopbezoek: !ruby/object:Hobix::IndexEntry 
+    title: "Brekend: Piraterij heeft geen direct negatieve invloed op bioscoopbezoek"
+    created: 2010-02-11 20:38:57 +01:00
+    updated: 2010-02-11 20:39:11 +01:00
+    tags: 
+    - web-stuff
+    - piraterij
+- privacy-in-het-openbaar-vervoer: !ruby/object:Hobix::IndexEntry 
+    title: Privacy in het openbaar vervoer
+    created: 2010-02-10 19:47:26 +01:00
+    updated: 2010-02-10 19:53:22 +01:00
+    tags: 
+    - privacy
+    - ov-chipkaart
+- apple/ipad-bashing: !ruby/object:Hobix::IndexEntry 
+    title: iPad Bashing
+    created: 2010-02-01 22:12:50 +01:00
+    updated: 2010-02-01 23:21:09 +01:00
+    tags: 
+    - apple
+    - ipad
+- ijsland/betalen-of-niet: !ruby/object:Hobix::IndexEntry 
+    title: "Icesave: Betalen of Niet?"
+    created: 2010-01-13 22:24:21 +01:00
+    updated: 2010-01-14 19:25:19 +01:00
+    tags: 
+    - ijsland
+- reizen/joanne-lumley-in-the-land-of-the-northern-lights: !ruby/object:Hobix::IndexEntry 
+    title: Joanne Lumley in the Land of the Northern Lights
+    created: 2010-01-08 20:03:18 +01:00
+    updated: 2010-01-08 20:03:50 +01:00
+    tags: 
+    - reizen
+    - ijsland
+    - noorwegen
+- voorspoedig-2010: !ruby/object:Hobix::IndexEntry 
+    title: Voorspoedig 2010!
+    created: 2010-01-05 17:17:51 +01:00
+    updated: 2010-01-07 20:31:10 +01:00
+    tags: []
+
+- web-stuff/gowalla: !ruby/object:Hobix::IndexEntry 
+    title: Gowalla
+    created: 2009-12-03 22:34:54 +01:00
+    updated: 2009-12-03 22:35:36 +01:00
+    tags: 
+    - web-stuff
+- apple/iets-schrijven-over-apple: !ruby/object:Hobix::IndexEntry 
+    title: Iets schrijven over Apple
+    created: 2009-11-02 19:58:11 +01:00
+    updated: 2009-11-03 14:06:20 +01:00
+    tags: 
+    - apple
+- sport/schaatsseizoen-2009-2010: !ruby/object:Hobix::IndexEntry 
+    title: Schaatsseizoen 2009-2010 is begonnen!
+    created: 2009-10-11 19:14:29 +02:00
+    updated: 2009-10-12 22:52:00 +02:00
+    tags: 
+    - sport
+- hacking/scjp: !ruby/object:Hobix::IndexEntry 
+    title: Sun Certified Java Programmer
+    created: 2009-10-05 21:09:02 +02:00
+    modified: &id010 2010-05-26 22:10:24 +02:00
+    updated: *id010
+    tags: 
+    - hacking
+    - java
+- web-stuff/_why-is-kwijt: !ruby/object:Hobix::IndexEntry 
+    title: _why is Kwijt
+    created: 2009-08-19 22:01:30 +02:00
+    updated: 2009-08-20 22:27:32 +02:00
+    tags: 
+    - web-stuff
+    - hacking
+- web-stuff/far-foods: !ruby/object:Hobix::IndexEntry 
+    title: Voedsel van Ver
+    created: 2009-08-11 16:35:36 +02:00
+    updated: 2009-08-11 16:38:35 +02:00
+    tags: 
+    - web-stuff
+- studie/geslaagd: !ruby/object:Hobix::IndexEntry 
+    title: Geslaagd!
+    created: 2009-06-29 21:02:41 +02:00
+    modified: &id011 2010-05-26 22:13:28 +02:00
+    updated: *id011
+    tags: 
+    - studie
+    - coffeedregs
+    - java
+- verhuisd-en-wel: !ruby/object:Hobix::IndexEntry 
+    title: Verhuisd en wel...
+    created: 2009-05-23 18:23:27 +02:00
+    updated: 2009-05-24 10:48:58 +02:00
+    tags: 
+    - samenwonen
+- we-hebben-sleutels: !ruby/object:Hobix::IndexEntry 
+    title: We hebben de sleutels!
+    created: 2009-04-15 20:21:15 +02:00
+    updated: 2009-04-15 20:22:27 +02:00
+    tags: 
+    - samenwonen
+- studie/de-laatste-loodjes: !ruby/object:Hobix::IndexEntry 
+    title: De Laatste Loodjes
+    created: 2009-04-06 11:39:20 +02:00
+    updated: 2009-04-06 15:48:05 +02:00
+    tags: 
+    - studie
+    - coffeedregs
+- ons-nieuwe-hutje: !ruby/object:Hobix::IndexEntry 
+    title: "Ons nieuwe hutje: Woningjacht voorbij!"
+    created: 2009-03-30 21:09:20 +02:00
+    updated: 2009-04-07 22:04:17 +02:00
+    tags: 
+    - samenwonen
+    - flip
+- web-stuff/ryanair-weet-zich-geen-houding-te-geven-op-internet: !ruby/object:Hobix::IndexEntry 
+    title: Ryanair weet zich geen houding te geven op internet
+    created: 2009-03-03 16:59:31 +01:00
+    updated: 2009-03-06 16:43:51 +01:00
+    tags: 
+    - web-stuff
+    - rants
+- studie/coffeedregs-in-supremum: !ruby/object:Hobix::IndexEntry 
+    title: CoffeeDregs in Supremum
+    created: 2009-03-02 23:52:56 +01:00
+    updated: 2009-04-06 15:52:25 +02:00
+    tags: 
+    - studie
+    - coffeedregs
+- apple/ugly-betty-heeft-geen-stroom-nodig: !ruby/object:Hobix::IndexEntry 
+    title: Ugly Betty heeft geen stroom nodig
+    created: 2009-02-25 21:08:02 +01:00
+    updated: 2009-04-06 15:55:31 +02:00
+    tags: 
+    - apple
+    - ugly betty
+- sport/collalbo-2009: !ruby/object:Hobix::IndexEntry 
+    title: Collalbo 2009
+    created: 2009-02-23 15:51:47 +01:00
+    updated: 2009-04-06 15:49:15 +02:00
+    tags: 
+    - sport
+    - reizen
+- studie/koffiedik-kijken: !ruby/object:Hobix::IndexEntry 
+    title: Koffiedik kijken met CoffeeDregs
+    created: 2009-01-30 12:02:35 +01:00
+    updated: 2009-02-24 22:59:41 +01:00
+    tags: 
+    - studie
+    - software
+    - java
+    - coffeedregs
+- admin/reacties-vernieuwd: !ruby/object:Hobix::IndexEntry 
+    title: Reacties vernieuwd
+    created: 2009-01-28 09:57:47 +01:00
+    updated: 2009-01-28 09:57:47 +01:00
+    tags: 
+    - admin
+- sport/chris-witty-raket-onder-de-diesels: !ruby/object:Hobix::IndexEntry 
+    title: Chris Witty - Raket onder de Diesels
+    created: 2009-01-05 10:46:13 +01:00
+    updated: 2009-02-10 12:11:18 +01:00
+    tags: 
+    - sport
+- natuurijs-december-2008: !ruby/object:Hobix::IndexEntry 
+    title: We hebben weer natuurijs!
+    created: 2009-01-02 14:02:57 +01:00
+    updated: 2009-01-03 19:56:52 +01:00
+    tags: 
+    - flip
+- gelukkig-2009: !ruby/object:Hobix::IndexEntry 
+    title: Gelukkig 2009!
+    created: 2008-12-31 13:12:46 +01:00
+    updated: 2008-12-31 13:19:52 +01:00
+    tags: []
+
+- software/paparazzi: !ruby/object:Hobix::IndexEntry 
+    title: Simpel screenshots maken van een complete webpagina
+    created: 2008-11-25 11:59:44 +01:00
+    updated: 2009-02-11 14:52:35 +01:00
+    tags: 
+    - software
+    - apple
+- web-stuff/20-jaar-internet-in-nederland: !ruby/object:Hobix::IndexEntry 
+    title: 20 Jaar Internet in Nederland
+    created: 2008-11-17 14:07:33 +01:00
+    updated: 2008-11-17 14:24:14 +01:00
+    tags: 
+    - web-stuff
+- hacking/ah-recepten-greasemonkey: !ruby/object:Hobix::IndexEntry 
+    title: Albert Heijn Recepten Greasemonkey-script
+    created: 2008-11-11 17:10:31 +01:00
+    updated: 2008-11-13 10:44:05 +01:00
+    tags: 
+    - hacking
+- op-woningjacht: !ruby/object:Hobix::IndexEntry 
+    title: Op woningjacht
+    created: 2008-11-07 12:32:15 +01:00
+    updated: 2009-03-31 17:42:21 +02:00
+    tags: 
+    - samenwonen
+- walibi-world: !ruby/object:Hobix::IndexEntry 
+    title: Walibi World
+    created: 2008-10-20 22:41:23 +02:00
+    updated: 2008-11-03 13:10:18 +01:00
+    tags: 
+    - flip
+- page/web-portfolio: !ruby/object:Hobix::IndexEntry 
+    title: Web Portfolio
+    created: 2008-10-15 10:43:51 +02:00
+    updated: 2008-10-15 10:45:48 +02:00
+    tags: 
+    - page
+- hemelrijken-gemist: !ruby/object:Hobix::IndexEntry 
+    title: Hemelrijken Gemist
+    created: 2008-10-11 15:52:01 +02:00
+    updated: 2009-01-28 11:10:37 +01:00
+    tags: 
+    - foto's
+- muziek/under-byen-in-ekko: !ruby/object:Hobix::IndexEntry 
+    title: Under Byen in Ekko
+    created: 2008-10-10 23:39:24 +02:00
+    updated: 2009-02-26 22:36:00 +01:00
+    tags: 
+    - muziek
+    - flip
+    - denemarken
+- admin/hard-disk-crash: !ruby/object:Hobix::IndexEntry 
+    title: Hard Disk Crash
+    created: 2008-10-09 11:21:10 +02:00
+    updated: 2008-10-10 19:53:36 +02:00
+    tags: 
+    - admin
+    - shit
+- lichtjesroute-2008: !ruby/object:Hobix::IndexEntry 
+    title: Lichtjesroute 2008
+    created: 2008-09-28 12:55:24 +02:00
+    updated: 2008-11-10 11:57:27 +01:00
+    tags: 
+    - flip
+- rants/stop-de-telefoongids: !ruby/object:Hobix::IndexEntry 
+    title: Stop De Telefoongids
+    created: 2008-08-26 09:32:26 +02:00
+    updated: 2009-03-06 16:42:28 +01:00
+    tags: 
+    - rants
+- studie/alle-vakken-af: !ruby/object:Hobix::IndexEntry 
+    title: Alle vakken af, ik ga koffiedik kijken!
+    created: 2008-08-15 13:42:34 +02:00
+    modified: &id012 2010-05-26 22:14:22 +02:00
+    updated: *id012
+    tags: 
+    - studie
+    - coffeedregs
+    - java
+- reizen/vakantie-in-kopenhagen: !ruby/object:Hobix::IndexEntry 
+    title: Vakantie in Kopenhagen
+    created: 2008-08-10 14:35:16 +02:00
+    updated: 2009-02-11 14:39:46 +01:00
+    tags: 
+    - reizen
+    - denemarken
+- muziek/rock-werchter-2008: !ruby/object:Hobix::IndexEntry 
+    title: Rock Werchter 2008
+    created: 2008-07-07 21:37:25 +02:00
+    updated: 2009-03-17 14:18:18 +01:00
+    tags: 
+    - muziek
+- studie/afstuderen-gestopt: !ruby/object:Hobix::IndexEntry 
+    title: Afstuderen rebooted
+    created: 2008-06-18 17:00:15 +02:00
+    updated: 2008-10-11 21:56:11 +02:00
+    tags: 
+    - studie
+- page/twitter: !ruby/object:Hobix::IndexEntry 
+    title: Who is @islandsvinur?
+    created: 2008-06-04 14:12:26 +02:00
+    updated: 2010-02-03 23:27:25 +01:00
+    tags: 
+    - page
+- sport/bestuur-het-zit-erop: !ruby/object:Hobix::IndexEntry 
+    title: Bestuur, het zit erop!
+    created: 2008-05-08 13:55:35 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- page/networks: !ruby/object:Hobix::IndexEntry 
+    title: Networks
+    created: 2008-04-25 21:48:39 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page
+- muziek/efterklang-in-ekko: !ruby/object:Hobix::IndexEntry 
+    title: Efterklang in Ekko
+    created: 2008-04-14 15:34:49 +02:00
+    updated: 2009-02-26 22:36:13 +01:00
+    tags: 
+    - muziek
+    - denemarken
+- sport/lacustris-iut-2008: !ruby/object:Hobix::IndexEntry 
+    title: Lacustris IUT 2008
+    created: 2008-03-28 16:19:51 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- page/holidays/kalmar/einde: !ruby/object:Hobix::IndexEntry 
+    title: Einde Kalmar
+    created: 2008-03-22 23:49:29 +01:00
+    updated: 2008-10-12 01:12:22 +02:00
+    tags: 
+    - page/holidays/kalmar
+- reizen/einde: !ruby/object:Hobix::IndexEntry 
+    title: Einde Kalmar
+    created: 2008-03-22 23:49:29 +01:00
+    updated: 2009-02-24 20:09:39 +01:00
+    tags: 
+    - reizen
+    - kalmar
+- page/holidays/kalmar/helsinki-2: !ruby/object:Hobix::IndexEntry 
+    title: Helsinki (2)
+    created: 2008-03-22 23:12:43 +01:00
+    updated: 2008-10-29 22:11:54 +01:00
+    tags: 
+    - page/holidays/kalmar
+- sport/skeuveltoernooi-2008: !ruby/object:Hobix::IndexEntry 
+    title: Skeuveltoernooi 2008
+    created: 2008-03-11 19:45:59 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- page/holidays/kalmar/helsinki: !ruby/object:Hobix::IndexEntry 
+    title: Helsinki
+    created: 2008-03-07 10:46:46 +01:00
+    updated: 2008-10-29 22:11:00 +01:00
+    tags: 
+    - page/holidays/kalmar
+- page/holidays/kalmar/stockholm-2: !ruby/object:Hobix::IndexEntry 
+    title: Stockholm (2)
+    created: 2008-02-29 21:09:53 +01:00
+    modified: &id013 2011-03-24 23:18:06 +01:00
+    updated: *id013
+    tags: 
+    - page/holidays/kalmar
+- sport/isis-toernooi-2008: !ruby/object:Hobix::IndexEntry 
+    title: Isistoernooi 2008
+    created: 2008-02-26 17:01:10 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- page/holidays/kalmar/stockholm: !ruby/object:Hobix::IndexEntry 
+    title: Stockholm
+    created: 2008-02-25 21:23:42 +01:00
+    updated: 2009-03-06 17:20:12 +01:00
+    tags: 
+    - page/holidays/kalmar
+- page/holidays/kalmar/trondheim-2: !ruby/object:Hobix::IndexEntry 
+    title: Trondheim (2)
+    created: 2008-02-25 15:13:18 +01:00
+    updated: 2008-10-29 22:00:53 +01:00
+    tags: 
+    - page/holidays/kalmar
+- page/holidays/kalmar/trondheim: !ruby/object:Hobix::IndexEntry 
+    title: Trondheim
+    created: 2008-02-25 14:20:01 +01:00
+    updated: 2008-10-29 22:16:08 +01:00
+    tags: 
+    - page/holidays/kalmar
+- page/holidays/kalmar/reisverslag: !ruby/object:Hobix::IndexEntry 
+    title: Reisverslag Kalmar
+    created: 2008-02-25 13:35:18 +01:00
+    updated: 2008-10-12 11:59:46 +02:00
+    tags: 
+    - page/holidays/kalmar
+- web-stuff/twitter: !ruby/object:Hobix::IndexEntry 
+    title: Twitter
+    created: 2008-02-04 09:46:23 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- web-stuff/security-fence: !ruby/object:Hobix::IndexEntry 
+    title: Security Fence
+    created: 2008-02-03 12:34:22 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- sport/vierde-iiw: !ruby/object:Hobix::IndexEntry 
+    title: Vierde IIW
+    created: 2008-01-31 00:09:21 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- reizen/tour-planning: !ruby/object:Hobix::IndexEntry 
+    title: Studiereisplanning
+    created: 2008-01-30 12:08:56 +01:00
+    updated: 2009-02-24 20:09:39 +01:00
+    tags: 
+    - reizen
+    - kalmar
+- web-stuff/de-film-van-ome-wilders: !ruby/object:Hobix::IndexEntry 
+    title: Het schijnt niet gekker te moeten worden in dit land!
+    created: 2008-01-27 12:59:44 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- film/das-wunder-von-berlin: !ruby/object:Hobix::IndexEntry 
+    title: Das Wunder Von Berlin
+    created: 2008-01-27 03:37:19 +01:00
+    updated: 2009-01-28 17:20:26 +01:00
+    tags: 
+    - film
+    - duitsland
+- taal/engelse-ziekte: !ruby/object:Hobix::IndexEntry 
+    title: Engelse ziekte
+    created: 2008-01-24 13:13:23 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - taal
+- ijsland/because-nerds-are-cool-in-iceland: !ruby/object:Hobix::IndexEntry 
+    title: ...Because Nerds Are Cool In Iceland
+    created: 2008-01-18 11:37:14 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- hacking/nodebox: !ruby/object:Hobix::IndexEntry 
+    title: NodeBox
+    created: 2008-01-18 10:04:22 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - hacking
+- ijsland/is-ijsland-de-beste-plaats-om-te-wonen: !ruby/object:Hobix::IndexEntry 
+    title: Is IJsland echt de beste plaats om te leven?
+    created: 2008-01-11 12:54:24 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- web-stuff/mark-lives-in-ikea: !ruby/object:Hobix::IndexEntry 
+    title: Mark lives in IKEA
+    created: 2008-01-10 09:41:51 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- web-stuff/planet-groen-links: !ruby/object:Hobix::IndexEntry 
+    title: Planet Groen Links
+    created: 2008-01-09 00:50:59 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- hacking/n810-speeltje: !ruby/object:Hobix::IndexEntry 
+    title: Nieuw speeltje!
+    created: 2008-01-08 00:02:25 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - hacking
+- nieuwjaarsduik-2008: !ruby/object:Hobix::IndexEntry 
+    title: Nieuwjaarsduik 2008
+    created: 2008-01-02 23:27:44 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- geek-stuff/no-error: !ruby/object:Hobix::IndexEntry 
+    title: "Error because no error occured\xE2\x80\xBD"
+    created: 2007-12-29 15:23:50 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - geek-stuff
+- ikea-drukte: !ruby/object:Hobix::IndexEntry 
+    title: IKEA-drukte
+    created: 2007-12-27 14:11:11 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- taal/schrijf-je-ijsland-of-ijsland: !ruby/object:Hobix::IndexEntry 
+    title: Schrijf je Ijsland Of IJsland?
+    created: 2007-12-27 10:19:04 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - taal
+- taal/zijn-gedachten-taal-abstract: !ruby/object:Hobix::IndexEntry 
+    title: Zijn gedachten en denken taal-abstract?
+    created: 2007-12-26 21:34:02 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - taal
+- meer-natuurijs: !ruby/object:Hobix::IndexEntry 
+    title: Meer natuurijs!
+    created: 2007-12-21 17:42:19 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- natuurijs: !ruby/object:Hobix::IndexEntry 
+    title: Whee! Natuurijs!
+    created: 2007-12-20 22:17:17 +01:00
+    updated: 2009-01-02 14:00:57 +01:00
+    tags: []
+
+- studie/ba: !ruby/object:Hobix::IndexEntry 
+    title: Kijk ma, ik ben Ba.!
+    created: 2007-12-18 12:27:18 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- studie/one-year: !ruby/object:Hobix::IndexEntry 
+    title: "E\xC3\xA9n jaar..."
+    created: 2007-11-25 12:39:15 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- web-stuff/lekken-op-vreemde-plaatsen: !ruby/object:Hobix::IndexEntry 
+    title: Lekken op vreemde plaatsen
+    created: 2007-11-19 13:12:22 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- hacking/n810-maemo-submission-accepted: !ruby/object:Hobix::IndexEntry 
+    title: N810 maemo submission accepted
+    created: 2007-11-11 07:50:19 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - hacking
+- sport/first-times: !ruby/object:Hobix::IndexEntry 
+    title: "Eindelijk: Eerste schaatstijden!"
+    created: 2007-11-08 00:24:56 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- studie/hypermedia-finished: !ruby/object:Hobix::IndexEntry 
+    title: Finally! Hypermedia Structures and Systems is Finished
+    created: 2007-10-26 09:34:12 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- geek-stuff/christian-is-designer: !ruby/object:Hobix::IndexEntry 
+    title: christian = designer
+    created: 2007-10-22 23:50:00 +02:00
+    updated: 2008-10-10 11:35:38 +02:00
+    tags: 
+    - geek-stuff
+- boek/de-stad-van-de-dromende-boeken: !ruby/object:Hobix::IndexEntry 
+    title: De Stad van de Dromende Boeken
+    created: 2007-10-14 21:59:43 +02:00
+    updated: 2009-01-28 17:20:32 +01:00
+    tags: 
+    - boek
+    - duitsland
+- web-stuff/ehrensenf-3: !ruby/object:Hobix::IndexEntry 
+    title: Ehrensenf RSS feed reborn
+    created: 2007-10-01 12:02:32 +02:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- muziek/whoa-wir-sind-helden: !ruby/object:Hobix::IndexEntry 
+    title: Whoa! Wir sind Helden in Effenaar
+    created: 2007-09-28 10:05:02 +02:00
+    updated: 2009-01-28 17:19:10 +01:00
+    tags: 
+    - muziek
+    - duitsland
+- boek/der-schrecksenmeister: !ruby/object:Hobix::IndexEntry 
+    title: Der Schrecksenmeister is here!
+    created: 2007-08-27 22:34:21 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - boek
+- admin/internet-explorer-compatible: !ruby/object:Hobix::IndexEntry 
+    title: Now also for Internet Explorer!
+    created: 2007-08-22 18:24:39 +02:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - admin
+- apple/isync-plugin-for-se-s500i: !ruby/object:Hobix::IndexEntry 
+    title: iSync Plugin for SonyEricsson S500i
+    created: 2007-08-16 16:07:31 +02:00
+    updated: 2009-03-04 12:21:04 +01:00
+    tags: 
+    - apple
+- reizen/back-from-dresden: !ruby/object:Hobix::IndexEntry 
+    title: Back from Dresden
+    created: 2007-08-07 13:59:59 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - reizen
+- ijsland/last-year-today: !ruby/object:Hobix::IndexEntry 
+    title: Last year today...
+    created: 2007-08-06 16:28:39 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- web-stuff/mahjong-considered-harmful: !ruby/object:Hobix::IndexEntry 
+    title: Mah Jongg Considered Harmful
+    created: 2007-08-04 14:48:37 +02:00
+    updated: 2009-02-25 21:53:03 +01:00
+    tags: 
+    - web-stuff
+- reizen/to-dresden: !ruby/object:Hobix::IndexEntry 
+    title: To Dresden
+    created: 2007-07-23 13:43:27 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - reizen
+- phone-kaputt: !ruby/object:Hobix::IndexEntry 
+    title: Cellphone kaputt
+    created: 2007-07-17 08:57:06 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- ijsland/spam-in-icelandic: !ruby/object:Hobix::IndexEntry 
+    title: Spam in Icelandic?
+    created: 2007-07-12 16:44:32 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- web-stuff/synchroniciteit: !ruby/object:Hobix::IndexEntry 
+    title: Synchroniciteit
+    created: 2007-07-10 16:30:24 +02:00
+    updated: 2009-01-28 17:30:24 +01:00
+    tags: 
+    - web-stuff
+- rants/one-europe-lets-start-with-the-trains: !ruby/object:Hobix::IndexEntry 
+    title: "One Europe: Let's start with the railroads"
+    created: 2007-07-08 23:32:59 +02:00
+    updated: 2009-03-06 16:49:01 +01:00
+    tags: 
+    - rants
+- page/about-islandsvinur: !ruby/object:Hobix::IndexEntry 
+    title: "Over de naam \xC3\x8Dslandsvinur"
+    created: 2007-07-05 14:28:26 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page
+- sport/summer-ice: !ruby/object:Hobix::IndexEntry 
+    title: Summer ice in Thialf
+    created: 2007-07-02 20:11:28 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- arthurs-seat-panorama: !ruby/object:Hobix::IndexEntry 
+    title: Arthur's Seat panorama
+    created: 2007-06-28 16:31:29 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- ijsland/reykjavik-to-rotterdam: !ruby/object:Hobix::IndexEntry 
+    title: "Reykjav\xC3\xADk To Rotterdam"
+    created: 2007-06-10 20:49:50 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- muziek/anneke-leaving-the-gathering: !ruby/object:Hobix::IndexEntry 
+    title: Anneke van Giersbergen leaving The Gathering
+    created: 2007-06-08 08:47:10 +02:00
+    updated: 2008-10-09 10:58:07 +02:00
+    tags: 
+    - muziek
+- ijsland/maistjarnan: !ruby/object:Hobix::IndexEntry 
+    title: "Ma\xC3\xADstjarnan"
+    created: 2007-05-25 10:59:23 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- web-stuff/making-a-wordpress-blog-static: !ruby/object:Hobix::IndexEntry 
+    title: Making a static copy of a Wordpress blog
+    created: 2007-05-22 15:16:56 +02:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- admin/migration-success: !ruby/object:Hobix::IndexEntry 
+    title: Migration successful
+    created: 2007-05-22 08:40:51 +02:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - admin
+- page/tips: !ruby/object:Hobix::IndexEntry 
+    title: Tips
+    created: 2007-05-21 15:38:05 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page
+- web-stuff/een-32-jarige-vrouw-keek-afgelopen-weekeinde-raar-op: !ruby/object:Hobix::IndexEntry 
+    title: Een 32-jarige vrouw keek afgelopen weekeinde raar op
+    created: 2007-05-15 19:18:24 +02:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- from-cultur-to-kommerz: !ruby/object:Hobix::IndexEntry 
+    title: From Cultur to Commerz
+    created: 2007-05-14 07:43:17 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- rivella-2: !ruby/object:Hobix::IndexEntry 
+    title: Rivella coming to Europe!
+    created: 2007-05-11 14:46:12 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- ijsland/a-sprengisandi: !ruby/object:Hobix::IndexEntry 
+    title: "Go Mentos \xC3\xA1 Sprengisandi"
+    created: 2007-04-28 11:46:02 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- bike: !ruby/object:Hobix::IndexEntry 
+    title: Bike
+    created: 2007-04-26 22:28:30 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- rss-why-2: !ruby/object:Hobix::IndexEntry 
+    title: RSS, two and a half years later
+    created: 2007-04-23 08:59:13 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- ijsland/tjornin-panorama: !ruby/object:Hobix::IndexEntry 
+    title: "Tj\xC3\xB6rnin panorama"
+    created: 2007-04-22 16:30:46 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- ijsland/jokulsarlon-panorama-2: !ruby/object:Hobix::IndexEntry 
+    title: "J\xC3\xB6kuls\xC3\xA1rl\xC3\xB3n panorama revisited"
+    created: 2007-04-22 15:58:29 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- ijsland/gullfoss-panorama: !ruby/object:Hobix::IndexEntry 
+    title: Gullfoss panorama
+    created: 2007-04-22 13:18:24 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- hyves: !ruby/object:Hobix::IndexEntry 
+    title: Hyves
+    created: 2007-04-21 13:27:48 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- reizen/drawn: !ruby/object:Hobix::IndexEntry 
+    title: Drawn! I'm going on the study tour
+    created: 2007-04-21 09:09:51 +02:00
+    updated: 2009-02-24 20:09:39 +01:00
+    tags: 
+    - reizen
+    - kalmar
+- studie/visualization-5: !ruby/object:Hobix::IndexEntry 
+    title: "Visualization finished - V\xC3\xB6kvar 1.0.0 released!"
+    created: 2007-04-16 22:41:39 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- ijsland/kleinur: !ruby/object:Hobix::IndexEntry 
+    title: Kleinur
+    created: 2007-04-12 21:21:02 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- rants/punt-ennel-en-snel: !ruby/object:Hobix::IndexEntry 
+    title: Punt ennel en snel!
+    created: 2007-04-12 08:11:08 +02:00
+    updated: 2009-03-06 16:43:07 +01:00
+    tags: 
+    - rants
+- light-pollution: !ruby/object:Hobix::IndexEntry 
+    title: Lichtvervuiling
+    created: 2007-04-03 21:59:01 +02:00
+    updated: 2009-02-25 21:41:17 +01:00
+    tags: 
+    - ijsland
+- ijsland/jokulsarlon-panorama: !ruby/object:Hobix::IndexEntry 
+    title: "J\xC3\xB6kuls\xC3\xA1rl\xC3\xB3n panorama"
+    created: 2007-04-03 15:20:30 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- apple/command-key-sign: !ruby/object:Hobix::IndexEntry 
+    title: "So, how did the command key get this \xE2\x8C\x98 next to the \xEF\xA3\xBF?"
+    created: 2007-03-31 21:43:56 +02:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - apple
+- web-stuff/palast-der-republik: !ruby/object:Hobix::IndexEntry 
+    title: Das Palast der Republik
+    created: 2007-03-28 16:01:47 +02:00
+    updated: 2009-02-24 20:02:35 +01:00
+    tags: 
+    - web-stuff
+- page/articles/geometric-algorithms: !ruby/object:Hobix::IndexEntry 
+    title: Geometric Algorithms
+    created: 2007-03-26 14:17:00 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/articles
+- studie/visualization-4: !ruby/object:Hobix::IndexEntry 
+    title: Fluids 0.1.0 Equinox
+    created: 2007-03-20 17:39:49 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- studie/visualization-3: !ruby/object:Hobix::IndexEntry 
+    title: Fluids, now with isolines!
+    created: 2007-03-19 21:14:23 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- hunting-your-own-food: !ruby/object:Hobix::IndexEntry 
+    title: Hunting your own food
+    created: 2007-03-15 14:58:20 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- sport/speed-skating-4: !ruby/object:Hobix::IndexEntry 
+    title: The skating rink is closed, and so is the season
+    created: 2007-03-09 09:28:19 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- studie/visualization-2: !ruby/object:Hobix::IndexEntry 
+    title: "Fluids: My First OS X Application release"
+    created: 2007-03-05 23:40:21 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- geek-stuff/fosdem-2007: !ruby/object:Hobix::IndexEntry 
+    title: FOSDEM 2007
+    created: 2007-03-01 09:24:23 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - geek-stuff
+- web-stuff/ehrensenf-2: !ruby/object:Hobix::IndexEntry 
+    title: Ehrensenf & RSS
+    created: 2007-02-20 11:59:32 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- web-stuff/ehrensenf: !ruby/object:Hobix::IndexEntry 
+    title: Ehrensenf
+    created: 2007-02-19 13:17:21 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- ijsland/icelandic-euros: !ruby/object:Hobix::IndexEntry 
+    title: Icelandic euros?
+    created: 2007-02-15 16:57:00 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- taal/genitivus: !ruby/object:Hobix::IndexEntry 
+    title: The genitive is in grave danger
+    created: 2007-02-14 22:46:17 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - taal
+- sport/speed-skating-3: !ruby/object:Hobix::IndexEntry 
+    title: Speed skating and the goal for the end of this season
+    created: 2007-02-12 20:22:05 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- muziek/u2-stay-faraway-so-close: !ruby/object:Hobix::IndexEntry 
+    title: U2 - Stay (Faraway, So Close!)
+    created: 2007-02-11 21:50:02 +01:00
+    updated: 2008-10-09 10:58:07 +02:00
+    tags: 
+    - muziek
+- apple/steve-jobs-on-drm: !ruby/object:Hobix::IndexEntry 
+    title: Steve Jobs on DRM
+    created: 2007-02-06 23:02:37 +01:00
+    updated: 2009-02-26 23:42:54 +01:00
+    tags: 
+    - apple
+- reizen/first-information-meeting: !ruby/object:Hobix::IndexEntry 
+    title: First information meeting of Kalmar
+    created: 2007-02-06 15:31:45 +01:00
+    updated: 2010-01-08 20:10:16 +01:00
+    tags: 
+    - reizen
+    - kalmar
+    - noorwegen
+    - zweden
+    - finland
+- web-stuff/ikea-hacker: !ruby/object:Hobix::IndexEntry 
+    title: IKEA Hacker
+    created: 2007-02-05 09:47:56 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- reizen/back-to-berlin: !ruby/object:Hobix::IndexEntry 
+    title: Back to Berlin
+    created: 2007-02-02 15:25:10 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - reizen
+- sport/speed-skating-2: !ruby/object:Hobix::IndexEntry 
+    title: News from the skating rink
+    created: 2007-01-31 22:01:11 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- page/curriculum-vitae: !ruby/object:Hobix::IndexEntry 
+    title: Curriculum Vitae
+    created: 2007-01-16 11:23:20 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page
+- ijsland/UurtjeIJsland05DeAllerAllerLaatste: !ruby/object:Hobix::IndexEntry 
+    title: "Uurtje IJsland #05: De Aller Allerlaatste"
+    created: 2007-01-06 17:55:43 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- geek-stuff/unicode-mess: !ruby/object:Hobix::IndexEntry 
+    title: Unicode mess
+    created: 2006-12-27 23:41:38 +01:00
+    updated: 2009-03-06 16:51:19 +01:00
+    tags: 
+    - geek-stuff
+    - rants
+- web-stuff/boten-anna: !ruby/object:Hobix::IndexEntry 
+    title: Boten Anna
+    created: 2006-12-22 12:07:56 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- ijsland/VijfMinuutjesIJsland02AuroraBorealisOpSnfellsnes: !ruby/object:Hobix::IndexEntry 
+    title: "Vijf minuutjes IJsland #02: Aurora Borealis op Sn\xC3\xA6fellsnes"
+    created: 2006-10-27 01:08:37 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- ijsland/UurtjeIJsland04ChristianGooitVanallesBijElkaar: !ruby/object:Hobix::IndexEntry 
+    title: "Uurtje IJsland #04: Christian gooit vanalles bij elkaar"
+    created: 2006-09-01 18:55:43 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- admin/iceland-blog-off-planet: !ruby/object:Hobix::IndexEntry 
+    title: Iceland Blog moved off Planet
+    created: 2006-08-26 18:41:58 +02:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - admin
+- holidays-2006: !ruby/object:Hobix::IndexEntry 
+    title: Holidays 2006
+    created: 2006-07-22 09:41:51 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: []
+
+- ijsland/VijfMinuutjesIJsland01: !ruby/object:Hobix::IndexEntry 
+    title: "Vijf minuutjes IJsland #01"
+    created: 2006-07-19 12:41:35 +02:00
+    updated: 2009-04-07 16:10:39 +02:00
+    tags: 
+    - ijsland
+- apple/changing-apps: !ruby/object:Hobix::IndexEntry 
+    title: Changing Apps
+    created: 2006-07-19 10:28:55 +02:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - apple
+- web-stuff/centraal-beheer-doet-het-weer: !ruby/object:Hobix::IndexEntry 
+    title: Centraal Beheer doet het weer
+    created: 2006-06-17 21:01:26 +02:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- apple/macbook-experiences: !ruby/object:Hobix::IndexEntry 
+    title: MacBook experiences
+    created: 2006-06-11 10:43:14 +02:00
+    updated: 2009-02-24 18:16:27 +01:00
+    tags: 
+    - apple
+    - macbook
+- apple/switch-back: !ruby/object:Hobix::IndexEntry 
+    title: Switch back
+    created: 2006-05-26 11:58:41 +02:00
+    updated: 2009-02-24 18:16:36 +01:00
+    tags: 
+    - apple
+    - macbook
+- gps-walk: !ruby/object:Hobix::IndexEntry 
+    title: GPS Walk
+    created: 2006-05-23 10:52:57 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- ijsland/UurtjeIJsland03ChristianCastVoorDeLaatsteKeerPodmuziek: !ruby/object:Hobix::IndexEntry 
+    title: "Uurtje IJsland #03: Christian cast voor de laatste keer podmuziek"
+    created: 2006-05-22 01:31:29 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- muziek/fellowship-of-the-ring-complete-recordings: !ruby/object:Hobix::IndexEntry 
+    title: "Fellowship of the Ring: Complete Recordings"
+    created: 2006-05-13 22:51:33 +02:00
+    updated: 2008-10-09 10:58:07 +02:00
+    tags: 
+    - muziek
+- ijsland/UurtjeIJsland02ChristianCastTochNogEenKeerPod: !ruby/object:Hobix::IndexEntry 
+    title: "Uurtje IJsland #02: Christian cast toch nog een keer Pod"
+    created: 2006-05-10 23:11:56 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- ijsland/UurtjeIJsland01ChristianCastVoornKeerPod: !ruby/object:Hobix::IndexEntry 
+    title: "Uurtje IJsland #01: Christian cast voor \xC3\xA9\xC3\xA9n keer Pod"
+    created: 2006-04-30 14:51:55 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- medieval-award-2005: !ruby/object:Hobix::IndexEntry 
+    title: Received my Medieval Award 2005
+    created: 2006-04-28 19:17:10 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- web-stuff/bieslog-tunneltje: !ruby/object:Hobix::IndexEntry 
+    title: Bieslog's tunneltje
+    created: 2006-04-24 23:50:15 +02:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- film/serenity-to-be-first-hd-dvd: !ruby/object:Hobix::IndexEntry 
+    title: Serenity to be Universal's first HD-DVD
+    created: 2006-04-12 06:41:03 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - film
+- schumacher-alt: !ruby/object:Hobix::IndexEntry 
+    title: Schumacher Alt
+    created: 2006-04-06 23:49:17 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- studie/trimester-4.3: !ruby/object:Hobix::IndexEntry 
+    title: Trimester 4.3
+    created: 2006-04-04 21:02:53 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- rivella: !ruby/object:Hobix::IndexEntry 
+    title: Rivella
+    created: 2006-04-04 20:45:10 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- interactive-flies: !ruby/object:Hobix::IndexEntry 
+    title: Rico's interactive flies
+    created: 2006-03-23 22:38:32 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- web-stuff/slimme-marketing-simyo: !ruby/object:Hobix::IndexEntry 
+    title: Slimme Marketing van Simyo
+    created: 2006-03-19 16:59:12 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - web-stuff
+- ijsland/new-blog: !ruby/object:Hobix::IndexEntry 
+    title: New Blog
+    created: 2006-03-14 19:43:50 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- muziek/kaizers-orchestra-in-effenaar: !ruby/object:Hobix::IndexEntry 
+    title: Kaizers Orchestra In Effenaar
+    created: 2006-03-13 18:02:03 +01:00
+    updated: 2008-10-09 10:58:07 +02:00
+    tags: 
+    - muziek
+- studie/visualization-1: !ruby/object:Hobix::IndexEntry 
+    title: Visualization
+    created: 2006-03-05 00:11:50 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- apple/finally-linux: !ruby/object:Hobix::IndexEntry 
+    title: "Finally: Almost full Switch to Linux"
+    created: 2006-03-02 15:31:53 +01:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- carnaval-2006: !ruby/object:Hobix::IndexEntry 
+    title: Carnaval 2006
+    created: 2006-03-02 13:06:09 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- reizen/back-from-edinburgh: !ruby/object:Hobix::IndexEntry 
+    title: Back from Edinburgh (and more)
+    created: 2006-02-23 14:57:42 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - reizen
+- reizen/preparing-for-edinburgh: !ruby/object:Hobix::IndexEntry 
+    title: Preparing For Edinburgh
+    created: 2006-01-20 08:04:38 +01:00
+    updated: 2008-10-09 10:58:10 +02:00
+    tags: 
+    - reizen
+- page/about-logging-the-switch: !ruby/object:Hobix::IndexEntry 
+    title: Over dit weblog
+    created: 2006-01-05 23:41:47 +01:00
+    updated: 2009-02-26 23:18:52 +01:00
+    tags: 
+    - page
+- happy-2006: !ruby/object:Hobix::IndexEntry 
+    title: Happy 2006!
+    created: 2006-01-02 19:44:33 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- studie/trimester-4.2: !ruby/object:Hobix::IndexEntry 
+    title: Trimester 4.2
+    created: 2005-12-29 09:42:00 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- film/firefly-good-bye: !ruby/object:Hobix::IndexEntry 
+    title: Good bye, Firefly
+    created: 2005-12-20 22:47:15 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - film
+- page/articles/advanced-algorithms: !ruby/object:Hobix::IndexEntry 
+    title: Advanced Algorithms
+    created: 2005-12-20 11:18:30 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/articles
+- del.icio.us: !ruby/object:Hobix::IndexEntry 
+    title: Del.icio.us
+    created: 2005-12-17 15:17:21 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- geek-stuff/utopia-hcc-2005: !ruby/object:Hobix::IndexEntry 
+    title: Utopia HCC Dagen 2005
+    created: 2005-11-27 23:32:02 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - geek-stuff
+- first-snow-2005: !ruby/object:Hobix::IndexEntry 
+    title: First snow of Winter 2005/2006
+    created: 2005-11-25 21:18:33 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- muziek/sigur-ros-in-013-3: !ruby/object:Hobix::IndexEntry 
+    title: "Sigur R\xC3\xB3s in 013: Breathtaking"
+    created: 2005-11-16 00:57:36 +01:00
+    updated: 2009-02-11 14:19:37 +01:00
+    tags: 
+    - muziek
+    - ijsland
+- ijsland/iceland-report-american-style: !ruby/object:Hobix::IndexEntry 
+    title: "Read on Iceland Report: American Style"
+    created: 2005-11-14 15:44:23 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - ijsland
+- muziek/sigur-ros-in-013-2: !ruby/object:Hobix::IndexEntry 
+    title: "Sigur R\xC3\xB3s spotting"
+    created: 2005-11-10 13:31:22 +01:00
+    updated: 2009-02-11 14:19:27 +01:00
+    tags: 
+    - muziek
+    - ijsland
+- page/articles/interactive-virtual-environments: !ruby/object:Hobix::IndexEntry 
+    title: Immersion and Presence in Virtual Environments
+    created: 2005-11-04 20:10:22 +01:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/articles
+- sport/began-speed-skating: !ruby/object:Hobix::IndexEntry 
+    title: Began Speed Skating
+    created: 2005-11-01 21:13:43 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - sport
+- physics-of-alien-civs: !ruby/object:Hobix::IndexEntry 
+    title: The Physics of Alien Civilizations
+    created: 2005-10-26 18:25:50 +02:00
+    updated: 2009-02-11 14:33:47 +01:00
+    tags: 
+    - wetenschap
+- page/study: !ruby/object:Hobix::IndexEntry 
+    title: Study
+    created: 2005-10-22 09:37:31 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page
+- design-academy-graduation-2005: !ruby/object:Hobix::IndexEntry 
+    title: Visited Graduation 2005 at the Design Academy
+    created: 2005-10-21 22:01:18 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- muziek/sigur-ros-in-013: !ruby/object:Hobix::IndexEntry 
+    title: "Sigur R\xC3\xB3s in 013"
+    created: 2005-10-20 11:39:49 +02:00
+    updated: 2009-02-11 14:19:17 +01:00
+    tags: 
+    - muziek
+    - ijsland
+- page/articles/parallel-programming: !ruby/object:Hobix::IndexEntry 
+    title: Parallel Programming
+    created: 2005-10-11 13:14:32 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/articles
+- page/articles/information-security: !ruby/object:Hobix::IndexEntry 
+    title: Information Security
+    created: 2005-10-11 13:02:54 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/articles
+- page/articles/concepts-of-programming-languages: !ruby/object:Hobix::IndexEntry 
+    title: Concepts of Programming Languages
+    created: 2005-10-11 12:55:48 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/articles
+- page/articles/linux-looks: !ruby/object:Hobix::IndexEntry 
+    title: Linux' Looks
+    created: 2005-10-11 12:19:10 +02:00
+    updated: 2009-02-25 21:59:07 +01:00
+    tags: 
+    - page/articles
+- strange-week: !ruby/object:Hobix::IndexEntry 
+    title: It's been a strange week
+    created: 2005-10-01 15:05:28 +02:00
+    updated: 2009-03-05 15:54:38 +01:00
+    tags: []
+
+- studie/maybe-internship-in-iceland: !ruby/object:Hobix::IndexEntry 
+    title: An internship in Iceland?
+    created: 2005-09-21 19:08:32 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- geek-stuff/utopia-7-years: !ruby/object:Hobix::IndexEntry 
+    title: Utopia 7 Years Meeting
+    created: 2005-09-21 18:59:38 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - geek-stuff
+- more-sightseeing: !ruby/object:Hobix::IndexEntry 
+    title: More sightseeing
+    created: 2005-09-04 21:00:18 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- sightseeing-berlin: !ruby/object:Hobix::IndexEntry 
+    title: Google Sightseeing Berlin
+    created: 2005-09-04 10:06:08 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- geek-stuff/google-maps-dusseldorf: !ruby/object:Hobix::IndexEntry 
+    title: "Google Maps D\xC3\xBCsseldorf goof"
+    created: 2005-09-03 09:41:06 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - geek-stuff
+- studie/trimester-4.1: !ruby/object:Hobix::IndexEntry 
+    title: Trimester 4.1
+    created: 2005-09-01 12:36:36 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- reizen/leukerbad-moved: !ruby/object:Hobix::IndexEntry 
+    title: Leukerbad posts moved from journal to archive
+    created: 2005-09-01 09:24:50 +02:00
+    updated: 2009-02-24 20:08:52 +01:00
+    tags: 
+    - reizen
+- s-hertogenbosch: !ruby/object:Hobix::IndexEntry 
+    title: "'s-Hertogenbosch"
+    created: 2005-08-28 12:55:26 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- geek-stuff/google-talks: !ruby/object:Hobix::IndexEntry 
+    title: Google talks
+    created: 2005-08-24 06:54:21 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - geek-stuff
+- admin/site-update: !ruby/object:Hobix::IndexEntry 
+    title: Site update
+    created: 2005-08-23 19:39:59 +02:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - admin
+- page/contact: !ruby/object:Hobix::IndexEntry 
+    title: Contact me
+    created: 2005-08-22 20:24:02 +02:00
+    updated: 2009-02-26 16:21:46 +01:00
+    tags: 
+    - page
+- page/links: !ruby/object:Hobix::IndexEntry 
+    title: Links
+    created: 2005-08-22 20:23:28 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page
+- harley-day-2005: !ruby/object:Hobix::IndexEntry 
+    title: Harley Day 2005
+    created: 2005-08-22 12:32:47 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- canon-eos350d: !ruby/object:Hobix::IndexEntry 
+    title: Canon EOS 350D
+    created: 2005-08-19 15:02:54 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- apple/mac-mini-3: !ruby/object:Hobix::IndexEntry 
+    title: Mac mini in the living room
+    created: 2005-08-15 17:17:17 +02:00
+    updated: 2009-02-25 21:12:58 +01:00
+    tags: 
+    - apple
+    - mac-mini
+- apple/ipod-shuffle-2: !ruby/object:Hobix::IndexEntry 
+    title: iPod shuffle on holiday
+    created: 2005-08-10 08:03:04 +02:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - apple
+- admin/new-layout: !ruby/object:Hobix::IndexEntry 
+    title: New journal layout
+    created: 2005-08-10 00:14:23 +02:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - admin
+- page/holidays/leukerbad/day-16-home: !ruby/object:Hobix::IndexEntry 
+    title: Day 16. Home!
+    created: 2005-08-09 14:52:41 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-15-leaving: !ruby/object:Hobix::IndexEntry 
+    title: Day 15. Leaving
+    created: 2005-08-08 09:01:25 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-13-visp: !ruby/object:Hobix::IndexEntry 
+    title: Day 13. Visp
+    created: 2005-08-06 17:45:28 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/about-me: !ruby/object:Hobix::IndexEntry 
+    title: Over mezelf
+    created: 2005-08-06 11:41:42 +02:00
+    modified: &id014 2011-03-24 23:15:17 +01:00
+    updated: *id014
+    tags: 
+    - page
+- page/holidays/leukerbad/day-12-aletschgletscher: !ruby/object:Hobix::IndexEntry 
+    title: Day 12. Aletschgletscher
+    created: 2005-08-05 20:22:24 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-11-weidstuebli: !ruby/object:Hobix::IndexEntry 
+    title: "Day 11. Weidst\xC3\xBCbli"
+    created: 2005-08-04 17:42:21 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-10-martigny: !ruby/object:Hobix::IndexEntry 
+    title: Day 10. Excursion to Martigny
+    created: 2005-08-03 19:52:25 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/photography: !ruby/object:Hobix::IndexEntry 
+    title: Photography
+    created: 2005-08-02 15:40:42 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page
+- page/holidays/leukerbad/day-9-the-day-after: !ruby/object:Hobix::IndexEntry 
+    title: Day 9. The day after
+    created: 2005-08-02 15:08:01 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-8-national-holiday: !ruby/object:Hobix::IndexEntry 
+    title: Day 8. Erster August-feier
+    created: 2005-08-01 22:58:03 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-7-inden: !ruby/object:Hobix::IndexEntry 
+    title: Day 7. A long walk to the nearby village Inden
+    created: 2005-08-01 10:15:05 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/confederation-cross: !ruby/object:Hobix::IndexEntry 
+    title: The Confederation Cross
+    created: 2005-07-31 20:50:21 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-5-bad-weather: !ruby/object:Hobix::IndexEntry 
+    title: Day 5. Bad weather day
+    created: 2005-07-30 11:17:06 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-4-daubensee: !ruby/object:Hobix::IndexEntry 
+    title: Day 4. Daubensee (Day 3. Dala canyon)
+    created: 2005-07-28 17:01:22 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-2-sion: !ruby/object:Hobix::IndexEntry 
+    title: Day 2. Lac Souterrain & Sion
+    created: 2005-07-26 16:59:53 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/bit-torrent: !ruby/object:Hobix::IndexEntry 
+    title: BitTorrent... A Swiss name?
+    created: 2005-07-26 10:29:26 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/day-1-arrived: !ruby/object:Hobix::IndexEntry 
+    title: Day 1. Arrival in Leukerbad
+    created: 2005-07-25 18:40:15 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- page/holidays/leukerbad/packed: !ruby/object:Hobix::IndexEntry 
+    title: Packed and ready to go...
+    created: 2005-07-23 10:26:15 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- apple/memory-upgrade: !ruby/object:Hobix::IndexEntry 
+    title: System memory upgrade
+    created: 2005-07-21 17:01:37 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- page/holidays/leukerbad/intro: !ruby/object:Hobix::IndexEntry 
+    title: Going to Leukerbad, Switzerland
+    created: 2005-07-18 12:27:30 +02:00
+    updated: 2008-10-09 10:58:08 +02:00
+    tags: 
+    - page/holidays/leukerbad
+- muziek/sigur-ros-paradiso-2: !ruby/object:Hobix::IndexEntry 
+    title: "Sigur R\xC3\xB3s in Paradiso!"
+    created: 2005-07-14 09:55:31 +02:00
+    updated: 2009-02-11 14:18:50 +01:00
+    tags: 
+    - muziek
+    - ijsland
+- studie/holidays-2005: !ruby/object:Hobix::IndexEntry 
+    title: Holidays
+    created: 2005-07-06 23:42:58 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- muziek/under-byen-det-er-mig: !ruby/object:Hobix::IndexEntry 
+    title: "Under Byen - Det Er Mig Der Holder Tr\xC3\xA6erne Sammen"
+    created: 2005-07-06 23:20:56 +02:00
+    updated: 2009-02-11 14:21:07 +01:00
+    tags: 
+    - muziek
+    - denemarken
+- muziek/efterklang-tripper: !ruby/object:Hobix::IndexEntry 
+    title: Efterklang - Tripper
+    created: 2005-07-06 22:07:02 +02:00
+    updated: 2009-02-26 22:36:26 +01:00
+    tags: 
+    - muziek
+    - denemarken
+- muziek/intro: !ruby/object:Hobix::IndexEntry 
+    title: Introduction to the music section
+    created: 2005-07-06 22:00:52 +02:00
+    updated: 2008-10-09 10:58:07 +02:00
+    tags: 
+    - muziek
+- hacking/de-schijvenaer: !ruby/object:Hobix::IndexEntry 
+    title: De Schijvenaer
+    created: 2005-07-06 21:40:22 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - hacking
+- apple/i-tunes-podcasting: !ruby/object:Hobix::IndexEntry 
+    title: iTunes 4.9 with Podcasting
+    created: 2005-06-30 17:24:25 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- admin/planet-luon: !ruby/object:Hobix::IndexEntry 
+    title: Orion back once again and Planet Luon
+    created: 2005-06-30 17:13:54 +02:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - admin
+- apple/mac-mini-2: !ruby/object:Hobix::IndexEntry 
+    title: Mac mini
+    created: 2005-05-14 15:00:45 +02:00
+    updated: 2009-02-25 21:12:52 +01:00
+    tags: 
+    - apple
+    - mac-mini
+- muziek/herman-van-veen: !ruby/object:Hobix::IndexEntry 
+    title: Herman van Veen
+    created: 2005-04-26 19:36:43 +02:00
+    updated: 2008-10-09 10:58:07 +02:00
+    tags: 
+    - muziek
+- muziek/sigur-ros-paradiso: !ruby/object:Hobix::IndexEntry 
+    title: "Sigur R\xC3\xB3s in Paradiso!"
+    created: 2005-04-09 20:38:03 +02:00
+    updated: 2009-02-11 14:18:29 +01:00
+    tags: 
+    - muziek
+    - ijsland
+- easter-at-rhein: !ruby/object:Hobix::IndexEntry 
+    title: "Happy Easter from D\xC3\xBCsseldorf"
+    created: 2005-03-29 10:36:50 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- muziek/new-media-20050316: !ruby/object:Hobix::IndexEntry 
+    title: Newest acquisitions
+    created: 2005-03-16 12:53:34 +01:00
+    updated: 2009-02-11 14:18:09 +01:00
+    tags: 
+    - muziek
+    - ijsland
+- film/movienight-20050309: !ruby/object:Hobix::IndexEntry 
+    title: Spacelabs movie night
+    created: 2005-03-11 00:51:11 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - film
+- muziek/bjork: !ruby/object:Hobix::IndexEntry 
+    title: "Bj\xC3\xB6rk - Debut"
+    created: 2005-02-22 22:28:11 +01:00
+    updated: 2009-02-11 14:17:50 +01:00
+    tags: 
+    - muziek
+    - ijsland
+- muziek/godspeed: !ruby/object:Hobix::IndexEntry 
+    title: Godspeed you! Black emperor
+    created: 2005-02-16 07:44:21 +01:00
+    updated: 2008-10-09 10:58:07 +02:00
+    tags: 
+    - muziek
+- muziek/sigur-ros: !ruby/object:Hobix::IndexEntry 
+    title: "Sigur R\xC3\xB3s"
+    created: 2005-02-12 22:20:19 +01:00
+    updated: 2009-02-11 14:17:01 +01:00
+    tags: 
+    - muziek
+    - ijsland
+- apple/ipod-shuffle-1: !ruby/object:Hobix::IndexEntry 
+    title: iPod shuffle
+    created: 2005-02-12 21:01:38 +01:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - apple
+- hacking/pinpoint-start: !ruby/object:Hobix::IndexEntry 
+    title: Pinpoint
+    created: 2005-02-12 20:39:19 +01:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - hacking
+- apple/dvi-to-tv: !ruby/object:Hobix::IndexEntry 
+    title: Shipment arrived
+    created: 2005-01-26 17:22:51 +01:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/order-status: !ruby/object:Hobix::IndexEntry 
+    title: TNT order tracking
+    created: 2005-01-24 23:32:46 +01:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - apple
+- studie/exam-over: !ruby/object:Hobix::IndexEntry 
+    title: My only end term this period is done...
+    created: 2005-01-20 19:46:45 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- apple/mac-mini-1: !ruby/object:Hobix::IndexEntry 
+    title: Apple introduces Mac mini
+    created: 2005-01-20 19:11:11 +01:00
+    updated: 2009-02-25 21:12:46 +01:00
+    tags: 
+    - apple
+    - mac-mini
+- admin/orion-back: !ruby/object:Hobix::IndexEntry 
+    title: Orion is back
+    created: 2005-01-20 19:05:53 +01:00
+    updated: 2008-10-09 10:58:05 +02:00
+    tags: 
+    - admin
+- apple/linux-installed: !ruby/object:Hobix::IndexEntry 
+    title: Installed Debian GNU/Linux!!!
+    created: 2005-01-06 23:12:09 +01:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/status: !ruby/object:Hobix::IndexEntry 
+    title: Status
+    created: 2004-12-09 21:07:50 +01:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- studie/sep-started: !ruby/object:Hobix::IndexEntry 
+    title: Software Engineering Project started
+    created: 2004-12-09 21:02:25 +01:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: 
+    - studie
+- apple/rendezvous: !ruby/object:Hobix::IndexEntry 
+    title: Rendezvous is hip!
+    created: 2004-10-30 10:31:34 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/first-linux-boot: !ruby/object:Hobix::IndexEntry 
+    title: Its first Linux boot
+    created: 2004-10-22 15:37:52 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- hacking/hackergotchi: !ruby/object:Hobix::IndexEntry 
+    title: Hackergotchi
+    created: 2004-10-20 15:26:19 +02:00
+    updated: 2008-10-09 10:58:06 +02:00
+    tags: 
+    - hacking
+- muziek/the-gathering-in-mezz: !ruby/object:Hobix::IndexEntry 
+    title: The Gathering in Mezz
+    created: 2004-10-16 17:16:57 +02:00
+    updated: 2008-10-09 10:58:07 +02:00
+    tags: 
+    - muziek
+- rss-why-1: !ruby/object:Hobix::IndexEntry 
+    title: RSS, the next big Internet thing?
+    created: 2004-10-12 00:51:37 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- apple/linux-7,3-detection: !ruby/object:Hobix::IndexEntry 
+    title: Proper detection of PowerMac7,3 (mine) by Linux
+    created: 2004-10-11 15:53:56 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/test: !ruby/object:Hobix::IndexEntry 
+    title: Debian install a no go?
+    created: 2004-09-14 23:52:48 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- sixflags: !ruby/object:Hobix::IndexEntry 
+    title: Sixflags
+    created: 2004-09-07 00:01:07 +02:00
+    updated: 2008-10-09 10:58:09 +02:00
+    tags: []
+
+- apple/problems: !ruby/object:Hobix::IndexEntry 
+    title: Problems
+    created: 2004-09-01 12:50:33 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/impressed: !ruby/object:Hobix::IndexEntry 
+    title: Impressed
+    created: 2004-08-29 13:52:56 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/first-osx-post: !ruby/object:Hobix::IndexEntry 
+    title: First OS X post
+    created: 2004-08-27 19:14:17 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/shipment-arrived: !ruby/object:Hobix::IndexEntry 
+    title: "Status: delivered"
+    created: 2004-08-27 07:31:36 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/shipment-not-to-venray: !ruby/object:Hobix::IndexEntry 
+    title: Not so bad news after all
+    created: 2004-08-25 20:05:19 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/shipment-to-venray: !ruby/object:Hobix::IndexEntry 
+    title: Bad news?
+    created: 2004-08-25 00:26:15 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/shipment-only-500-meters: !ruby/object:Hobix::IndexEntry 
+    title: Shipment is just 500 meters away!
+    created: 2004-08-23 23:35:07 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/shipment-in-netherlands: !ruby/object:Hobix::IndexEntry 
+    title: Shipment entered the Netherlands
+    created: 2004-08-23 18:14:09 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/shipment-tracking: !ruby/object:Hobix::IndexEntry 
+    title: Tracking your shipment
+    created: 2004-08-21 23:40:55 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac
+- apple/wait-end: !ruby/object:Hobix::IndexEntry 
+    title: The big wait has an end
+    created: 2004-08-20 23:40:58 +02:00
+    updated: 2009-02-24 18:24:10 +01:00
+    tags: 
+    - apple
+    - powermac

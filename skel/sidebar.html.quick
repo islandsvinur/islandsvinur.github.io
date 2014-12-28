@@ -1,0 +1,14 @@
+page: <+ sidebar +>
+sidebar: |
+  <div id="sidebar">
+    <div id="sidebarLeft">
+      <+ sidebar_list_left +>
+    </div>
+    <div id="sidebarRight">
+      <+ sidebar_list_right +>
+    </div>
+    <div id="sidebarWide">
+      <+ sidebar_list_wide +>
+    </div>
+  </div>
+

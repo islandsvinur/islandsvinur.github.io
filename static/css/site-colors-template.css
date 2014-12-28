@@ -1,0 +1,29 @@
+/* Used colors: COLOR1, COLOR2, COLOR3, COLOR4, COLOR5 */
+
+#page { background-color: COLOR2; }
+#page, #blog .dayHeader a { color: COLOR1; }
+
+#banner  a { color: COLOR1; }
+#content a, #pageFooter a { color: COLOR4; }
+
+a:hover { color: COLOR2; background: COLOR1; }
+#blog a:visited, #sidebar a:visited { color: COLOR5; }
+
+#blog div.scroll, 
+blockquote,
+.bar {
+  border-color: COLOR1;
+  background-color: COLOR3;
+}
+
+.bar, .withflag { background-color: COLOR4; }
+
+.withflag {
+  /* background-image: url('/image/header-flag.png');
+  background-position: -5px -8px; */
+  padding-left: 120px; 
+  text-align: right;
+}
+
+#banner { /* background: url('/image/background.jpg'); */ }
+

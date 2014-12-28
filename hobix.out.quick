@@ -1,0 +1,334 @@
+--- 
+doctype: |
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+
+entry_title: |
+  
+  <h2 class="entryTitle"><%= entry.title %></h2>
+  <% if entry.respond_to? :tagline and entry.tagline %><div class="entryTagline"><%= entry.tagline %></div><% end %>
+
+sidebar: |
+
+  <div id="sidebar">
+    <div id="sidebarLeft">
+      <+ sidebar_list_left +>
+    </div>
+    <div id="sidebarRight">
+      <+ sidebar_list_right +>
+    </div>
+    <div id="sidebarWide">
+      <+ sidebar_list_wide +>
+    </div>
+  </div>
+
+sidebar_disqus: |
+
+  <![if !IE]>
+    <div id="sidebarDisqus" class="sidebarBox">
+      <h2 class="sidebarTitle">Laatste reacties</h2>
+      <script src="http://disqus.com/forums/loggingtheswitch/recent_comments_widget.js?num_items=5&avatar_size=32&hide_avatars=1"></script>
+  </div>
+  <![endif]>
+
+sidebar_about: |
+
+  <div id="sidebarAbout" class="sidebarBox">
+  <h2 class="sidebarTitle">Over deze weblog</h2>
+
+  <p><strong>Logging the Switch</strong> is een weblog van <a
+  href="/page/about-me.html">Christian Luijten</a>, die in 2004 besloot dat hij
+  zou stoppen met PCs en switchen naar de Mac. In eerste instantie was het plan
+  om te switchen van Linux op de PC naar Linux op de Mac. Het werd uiteindelijk
+  een switch naar Mac OS X naar opperste tevredenheid.</p>
+    
+  <p><a href="/page/about-logging-the-switch.html">Lees verder...</a></p>
+
+  </div>
+
+sidebar_links: |
+  
+  <div id="sidebarLinks" class="sidebarBox">
+  <h2 class="sidebarTitle">Links</h2>
+  <%= weblog.linklist.content.to_html %>
+  </div>
+
+sidebar_featured: |
+  
+  <div id="sidebarFeatured" class="sidebarBox">
+  <h2 class="sidebarTitle">Populaire berichten</h2>
+  <%= weblog.featured.content.to_html %>
+  </div>
+
+sidebar_buttons: |
+
+  <div id="sidebarButtons class="sidebarBox">
+    <h2 class="sidebarTitle">Buttons en Banners</h2>
+    <div class="center">
+    <a href="http://www.stichtingcopyrightennieuwemedia.nl/" target="_blank"><img src="http://www.stichtingcopyrightennieuwemedia.nl/afbeeldingen/website260/image/button_steun_extern_klein_blauw.png" alt="" width="130" height="76" border="0"/></a>
+  </div>
+
+sidebar_tag_list: |
+
+  <div id="sidebarTagList" class="sidebarBox">
+  <h2 class="sidebarTitle">Tags</h2>
+  <ul id="tagList">
+  <% tags_list(weblog.storage.find).sort.each do |name, count| %>
+    <li class="tag" rel="tag" value="<%= count %>">
+      <a href="<%= weblog.link %>/tags/<%=name%>/" title="Er <%= count == 1 ? "is &eacute;&eacute;n bericht" : "zijn #{count} berichten" %> met deze tag"><%= name.split('/').last %></a>
+    </li>
+  <% end %>
+  </ul>
+  </div>
+
+tags: |
+
+  <%= entry.tags.map do |tag|
+    %{ <a href="#{ weblog.expand_path "/tags/#{tag}" }">#{ tag.split('/').last }</a> }
+  end.join("+") %>
+
+entry_footer: |
+  
+  <script src="http://feeds.feedburner.com/~s/logging-the-switch?i=<%= entry.link %>" type="text/javascript" charset="utf-8"></script>
+
+  geplaatst <%= entry.created.strftime( "%e.%m.%Y %H:%M" ) %>
+  <% unless entry.tags.empty? %>
+    met tag<% if entry.tags.length > 1 %>s<% end %>: <+ tags +>
+  <% end %>
+
+  <+ entry_comments +>
+
+entry_comments:
+
+  <a href="<%= entry.link %>#disqus_thread">Bekijk reacties</a>
+
+disqus_comments:
+  <div id="disqus_thread"></div>
+  <script type="text/javascript" src="http://disqus.com/forums/loggingtheswitch/embed.js"></script>
+  <!--[if IE]>
+  <a href="http://loggingtheswitch.disqus.com/?url=ref">View the discussion thread.</a>
+  <![endif]-->
+
+banner: |
+  
+  <div id="banner">
+  <h1>
+    <span class="title"><a href="<%= weblog.link %>"><%= weblog.title %></a></span>
+    <span class="tagline"><a href="http://nl.wikipedia.org/wiki/Kreatief_met_Kurk"><%= weblog.tagline %></a></span>
+  </h1>
+  </div>
+
+sidebar_archive: |
+  
+  <div class="sidebarBox" id="sidebarArchive">
+  <h2 class="sidebarTitle">Archief</h2>
+  <ol>
+  <!-- <% months = weblog.storage.get_months( weblog.storage.find ) %>
+  <% months.reverse.each do |month_start, month_end, month_id| %>
+    <li id="sidebarArchiveMonth-<%= month_start.month %>-<%= month_start.year %>" class="sidebarArchiveMonth">
+      <a href="<%= weblog.expand_path month_id %>"><%= month_start.strftime( "%B %Y" ) %></a>
+    </li> 
+  <% end %> 
+  </li> -->
+  <% year = DateTime.now.year %>
+  <% months.reverse.each do |month_start, month_end, month_id| %>
+    <% if year == month_start.year %>
+    <li id="sidebarArchiveYear-<%= year %>" class="sidebarArchiveYear">
+      <a href="<%= weblog.expand_path year.to_s %>">Jaararchief <%= year %></a>
+    </li>
+    <% year -= 1 %>
+    <% end %>
+  <% end %>
+  </ol>
+  </div>
+
+sidebar_sections: |
+
+  <div id="sidebarSections" class="sidebarBox">
+  <h2 class="sidebarTitle">Section</h2>
+  <ul>
+    <% sections = weblog.storage.get_sections %>
+  </ul>
+  </div>
+
+title: |
+  
+  &ldquo;<%= weblog.title %>&rdquo; van Christian Luijten
+
+blog: |
+ 
+  <div id="blog">
+  <+ entries +>
+  </div>
+
+feed_links:
+  <link rel='alternate' type='application/rss+xml' title='RSS 2.0 feed' href='http://feeds.feedburner.com/logging-the-switch' />
+
+head_tags: |
+
+  <+ feed_links +>
+  <script type="text/javascript" src="<%= weblog.expand_path "js/jquery-1.3.2.js" %>"></script>
+  <script type="text/javascript" src="<%= weblog.expand_path "js/jquery.tagcloud.js" %>"></script>
+  <script type="text/javascript" src="<%= weblog.expand_path "js/jquery.storytlr.js" %>"></script>
+  <script type="text/javascript" src="<%= weblog.expand_path "js/jquery.lightbox-0.5.js" %>"></script>
+  <!-- <script type="text/javascript" src="http://www.haloscan.com/load/antichris"> </script> -->
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $("#tagList").tagcloud({
+        type: 'list', 
+        colormax: '000099', 
+        colormin: 'CCCCFF'
+      });
+      $('a[rel^="lightbox"]').lightBox({
+        fixedNavigation: true
+      });
+      $("#storyTlr").storytlr({
+        url: 'http://storytlr.luijten.org/embed/json'
+      });
+    });
+  </script>
+
+css: |
+  
+  @import "<%= weblog.expand_path "css/site.css" %>";
+  @import "<%= weblog.expand_path "css/jquery.lightbox-0.5.css" %>";
+  @import "<%= weblog.expand_path "css/jquery.tweet.css" %>";
+  @import "<%= weblog.expand_path "css/jquery.storytlr.css" %>";
+  @import "<%= weblog.expand_path "css/jquery.tweet.query.css" %>";
+
+entry_content: |
+  
+  <div class="entryContent"><%= entry.content.to_html %></div>
+
+day_header: |
+  
+  <!-- <h2 class="dayHeader"><%= day.strftime( "%A, %B %d, %Y" ) %></h2> -->
+
+sidebar_hobix: |
+  
+  <div id="sidebarHobix" class="sidebarBox">
+  <p>Built upon <a href="http://hobix.com">Hobix</a></p>
+  </div>
+
+entry: |
+  
+  <div class="entry">
+      <+ entry_title +>
+      <+ entry_content +>
+      <div class="entryFooter"><+ entry_footer +></div>
+  </div>
+
+sidebar_syndicate: |
+  
+  <div id="sidebarSyndicate" class="sidebarBox">
+  <h2 class="sidebarTitle">Op de hoogte blijven?</h2>
+  <ul>
+      <li><a href="<%= weblog.link %>/index.xml"><img src="/image/rss.png" /> Abonneer je op de RSS-feed</a></li>
+      <li><a href="http://feedburner.google.com/fb/a/mailverify?uri=logging-the-switch&amp;loc=en_US"><img src="/image/email.png" /> Blijf op de hoogte via e-mail</a></li>
+      <li><a href="http://twitter.com/islandsvinur"><img src="/image/twitter.png" /> Volg me op Twitter</a></li>
+      <li><a href="https://plus.google.com/104383785198873933738?rel=author"><img src="/image/googleplus.png" /> Volg me op Google+</a></li>
+      <li><a href="http://www.linkedin.com/in/christianluijten"><img src="/image/linkedin.png" /> Mijn LinkedIn-profiel</a></li>
+  </ul>
+
+  </div>
+
+page: |
+  
+  <+ doctype +>
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title><+ title +></title>
+  <+ head_tags +>
+  <style type="text/css">
+  <+ css +>
+  </style>
+  </head>
+  <body>
+  
+  <div id="page">
+  
+  <+ banner +>
+  
+  <div id="content">
+  
+  <+ blog +>
+  
+  <+ sidebar +>
+
+  </div>
+  
+  <+ footer +>
+  
+  </div>
+  
+  <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ?  "https://ssl." : "http://www."); 
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-11437741-1");
+    pageTracker._trackPageview();
+  } catch(err) {}</script>
+  
+  </body>
+
+  <script type="text/javascript">
+  //<![CDATA[
+  (function() {
+      var links = document.getElementsByTagName('a');
+      var query = '?';
+      for(var i = 0; i < links.length; i++) {
+        if(links[i].href.indexOf('#disqus_thread') >= 0) {
+          query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+        }
+      }
+      document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/loggingtheswitch/get_num_replies.js' + query + '"></' + 'script>');
+    })();
+  //]]>
+  </script>
+
+  </html>
+
+footer: |
+
+  <div id="footer">
+    Alle tekst geschreven door Christian Luijten.
+  </div>
+
+# entries: |
+#  
+#  <% entries.each_day do |day, day_entries| %>
+#      <a name="<%= day.strftime( "%Y%m%d" ) %>"></a>
+#      <+ day_header +>
+#      <% day_entries.each do |entry| %>
+#          <+ entry +>
+#      <% end %>
+#  <% end %>
+
+sidebar_twitter: |
+
+  <div id="sidebarTwitter" class="sidebarBox">
+  <h2 class="sidebarTitle">Volg me op <a href="http://twitter.com/islandsvinur">Twitter</a></h2>
+  <div id="tweetList"></div>
+  </div>
+
+sidebar_gowalla: |
+
+  <div id="sidebarGowalla" class="sidebarBox">
+  <h2 class="sidebarTitle">Waar hang ik uit?</h2>
+  <div id="gowallaList"></div>
+  </div>
+
+sidebar_list_left: 
+- sidebar_about
+- sidebar_syndicate
+
+sidebar_list_right:
+- sidebar_tag_list
+- sidebar_archive
+
+sidebar_list_wide:
+- sidebar_featured
+- sidebar_disqus

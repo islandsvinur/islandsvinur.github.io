@@ -1,0 +1,32 @@
+--- !hobix.com,2004/weblog 
+title: Logging the Switch
+link: http://luijten.org/
+tagline: "altijd van je \xC3\xA1f bloggen"
+period: 00:60:00
+authors: 
+  christian: 
+    name: Christian Luijten
+    url: http://luijten.org/
+    email: christian@luijten.org
+linklist: 
+- Over mij: /page/about-me.html
+- Over dit weblog: /page/about-logging-the-switch.html
+- Contact: /page/contact.html
+sections: 
+  page: 
+    ignore: true
+    sort_by: id
+requires: 
+- hobix/storage/filesys
+- hobix/out/quick
+- hobix/out/erb
+- hobix/out/rss
+- hobix/out/okaynews
+- hobix/out/atom
+- hobix/plugin/tags
+- local
+featured: 
+- Koffiedik kijken met CoffeeDregs: /studie/koffiedik-kijken.html
+- iSync plugin voor Sony Ericsson S500i: /apple/isync-plugin-for-se-s500i.html
+- Albert Heijn recepten Greasemonkey script: /hacking/ah-recepten-greasemonkey.html
+- Punt ennel en snel!: /rants/punt-ennel-en-snel.html

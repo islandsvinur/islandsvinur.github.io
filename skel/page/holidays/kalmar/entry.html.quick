@@ -1,0 +1,46 @@
+title: "&ldquo;<%= entry.title %>&rdquo; in <%= weblog.title %>"
+entry_comments: <+ disqus_comments +>
+
+entry_footer: |
+  <span class="prev-link"><% if page.prev %><a href="<%= page.prev_link %>">&larr; vorige</a><% end %></span>
+  <span class="next-link"><% if page.next %><a href="<%= page.next_link %>">volgende &rarr;</a><% end %></span>
+
+  <+ entry_comments +>
+
+page: |
+  
+  <+ doctype +>
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title><+ title +></title>
+  <+ head_tags +>
+  <style type="text/css">
+  <+ css +>
+  </style>
+  </head>
+  <body>
+  
+  <div id="page">
+  
+  <+ banner +>
+  
+  <div id="content">
+  
+  <+ blog +>
+  
+  </div>
+  
+  <+ footer +>
+  
+  </div>
+  
+  </body>
+  </html>
+
+blog: |
+  
+  <div id="blog" class="wide">
+  <+ entries +>
+  </div>
+
