@@ -1,9 +1,9 @@
 title:
-  Jaaroverzicht <%= entries.first.created.strftime "%Y" %> van Logging the Switch
+  Jaaroverzicht <%= page.timestamp.strftime "%Y" %> van Logging the Switch
 
 entries: |
   <div class="entry">
-  <h2>Jaaroverzicht <%= entries.first.created.strftime "%Y" %></h2>
+  <h2>Jaaroverzicht <%= page.timestamp.strftime "%Y" %></h2>
   <dl>
   <% entries.each do |entry| %>
   <+ entry +>
