@@ -1,95 +1,102 @@
 --- !omap 
+- a-fresh-start: !ruby/object:Hobix::IndexEntry 
+    title: A Fresh Start
+    created: 2014-12-28 23:22:28 +01:00
+    modified: &id001 2014-12-28 23:37:19 +01:00
+    updated: *id001
+    tags: []
+
 - en-er-wordt-weer-gebouwd: !ruby/object:Hobix::IndexEntry 
     title: ... en er wordt weer gebouwd
     created: 2012-08-12 00:08:14 +02:00
-    modified: &id001 2012-11-25 00:22:58 +01:00
-    updated: *id001
+    modified: &id002 2012-11-25 00:22:58 +01:00
+    updated: *id002
     tags: []
 
 - een-dak-voor-de-bouwvak-wel-of-niet: !ruby/object:Hobix::IndexEntry 
     title: Een dak voor de bouwvak, wel of niet?
     created: 2012-07-07 22:24:33 +02:00
-    modified: &id002 2012-11-25 00:26:25 +01:00
-    updated: *id002
+    modified: &id003 2012-11-25 00:26:25 +01:00
+    updated: *id003
     tags: []
 
 - derde-termijn: !ruby/object:Hobix::IndexEntry 
     title: Derde termijn
     created: 2012-07-01 22:31:38 +02:00
-    modified: &id003 2012-11-25 00:26:34 +01:00
-    updated: *id003
+    modified: &id004 2012-11-25 00:26:34 +01:00
+    updated: *id004
     tags: []
 
 - makelaars-meerwerk-en-hypotheken: !ruby/object:Hobix::IndexEntry 
     title: Makelaars, meerwerk en hypotheken
     created: 2012-06-16 22:17:52 +02:00
-    modified: &id004 2012-11-25 00:28:52 +01:00
-    updated: *id004
+    modified: &id005 2012-11-25 00:28:52 +01:00
+    updated: *id005
     tags: []
 
 - verhuisplannen: !ruby/object:Hobix::IndexEntry 
     title: Verhuisplannen
     created: 2012-06-04 10:51:06 +02:00
-    modified: &id005 2012-11-25 00:30:45 +01:00
-    updated: *id005
+    modified: &id006 2012-11-25 00:30:45 +01:00
+    updated: *id006
     tags: []
 
 - leven: !ruby/object:Hobix::IndexEntry 
     title: Leven!
     created: 2012-06-01 10:51:31 +02:00
-    modified: &id006 2012-11-24 23:59:02 +01:00
-    updated: *id006
+    modified: &id007 2012-11-24 23:59:02 +01:00
+    updated: *id007
     tags: []
 
 - walibi-noord-korea-style: !ruby/object:Hobix::IndexEntry 
     title: Walibi, Noord-Korea-style
     created: 2011-01-23 22:57:51 +01:00
-    modified: &id007 2011-01-24 22:35:55 +01:00
-    updated: *id007
+    modified: &id008 2011-01-24 22:35:55 +01:00
+    updated: *id008
     tags: []
 
 - gelukkig-2011: !ruby/object:Hobix::IndexEntry 
     title: Gelukkig 2011!
     created: 2011-01-05 20:18:53 +01:00
-    modified: &id008 2011-01-05 20:18:53 +01:00
-    updated: *id008
+    modified: &id009 2011-01-05 20:18:53 +01:00
+    updated: *id009
     tags: []
 
 - nieuwe-fotosite: !ruby/object:Hobix::IndexEntry 
     title: Nieuwe Fotosite
     created: 2010-09-15 23:29:04 +02:00
-    modified: &id009 2010-09-15 23:31:45 +02:00
-    updated: *id009
+    modified: &id010 2010-09-15 23:31:45 +02:00
+    updated: *id010
     tags: 
     - foto's
 - apple/mac-mini-2010: !ruby/object:Hobix::IndexEntry 
     title: Mac mini
     created: 2010-06-15 13:07:17 +02:00
-    modified: &id010 2010-06-15 13:08:45 +02:00
-    updated: *id010
+    modified: &id011 2010-06-15 13:08:45 +02:00
+    updated: *id011
     tags: 
     - apple
     - mac-mini
 - roken-en-de-vuvuzela: !ruby/object:Hobix::IndexEntry 
     title: Roken en de Vuvuzela
     created: 2010-06-14 21:24:03 +02:00
-    modified: &id011 2010-06-16 18:18:32 +02:00
-    updated: *id011
+    modified: &id012 2010-06-16 18:18:32 +02:00
+    updated: *id012
     tags: []
 
 - apple/de-keynote-2010: !ruby/object:Hobix::IndexEntry 
     title: "D\xC3\xA9 keynote van 2010?"
     created: 2010-06-07 22:47:06 +02:00
-    modified: &id012 2010-06-07 22:49:49 +02:00
-    updated: *id012
+    modified: &id013 2010-06-07 22:49:49 +02:00
+    updated: *id013
     tags: 
     - apple
     - iphone
 - web-stuff/atlas-van-geotaggers: !ruby/object:Hobix::IndexEntry 
     title: Een atlas van stedelijke geotaggers
     created: 2010-05-26 21:47:12 +02:00
-    modified: &id013 2010-08-19 19:38:43 +02:00
-    updated: *id013
+    modified: &id014 2010-08-19 19:38:43 +02:00
+    updated: *id014
     tags: 
     - web-stuff
     - cartografie
@@ -97,8 +104,8 @@
 - ijsland/prachtige-time-lapse-van-eyjafjallajokull: !ruby/object:Hobix::IndexEntry 
     title: "Prachtige time lapse van Eyjafjallaj\xC3\xB6kull"
     created: 2010-05-18 21:41:45 +02:00
-    modified: &id014 2010-08-19 19:34:16 +02:00
-    updated: *id014
+    modified: &id015 2010-08-19 19:34:16 +02:00
+    updated: *id015
     tags: 
     - ijsland
 - web-stuff/quit-facebook-day: !ruby/object:Hobix::IndexEntry 
@@ -110,8 +117,8 @@
 - hacking/scwcd: !ruby/object:Hobix::IndexEntry 
     title: En ook certificaat nummer twee is binnen!
     created: 2010-04-12 17:13:24 +02:00
-    modified: &id015 2010-05-26 22:10:34 +02:00
-    updated: *id015
+    modified: &id016 2010-05-26 22:10:34 +02:00
+    updated: *id016
     tags: 
     - hacking
     - java
@@ -189,8 +196,8 @@
 - hacking/scjp: !ruby/object:Hobix::IndexEntry 
     title: Sun Certified Java Programmer
     created: 2009-10-05 21:09:02 +02:00
-    modified: &id016 2010-05-26 22:10:24 +02:00
-    updated: *id016
+    modified: &id017 2010-05-26 22:10:24 +02:00
+    updated: *id017
     tags: 
     - hacking
     - java
@@ -216,8 +223,8 @@
 - studie/geslaagd: !ruby/object:Hobix::IndexEntry 
     title: Geslaagd!
     created: 2009-06-29 21:02:41 +02:00
-    modified: &id017 2010-05-26 22:13:28 +02:00
-    updated: *id017
+    modified: &id018 2010-05-26 22:13:28 +02:00
+    updated: *id018
     tags: 
     - studie
     - coffeedregs
@@ -382,8 +389,8 @@
 - studie/alle-vakken-af: !ruby/object:Hobix::IndexEntry 
     title: Alle vakken af, ik ga koffiedik kijken!
     created: 2008-08-15 13:42:34 +02:00
-    modified: &id018 2010-05-26 22:14:22 +02:00
-    updated: *id018
+    modified: &id019 2010-05-26 22:14:22 +02:00
+    updated: *id019
     tags: 
     - studie
     - coffeedregs
@@ -438,12 +445,6 @@
     updated: 2008-10-09 10:58:09 +02:00
     tags: 
     - sport
-- page/holidays/kalmar/einde: !ruby/object:Hobix::IndexEntry 
-    title: Einde Kalmar
-    created: 2008-03-22 23:49:29 +01:00
-    updated: 2008-10-12 01:12:22 +02:00
-    tags: 
-    - page/holidays/kalmar
 - reizen/einde: !ruby/object:Hobix::IndexEntry 
     title: Einde Kalmar
     created: 2008-03-22 23:49:29 +01:00
@@ -451,6 +452,12 @@
     tags: 
     - reizen
     - kalmar
+- page/holidays/kalmar/einde: !ruby/object:Hobix::IndexEntry 
+    title: Einde Kalmar
+    created: 2008-03-22 23:49:29 +01:00
+    updated: 2008-10-12 01:12:22 +02:00
+    tags: 
+    - page/holidays/kalmar
 - page/holidays/kalmar/helsinki-2: !ruby/object:Hobix::IndexEntry 
     title: Helsinki (2)
     created: 2008-03-22 23:12:43 +01:00
@@ -1491,8 +1498,8 @@
 - page/about-me: !ruby/object:Hobix::IndexEntry 
     title: Over mezelf
     created: 2005-08-06 11:41:42 +02:00
-    modified: &id019 2014-08-07 22:01:06 +02:00
-    updated: *id019
+    modified: &id020 2014-08-07 22:01:06 +02:00
+    updated: *id020
     tags: 
     - page
 - page/holidays/leukerbad/day-12-aletschgletscher: !ruby/object:Hobix::IndexEntry 
