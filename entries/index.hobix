@@ -207,6 +207,12 @@
     updated: 2009-08-11 16:38:35 +02:00
     tags: 
     - web-stuff
+- web-stuff/twitter-2: !ruby/object:Hobix::IndexEntry 
+    title: Twitter - Anderhalf jaar later
+    created: 2009-08-05 20:13:12 +02:00
+    updated: 2009-08-06 22:20:25 +02:00
+    tags: 
+    - web-stuff
 - studie/geslaagd: !ruby/object:Hobix::IndexEntry 
     title: Geslaagd!
     created: 2009-06-29 21:02:41 +02:00
