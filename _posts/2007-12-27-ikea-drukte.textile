@@ -1,0 +1,6 @@
+---
+layout: post
+title: "IKEA-drukte"
+date: 2007-12-27 14:11:11 +0100
+---
+<p>Het traditionele tweede-kerstdag-uitje naar de <span class="caps">IKEA</span> werd dit jaar niet zo goed bezocht: <a href="http://www.omroepbrabant.nl/?news/92004332/Drukte+IKEA+valt+mee+op+tweede+kerstdag.aspx">Drukte <span class="caps">IKEA</span> valt mee op tweede kerstdag</a></p> 	<p>Daarentegen wordt het niet-zo-traditionele derde-kerstdag-uitje naar de <span class="caps">IKEA</span> een stuk beter bezocht: <a href="http://www.nu.nl/news/1369445/10/rss/Drukte_Ikea_leidt_tot_sluiting_afrit.html">Drukte <span class="caps">IKEA</span> leidt tot sluiting afrit</a>. Opvallend overigens dat juist deze <a href="http://www.nu.nl/news/1367377/30/Ikea_Delft_met_kerst_dicht_uit_vrees_voor_chaos.html"><span class="caps">IKEA</span> in Delft gisteren dus dicht was</a>.</p>

@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Security Fence"
+date: 2008-02-03 12:34:22 +0100
+---
+<p class="center"><a href="http://www.claybennett.com/pages/security_fence.html"><img src="http://www.claybennett.com/images/archivetoons/security_fence.jpg" alt="" /></a></p> 	<p>via <a href="http://nion.modprobe.de/blog/archives/621-security-vs.-privacy-illustrated.html">Nico Golde</a>.</p>

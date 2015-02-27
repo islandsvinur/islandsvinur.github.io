@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Holidays"
+date: 2005-07-06 23:42:58 +0200
+---
+<p>Exams are done (bad grades probably though), the Software Engineering Project is finished and I&#8217;m almost done with my work for the Spacelabs Visionair project: Time for the summer holidays!</p> 	<p>Well, holidays is a big word, I&#8217;ll have to do some work for university. I&#8217;ll do the distant learning course <a href="https://venus.tue.nl/owinfo-cgi/owi_0695m.opl?vakcode=2L690&#38;studiejaar=2005">Hypermedia</a> and will be finding a subject for the <a href="https://venus.tue.nl/owinfo-cgi/owi_0695m.opl?vakcode=2R930&#38;studiejaar=2004">History of Computing</a> essay. Oh, and there is a assignment for <a href="http://www.win.tue.nl/~aeb/linux/lk/">Linux</a> we have yet to finish. Further, there are the courses of <a href="https://venus.tue.nl/owinfo-cgi/owi_0695.opl?vakcode=2IT40&#38;studiejaar=2004">Semantics</a> and <a href="https://venus.tue.nl/owinfo-cgi/owi_0695.opl?vakcode=2IA50&#38;studiejaar=2004">Functional Programming</a> for which I do exams in the end of August.</p> 	<p>So I guess I have plenty to do, plus I&#8217;ll try to become more active in <a href="http://trac.luon.net/ledr/"><span class="caps">LEDR</span></a> and <a href="http://trac.luon.net/miriapodo/">Miriapodo.</a></p>

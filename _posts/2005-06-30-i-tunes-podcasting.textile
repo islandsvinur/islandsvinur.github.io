@@ -1,0 +1,6 @@
+---
+layout: post
+title: "iTunes 4.9 with Podcasting"
+date: 2005-06-30 17:24:25 +0200
+---
+<p>The idea of podcasting intrigued me, but since there were no really user-friendly applications (from my point of view) handling podcasts, I never really got into it.</p> 	<p>Last tuesday, Apple released an updated version of iTunes which integrates Podcasting into their Music Store and they did it very well. So, I decided to listen what the fuss is all about and subscribed to the <a href="http://www.dailysourcecode.com/">Daily Source Code,</a> <a href="http://www.curry.com/">Adam Curry&#8217;s</a> podcast.</p> 	<p>I also subscribed to some other feeds to check the quality of the broadcasts. Now, the content isn&#8217;t always of very high quality, but the idea of never again miss a radio show because you didn&#8217;t turn your radio on too late is great!</p> 	<p>Already quite a few bloggers are doing podcasting in audio and some of them even do video broadcasts. I hear great success stories from Adam Curry, about how unknown bands become famous just by having their song played on a podcast. They would never get on regional radio, let alone national, so that is pretty cool. But then again, Curry is of course one of the initiators of the whole podcasting thing, so it might be a little bit biased.</p>

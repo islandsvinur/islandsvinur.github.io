@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Immersion and Presence in Virtual Environments"
+date: 2005-11-04 20:10:22 +0100
+---
+<p>For the course of Interactive Virtual Environments (2IV50) the examination was based upon a literature study concerning the two terms &#8220;immersion&#8221; and &#8220;presence&#8221;. Two terms with apparantly clear meaning, but with a great discussion around their definitions.</p> 	<p>The paper mainly deals with two measures of presence and immersion and summarizes a few more.</p> 	<p>The <a href="http://luijten.org/files/papers/interactive%20virtual%20environments%20-%20immersion%20and%20presence.pdf">paper</a> can be downloaded here.</p> 	<p class="comment">This article is created within the framework of my <a href="http://luijten.org/page/study.html">study.</a></p>

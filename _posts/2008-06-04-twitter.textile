@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Who is @islandsvinur?"
+date: 2008-06-04 14:12:26 +0200
+---
+Hey, hi! You&#8217;ve landed on my Twitter introduction page! Thanks for
+clicking the link in "my Twitter profile":http://twitter.com/islandsvinur.
+
+On this page I'll introduce you to my website, which is mostly in Dutch, so
+that's why I'll switch languages now.
+
+Je zou je kunnen afvragen "wie ik ben":/page/about-me.html, daarover is nog
+lang niet alles geschreven, maar wat er wel is, is een mooie pagina waar
+een klein beetje wordt toegelicht.
+
+Dit weblog heet "Logging the Switch" met een reden. In 2004 deed ik de
+switch van PC naar Mac. In eerste instantie bedoeld als een switch van
+Linux naar Linux, uiteindelijk van Linux naar Mac OS X. Wat meer informatie
+vind je op de "pagina over dit weblog":/page/about-logging-the-switch.html.
+
+Aangezien je via Twitter op deze pagina kwam, heb je al een manier om mij
+te bereiken ontdekt. Andere manieren vind je op "de
+contact-pagina":/page/contact.html.
+
+Mijn Twitter-naam is &iacute;slandsvinur, dit is IJslands en staat voor
+"vriend van IJsland". Ik ben er in 2006 geweest voor een stage aan de
+Universiteit van Reykjav&iacute;k en ook daar "heb ik een weblog
+bijgehouden":http://ijsland.luijten.org/. Ik heb ook "een demo van het
+prototype van de
+applicatie":http://nemendur.ru.is/christian06/amber/prototypes/20061114.html
+die ik daar heb gemaakt. Het was een mooie tijd waar ik met veel plezier
+aan terugdenk...
+
+Andere stukjes software die ik (alleen of met anderen) binnen m'n studie
+heb gemaakt hebben ook "een plaatsje op deze site":/page/study.html weten
+te bemachtigen. Sommige ervan zijn helaas niet meer in werking.
+
+Afgestudeerd ben ik op het onderwerp van visuele uitvoering van
+object-geori&euml;nteerde programma's, met de nadruk op de
+uitvoering van Java-programma's.
+
+Na mijn afstuderen ben ik aan het werk gegaan bij ISAAC Software
+Solutions, een web en softwarebureau in Eindhoven. Hier help ik mee
+aan de ontwikkeling van kleine en grotere webapplicaties met nadruk
+op de retail-sector.

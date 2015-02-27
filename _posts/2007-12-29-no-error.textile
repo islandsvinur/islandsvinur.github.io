@@ -1,0 +1,6 @@
+---
+layout: post
+title: Error because no error occured‽
+date: 2007-12-29 15:23:50 +0100
+---
+<p class="center"><img src="http://luijten.org/image/shrook-no-error.png" alt="" /></p>

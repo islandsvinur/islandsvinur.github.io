@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Web Portfolio"
+date: 2008-10-15 10:43:51 +0200
+---
+A selection of the websites I created in the past few years.
+
+<a href="../image/web-portfolio/cib-w096-large.jpg" rel="lightbox" title="CIB-W096 Architectural Management">!../image/web-portfolio/cib-w096-small.jpg!</a>

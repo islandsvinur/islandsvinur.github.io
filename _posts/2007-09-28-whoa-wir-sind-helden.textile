@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Whoa! Wir sind Helden in Effenaar"
+date: 2007-09-28 10:05:02 +0200
+---
+<p>Great concert! Thanks!</p> 	<p class="center"><a href="http://www.wirsindhelden.com/"><img src="http://luijten.org/image/wir-sind-helden.gif" alt="" /></a></p> 	<p>For those who missed it, you&#8217;ll get a new chance tonight in <a href="http://www.fabchannel.com/wir_sind_helden">Paradiso, Amsterdam via Fabchannel</a>.</p>

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Simpel screenshots maken van een complete webpagina"
+date: 2008-11-25 11:59:44 +0100
+---
+!(right)/image/apple/software/paparazzi-shot.png! Via
+"lifehacking.nl":http://lifehacking.nl/mac/paparazzi-screenshots-maken-van-een-website/:
+
+bq. Heel soms heb je dat net even nodig. Een screenshot van een webpagina. Je
+kan dan screenshots maken en deze in Photoshop onder elkaar plakken of via
+"Browsershots":http://www.browsershots.org/ een fullsize screenshot opvragen.
+Maar, dat kost veel tijd en veel moeite.
+
+Met "Paparazzi":http://www.derailer.org/paparazzi/ gaat dat supersimpel! Je
+geeft het adres van de pagina op, stelt eventueel nog een vertraging in (om
+bijvoorbeeld plaatjes en filmpjes goed te laten laden) klikt op Capture en
+even later staat er een plaatje klaar om opgeslagen te worden in
+verschillende bestandsformaten.
+
+p(center). !/image/apple/software/paparazzi.png!

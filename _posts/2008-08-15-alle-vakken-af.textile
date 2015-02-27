@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Alle vakken af, ik ga koffiedik kijken!"
+date: 2008-08-15 13:42:34 +0200
+---
+Nou, het is dan toch eindelijk gebeurd, het allerlaatste vak is gehaald (van de vier studenten die het tentamen hebben gedaan, ben ik trouwens de enige die het gehaald heeft)! Tussen mij en m&#8217;n papiertje staat nu alleen nog maar een afstudeerproject.
+
+Ik zal proberen uit te leggen wat ik ga doen.
+
+De <a href="http://www.win.tue.nl/">faculteit Wiskunde en Informatica</a> verzorgt onder andere de programmeer-cursussen voor de andere faculteiten van de TU en voor een paar <span class="caps">VWO</span> scholen in Eindhoven (bij het schoolvak informatica dus). <a href="http://www.win.tue.nl/~wsinruur/JavaCourse/JavaBook2008.pdf">Deze cursussen</a> zijn een introductie in de programmeertaal Java, een taal die in het onderzoek en bedrijfsleven tegenwoordig veel gebruikt wordt.
+
+Een van de concepten die Java rijk is, is objectori&euml;ntatie. Omdat veel beginnende studenten bij een programma denken aan een rechtlijnige uitvoer van instructies levert dit problemen op bij Java, omdat in een objectgeori&euml;nteerd programma veel meer op en neer wordt gesprongen in verschillende delen van de code. De beginnende programmeur verliest dan al snel het overzicht over z&#8217;n programma en kan daardoor fouten maken.
+
+Het project waaraan ik ga werken heet CoffeeDregs (koffiedrab) en gaat de uitvoering van objectgeori&euml;nteerde programma&#8217;s visualizeren. Objecten, methoden, variabelen, ze krijgen allemaal een visuele representatie in de tool.
+
+Wat er nu is, is een proof-of-concept, een bewijs dat wat ze willen ook mogelijk zou zijn in een echt product. Een programma kan gestart worden in de tool en dan stapje voor stapje gevolgd worden bij de uitvoering. Grafisch klopt er echter nog niet veel van en dat moet ik dus nu gaan oplossen.
+
+Het idee is niet helemaal nieuw en er zijn dan ook al verschillende tools die de uitvoering van programma&#8217;s visualiseren (<a href="http://cs.joensuu.fi/~jeliot/description.php">JEliot heeft een filmpje op de site staan</a> en lijkt wel een beetje op wat wij zouden willen), maar natuurlijk gaan wij het helemaal anders en beter doen :P
+
+Het project spreekt mij aan omdat er een echte gebruiker is en je niet in het wilde weg aan het onderzoeken bent. Ik hoop ook dat de studenten er straks iets aan gaan hebben.

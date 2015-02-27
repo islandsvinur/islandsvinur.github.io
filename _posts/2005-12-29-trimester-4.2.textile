@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Trimester 4.2"
+date: 2005-12-29 09:42:00 +0100
+---
+<p>Bit late maybe (we&#8217;re already in week 4), but here&#8217;s the list of courses of this trimester.</p> 	<ul> 	<li><a href="http://www.win.tue.nl/~wsinrpn/courses-2if40.htm">Proving with computer assistance</a> (assignment + exam)</li> 	<li><a href="http://www.win.tue.nl/~speckman/2IL40.html">Advanced algorithms</a> (assignment + paper)</li> 	<li>Heuristic search (exam)</li> 	<li><a href="http://www.win.tue.nl/~alext/COURSES/INFO_VIS/">Visualization</a> (assignment)</li> 	<li><a href="http://www.win.tue.nl/~jfg/educ/2IW20/winter2005/overzicht.html">Requirement analysis, design and verification</a> (exam + assignment)</li> 	<li><a href="http://www.win.tue.nl/wsk/onderwijs/2Y950/">Wiskunde 4</a> (exam)</li> 	</ul> 	<p>Well, then there still are those three assignment courses&#8230;</p> 	<ul> 	<li><a href="http://www.win.tue.nl/~hemerik/2R930/">History of Computing</a> assignment still needs a subject.</li> 	<li><a href="http://www.win.tue.nl/~aeb/linux/lk/">The Linux Operating System</a> assignment.</li> 	<li><a href="http://wwwis.win.tue.nl:38080/aha/2L690/">Hypermedia Systems</a> assignment will be started after having read all the course hypertext.</li> 	</ul>

@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Finally: Almost full Switch to Linux"
+date: 2006-03-02 15:31:53 +0100
+---
+<p>Finally, after having Hoefnix for more than a year, I&#8217;m booting Linux on my Mac more and more often. There were a few reasons I sticked to <span class="caps">OS X</span>, one of them was I didn&#8217;t really had a reason to over to Linux; everything worked for me&#8230; Well, sort of, I&#8217;m getting fed up with looking for warez and shit while there is an enormous repository of Free Software in the world just waiting to be discovered and used.</p> 	<p>The course of Visualization led me back to Linux, since the libraries that I needed aren&#8217;t available in <a href="http://www.darwinports.org/">DarwinPorts</a> at the time and they are in Debian, which is just so much easier. Gotta love a good package management system :-)</p> 	<p>So now I&#8217;m dualbooting again, like in the old days with Windows and Linux. Basically for all the imaging stuff I use <span class="caps">OS X</span>. Ah, and for <a href="http://www.getdemocracy.com/">Democracy TV</a> of course (Linux player still in very early alpha).</p>

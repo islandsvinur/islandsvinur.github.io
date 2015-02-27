@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Mac mini"
+date: 2005-05-14 15:00:45 +0200
+---
+<p><img src="http://luijten.org/image/mini-small.png" class="left" alt="" /> Dad and I bought mom a <a href="http://www.apple.com/macmini/">Mac mini</a> for her birthday, to try to get her to use a computer.</p> 	<p>The first reaction of anyone seeing the device is of course something like, &#8220;Wow, that&#8217;s small, how do they fit it in there?&#8221;. In fact, they don&#8217;t. It is basically a laptop without screen, so all the components are already very small and can be crammed into a small space. Nevertheless, the design of both case and internals are impressive and it might very well be a successful companion to an iPod for current PC-users (since that is wat Apple is aiming at).</p> 	<p>I don&#8217;t know how one would call going from no computer-user at all to a Mac-user, but would Apple consider it &#8220;switching&#8221;? More about the &#8220;switch&#8221; of my mother will come in a few weeks.</p>

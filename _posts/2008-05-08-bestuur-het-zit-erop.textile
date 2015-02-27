@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Bestuur, het zit erop!"
+date: 2008-05-08 13:55:35 +0200
+---
+<p>Dat was hem dan, het jaar bestuur zit erop.</p>

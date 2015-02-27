@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Iceland Blog moved off Planet"
+date: 2006-08-26 18:41:58 +0200
+---
+<p>Because it was decided that Pluto no longer is a planet, but rather a dwarf planet, I on my part decided to take the Iceland blog off Planet Luon.</p> 	<p>Really? Well&#8230; No. The actual reason is that Planet destroys the markup of my (admittedly invalid) <span class="caps">RSS</span> feed. Apparantly, the <span class="caps">HTML</span> that can be encoded inside the <span class="caps">RSS</span> feed, is not just normal <span class="caps">HTML</span>, but some other form where the object and iframe tags are illegal. My own feed reader however renders them well, because it is actually a web browser, right? So, why would you disallow those things? I want to do hip new things in my feed! Don&#8217;t hold me back!</p> 	<p>So I ask of you, readers subscribed via Planet Luon, add <a href="http://ijsland.luijten.org/feed/">http://ijsland.luijten.org/feed/</a> to your readers. The site is now removed from Planet Luon.</p>

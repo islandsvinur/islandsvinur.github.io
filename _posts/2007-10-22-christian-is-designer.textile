@@ -1,0 +1,10 @@
+---
+layout: post
+title: "christian = designer"
+date: 2007-10-22 23:50:00 +0200
+---
+p(center). "!/photos/iedereen-is-designer.jpg!":http://www.iedereenisdesigner.nl/
+
+p(center). <a href="/photos/christian-is-designer.jpg" rel="lightbox"><img src="/photos/christian-is-designer.jpg" /></a>
+
+Voor m&#8217;n hyves-vriendjes, er zijn er "nog meer":http://jensie.hyves.nl/index.php?l3=ph&#38;l4=listalbum&#38;album_id=18485580!

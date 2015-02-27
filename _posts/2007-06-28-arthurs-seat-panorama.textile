@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Arthur's Seat panorama"
+date: 2007-06-28 16:31:29 +0200
+---
+<p>And I found yet another panorama in my photo collection!</p> 	<p class="center"><a href="http://luijten.org/photos/arthurs-seat-panorama-small.jpg"><img src="http://luijten.org/photos/arthurs-seat-panorama-very-small.jpg" alt="" /></a></p> 	<p>A very wide view over the friendly city of Edinburgh, Scotland, seen from <a href="http://en.wikipedia.org/wiki/Arthur%27s_Seat%2C_Edinburgh">Arthur&#8217;s Seat</a>.</p>

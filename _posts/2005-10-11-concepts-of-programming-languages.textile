@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Concepts of Programming Languages"
+date: 2005-10-11 12:55:48 +0200
+---
+<p>For the course of Concepts of Programming Languages (2M240), we had to write a paper on the delegate as introduced by Microsoft in their version of Java, Visual J++, and in the C# language.</p> 	<p>Delegates are the object oriented equivalent of function pointers as they are known from programming languages like C. Their introduction lead to discussions whether they were a good thing or not. Especially Sun, who were advised already in 1996 by Borland <em>not</em> to implement delegates in Java, due to bad experiences with trying the same in Delphi.</p> 	<p>The <a href="http://luijten.org/files/papers/concepts%20of%20programming%20languages%20-%20C%20Sharp%20delegates.pdf">full paper</a> can be downloaded here. It was graded with an 8.</p> 	<p class="comment">This article is created within the framework of my <a href="http://luijten.org/page/study.html">study.</a></p>

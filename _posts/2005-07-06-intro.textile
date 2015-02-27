@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Introduction to the music section"
+date: 2005-07-06 22:00:52 +0200
+---
+<p>This is a special section of my journal where I&#8217;ll now and then post links to music artists I like. Posts on music I already posted will be moved here, keeping their original publication date, so you&#8217;ll notice that this introduction is not the first post&#8230; Well, so be it.</p>

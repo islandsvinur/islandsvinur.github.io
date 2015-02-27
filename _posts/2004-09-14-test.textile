@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Debian install a no go?"
+date: 2004-09-14 23:52:48 +0200
+---
+<p>I was trying to install Debian with a newer version, but that was no success at all.</p> 	<blockquote> 	<p>... ok  opening display  /pci@0,f0000000/ATY,WhelkParent@10/ATY,Whelk_B@1&#8230; ok  copying OF device tree&#8230;done  starting cpu /cpus/PowerPC,G5&#8230;failed: 00000000  Initializing fake screen: <span class="caps">ATY</span>,Whelk_A  Calling quiesce&#8230;  returning 0&#215;01400000 from prom_init</p> 	</blockquote> 	<p>...and then silence. Well, not completely, because the fans start blowing after some time&#8230; And they can get really loud indeed!</p>

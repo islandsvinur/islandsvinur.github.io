@@ -1,0 +1,6 @@
+---
+layout: post
+title: "U2 - Stay (Faraway, So Close!)"
+date: 2007-02-11 21:50:02 +0100
+---
+<p>I was pointed to this <a href="http://youtube.com/watch?v=HIy6ROT-R_s">U2 music video</a> (<a href="http://video.luijten.org/u2-faraway-so-close.mp4">transcoded to h.264</a>) yesterday.</p> <object width="425" height="350">  <param name="movie" value="http://www.youtube.com/v/HIy6ROT-R_s"></param>  <param name="wmode" value="transparent"></param>  <embed src="http://www.youtube.com/v/HIy6ROT-R_s" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed> </object> 	<p>People who&#8217;ve seen <a href="http://imdb.com/title/tt0093191/">Himmel &uuml;ber Berlin</a> will recognize the theme&#8230; And the follow-up of that movie is called&#8230; <a href="http://imdb.com/title/tt0107209/">In weiter Ferne, so nah!</a> or in English &#8220;Faraway, So Close!&#8221;</p> 	<p>Further, if you take a close look at the leader, you&#8217;ll notice that <a href="http://imdb.com/name/nm0000694/">Wim Wenders</a> himself was the director of the video. It was produced in 1993, the same year as the follow-up movie.</p>

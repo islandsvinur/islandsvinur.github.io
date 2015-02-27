@@ -1,0 +1,16 @@
+---
+layout: post
+title: "20 Jaar Internet in Nederland"
+date: 2008-11-17 14:07:33 +0100
+---
+Precies 20 jaar geleden kwamen er voor het eerst Internet-bitjes door de
+kabelverbinding tussen Amsterdam en Amerika. Het waren ook meteen de eerste
+bitjes die ooit via het Internet de VS hadden verlaten.
+
+Reden voor een feestje, toch? Zeker nu bekend is geworden dat ruim de helft
+van de Nederlanders  "niet meer dan twee dagen zonder Internet
+kan":http://www.depers.nl/opmerkelijk/261952/Eerst-internet-dan-het-toilet.html.
+
+Tot slot nog "een filmpje":http://vimeo.com/2266474 uit de oude doos.
+
+p(center). <object width="500" height="377" type="application/x-shockwave-flash">  <param name="allowfullscreen" value="true" /> <param name="allowscriptaccess" value="always" /> <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2266474&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" /> <embed src="http://vimeo.com/moogaloop.swf?clip_id=2266474&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="377"></embed></object>

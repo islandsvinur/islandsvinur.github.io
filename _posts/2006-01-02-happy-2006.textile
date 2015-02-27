@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Happy 2006!"
+date: 2006-01-02 19:44:33 +0100
+---
+<p>To all who read this, a happy new year. Just came back from family.</p> 	<p class="center"><img src="http://luijten.org/image/photos/fireworks-2006-small.png" alt="" /> <br /> <em>Looks a bit fuzzy, huh? Next time I should probably try to focus better</em></p>

@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Parallel Programming"
+date: 2005-10-11 13:14:32 +0200
+---
+<p>A very interesting assignment we got for the course of Parallel Programming (2IN10). Apart from the normal assignment to do some grain-size experiment on a <span class="caps">LAM</span>/MPI cluster, we were to create our own cluster. Very motivated, we jumped on the assignment and within no time we got our own cluster running, with 4 machines at Spacelabs, one at Bas&#8217; home.</p> 	<p>The <a href="http://luijten.org/files/papers/parallel%20programming%20-%20assignment%20report.pdf">full report</a> can be downloaded here. It was graded 10 for our engineering spirit.</p> 	<p class="comment">This article is created within the framework of my <a href="http://luijten.org/page/study.html">study.</a></p>

@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Google talks"
+date: 2005-08-24 06:54:21 +0200
+---
+<p class="center"><img src="http://luijten.org/image/google-talks.png" alt="" /></p> 	<p>Hmm, why can&#8217;t I help getting the impression that Google introduced <a href="http://talk.google.com/">a new service</a> today?</p> 	<p>P.S. I have some invites left for those who want to try it out.</p>

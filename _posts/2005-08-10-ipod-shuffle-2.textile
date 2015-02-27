@@ -1,0 +1,6 @@
+---
+layout: post
+title: "iPod shuffle on holiday"
+date: 2005-08-10 08:03:04 +0200
+---
+<p>My shuffle had its longest time without refill this holiday and I must say, two weeks is definitely too long for this device. After a week, you&#8217;ve heard every song and you&#8217;re in need of a change.</p> 	<p>That I couldn&#8217;t update it was of course my own fault, since I had a laptop with me, also loaded with music. I just have to find out which free app is the best for updating iPods (in Linux).</p>

@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Mah Jongg Considered Harmful"
+date: 2007-08-04 14:48:37 +0200
+---
+From "BBC News Web Site":http://news.bbc.co.uk/1/hi/health/6931119.stm:
+
+<blockquote> 	
+
+A study by doctors in Hong Kong has concluded that epilepsy can be induced
+by the Chinese tile game of mahjong.
+
+</blockquote> 	
+
+Nota that this is not about the solitaire game, but the one you play with
+four players.
+
+<blockquote> 	
+
+h3. Demanding
+
+The game, which is intensely social and sometimes played in crowded mahjong
+parlours, involves the rapid movement of tiles in marathon sessions.
+
+The doctors conclude that the syndrome affects far more men than women;
+that their average age is 54; and that it can hit sufferers anywhere
+between one to 11 hours into a mahjong game. 
+
+</blockquote>

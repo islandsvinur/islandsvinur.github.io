@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Rico's interactive flies"
+date: 2006-03-23 22:38:32 +0100
+---
+<p><img src="http://luijten.org/image/ricos-interactive-flies.png" alt="" /></p> 	<p>Well <a href="http://rix0r.nl/blog/archives/17">Rico,</a> there you have it: An <a href="http://www.yankodesign.com/product_info.php?products_id=866">interactive fly</a> for your toilet.</p>

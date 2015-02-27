@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Planet Groen Links"
+date: 2008-01-09 00:50:59 +0100
+---
+<p>Ah kijk nou, Groen Links heeft  <a href="http://www.planetplanet.org/">Planet</a> ook ontdekt: <a href="http://www.planeetgroenlinks.nl/">Planeet Groen Links</a>. Goed bezig!</p>

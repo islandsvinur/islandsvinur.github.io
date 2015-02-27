@@ -1,0 +1,40 @@
+---
+layout: post
+title: "DÃ© keynote van 2010?"
+date: 2010-06-07 22:47:06 +0200
+---
+De presentatie waar gadgetliefhebbers elk jaar weer op zitten te
+wachten, de keynote van de Apple WWDC - de World Wide Developer
+Conference - heeft dit jaar in mijn ogen weinig interessants
+opgeleverd.
+
+!(left)/image/apple/logo.jpg! Waar in het verleden iMacs en andere
+revolutionaire computers werden onthuld, is het nu verworden tot een
+businesspraatje met vervolgens de presentatie van een kleine upgrade
+aan een bestaande gadget. Zijne Steveheid vertelde dit jaar dat er
+weer een hele hoop apps zijn bijgekomen, dat er een hele hoop iPads
+en iPhones verkocht zijn en dat ze ook nog een paar iBooks hebben
+verkocht.
+
+Hij ging vervolgens door met de nieuwe iPhone 4. Naast een nieuw
+uiterlijk - ik vind het best wel lelijk - is het enige noemenswaardige
+in mijn ogen de toch best wel hoge schermresolutie van 960 x 640 op
+dezelfde dimensies als de huidige iPhone. Dat komt dus gewoon neer op
+326 dpi; beter dan wat een gemiddelde printer afdrukt. Het is te
+verwachten dat de volgende versie van de iPad ook zo'n hoge resolutie
+krijgt (mits ze de schermen zo ver kunnen opschalen).
+
+De andere upgrades, een 5 megapixel camera en bijbehorende 720p30
+videoresolutie, vind ik eigenlijk tamelijk logische stapjes. Ook de
+front-facing camera die videobellen mogelijk maakt is niet echt
+revolutionair, die hebben we "in andere
+telefoons":http://nokia.com/n900 ook al gezien.
+
+Al met al ben ik niet echt onder de indruk. Is het Reality Distortion
+Field afgebrokkeld of ben ik uit de Apple zone? Waar is de "Apple TV
+reanimatie":http://www.macrumors.com/2010/06/04/other-wwdc-possibilities-iphone-os-4-mac-pro-apple-tv-cloud-based-services/
+of - doe eens wild - een complete Mac mini redesign? Waar zijn de
+producten volgepropt met innovaties die je credit card laten jeuken?
+
+Ik ben underwhelmed. Behalve over de nieuwe naam van het iPhone OS...
+Die "is ook schitterend":http://www.apple.com/iphone/softwareupdate/ ;-)

@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Schaatsseizoen 2009-2010 is begonnen!"
+date: 2009-10-11 19:14:29 +0200
+---
+
+!(left)/image/isis-logo.png!  Zo, Isis kan weer gaan doen waar het
+goed in is; schaatsen op de lange baan. De ijsbaan is dit jaar een
+week eerder open gegaan en we hebben dus alweer twee keer over het
+ijs mogen glijden.
+
+Nog vijf jaar mag ik een sportkaart aanvragen, maar of ik ook nog zo
+lang bij Isis ga schaatsen zal de tijd leren. In ieder geval ga ik
+dit jaar lekker veel rondjes rijden in de B-groep en hopelijk weer
+wat scherpere tijden wegzetten.
+
+table(schaatstijden).
+|_. Afstand |_.  "PR":http://www.essvisis.nl/nieuw/wedstrijden/wedstrijden.php?item=prs&persid=619 |_. "WR":http://nl.wikipedia.org/wiki/Lijst_van_schaatsrecords_%28langebaan%29 |
+| 300m | 37,92 | - |
+| 500m | 57,72 | 34,03 (Wotherspoon) |
+| 1000m | 1:58,71 | 1.06,42 (Davis) |
+| 1500m | 2:57,66 | 1.41,80 (Davis) |
+| 3000m | 6:16,75 | 3.37,28 (Ervik) |
+| 5000m | - | 6.03,32 (Kramer) |

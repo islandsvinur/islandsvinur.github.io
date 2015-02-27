@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Holidays 2006"
+date: 2006-07-22 09:41:51 +0200
+---
+<p>Heh, I just read <a href="http://luijten.org/personal/study/holidays-2005.html">my holiday 2005 planning</a> and apparantly I didn&#8217;t do a very good job last year. Most of the projects still aren&#8217;t finished :-)</p> 	<p>However, something of a little more importance has come between them since I&#8217;ll be <a href="http://ijsland.luijten.org/">going to Iceland</a> in a few days. So, no History of Computing, no Hypermedia, no Linux, no <span class="caps">LEDR</span>, no Miriapodo for a while.</p>

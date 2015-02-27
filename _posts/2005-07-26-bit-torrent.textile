@@ -1,0 +1,6 @@
+---
+layout: post
+title: "BitTorrent... A Swiss name?"
+date: 2005-07-26 10:29:26 +0200
+---
+<p><img src="http://www.bittorrent.com/images/bittorrent_logo.gif" class="left" alt="" /> Leukerbad is situated in the valley between Daubenhorn and Torrenthorn. I wonder whether BitTorrent got its name from this mountain.</p>

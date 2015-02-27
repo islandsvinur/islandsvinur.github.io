@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Ehrensenf RSS feed reborn"
+date: 2007-10-01 12:02:32 +0200
+---
+<p>After the upgrade to <span class="caps">PHP5</span> on Orion, the <a href="http://luijten.org/web-stuff/ehrensenf-2.html">podcast feed of Ehrensenf</a> stopped working, but I didn&#8217;t have the time to fix it properly. I did yesterday and it thus works again.</p> 	<p class="center"><a href="http://subscribe.getMiro.com/?url1=http%3A//orion.luon.net/%7Echristian/ehrensenf.rss.php"><img src="http://subscribe.getmiro.com/img/buttons/one-click-subscribe-88X34.png" title="Miro Video Player" alt="Miro Video Player" /></a></p> 	<p>The <span class="caps">DOM XML API</span> in <span class="caps">PHP</span> changed in version 5 to better adhere to the <span class="caps">DOM API</span> standard; which means the underscore notation is dropped in favour of <a href="http://en.wikipedia.org/wiki/CamelCase">camel casing</a>.</p>

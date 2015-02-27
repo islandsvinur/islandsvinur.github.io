@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Under Byen in Ekko"
+date: 2008-10-10 23:39:24 +0200
+---
+Zo, nu het gedoe met de kapotte harde schijf achter de rug is weer eens een gewoon stukkie tekst. Vorige week woensdag zijn we weer eens een bandje gaan bekijken. Ditmaal was het opnieuw een Deense groep, Under Byen (spreek ongeveer uit als 'onne buuen') en dat was zeker leuk.
+
+Met de "Flip":http://theflip.com/ heb ik een filmpje gemaakt:
+
+p(center). <object width="500" height="377" type="application/x-shockwave-flash">  <param name="allowfullscreen" value="true" /> <param name="allowscriptaccess" value="always" /> <param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=1880538&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" /> <embed src="http://vimeo.com/moogaloop.swf?clip_id=1880538&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="377"></embed></object>

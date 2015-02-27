@@ -1,0 +1,6 @@
+---
+layout: post
+title: "GPS Walk"
+date: 2006-05-23 10:52:57 +0200
+---
+<p>Took the <a href="http://www.globalsat.com.tw/english/products_detail.php?main_id=21&#38;p_id=108"><span class="caps">GPS</span> receiver</a> with me on a walk over the TU campus, storing my location every second on my laptop, meanwhile taking pictures.</p> 	<p>Then, imported the track list and photos into <a href="http://oregonstate.edu/~earlyj/gpsphotolinker/">GPSPhotoLinker</a> and applied the locations to the <span class="caps">EXIF</span> tags of the photos.</p> 	<p>After that, I uploaded the photos to <a href="http://photos.luijten.org/Christian/2006/05/21%20-%20GPS%20walk/">p.hot.os</a> where I added a little bit of <a href="http://photos.luijten.org/Christian/2006/05/21%20-%20GPS%20walk/static/google-maps.js">JavaScript magic</a> and using the <a href="http://www.google.com/apis/maps/documentation/">Google Maps <span class="caps">API</span></a> I can now draw a nice map with the exact location where the photo was taken.</p> 	<p>Kickass!</p>

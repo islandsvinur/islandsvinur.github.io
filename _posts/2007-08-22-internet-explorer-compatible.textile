@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Now also for Internet Explorer!"
+date: 2007-08-22 18:24:39 +0200
+---
+<p>I never thought I&#8217;d manage it to get the site display roughly (in the sense that it looks like it should look that way) the same on every single browser but tadaaa, here it is. <a href="http://browsershots.org/http://luijten.org/">Look!</a></p> 	<p>Okay, so clearly now it&#8217;s time to start thinking about a new design again :D</p>

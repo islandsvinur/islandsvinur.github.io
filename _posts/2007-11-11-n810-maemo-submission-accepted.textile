@@ -1,0 +1,6 @@
+---
+layout: post
+title: "N810 maemo submission accepted"
+date: 2007-11-11 07:50:19 +0100
+---
+<p>Okay, joining the other 498 posters on <a href="http://planet.maemo.org/">Planet Maemo</a>:</p> <blockquote><span class="caps">N810</span> maemo submission accepted 	<p>Congratulations! You have been accepted to the <a href="http://europe.nokia.com/A4568578"><span class="caps">N810</span></a> <a href="http://www.maemo.org/">maemo</a> device program. We will send your discount and instructions as soon as the device is available in your selected shop (soon).</blockquote></p> 	<p>Wheeee! Let&#8217;s find out how the <span class="caps">N810</span> tastes with an apple&#8230;</p>

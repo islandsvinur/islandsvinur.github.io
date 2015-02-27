@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Fluids 0.1.0 Equinox"
+date: 2007-03-20 17:39:49 +0100
+---
+<p>Well, so much for the practical part of the assignment, this is the version I&#8217;ll probably deliver end of this week. Added since the last pre-release are three types of isolines: Based on fixed levels, based on a fixed number of lines, based on fixed points in space. Also, it can do fullscreen, yay!</p> 	<p class="right"><img src="http://luijten.org/image/study/fluids-isolines.png" alt="" /></p> 	<p>So, I hereby release version 0.1 of <a href="http://nogates.nl/fluids/">Fluids</a> and name it <a href="http://en.wikipedia.org/wiki/Equinox">Equinox</a>, since that&#8217;s exactly what is going to happen tomorrow at 0:07 <span class="caps">UTC</span>. The days are becoming longer and longer, and starting tomorrow, they&#8217;ll be longer in Iceland than they are here again. Spring&#8217;s here!</p> 	<ul> 	<li><a href="http://luijten.org/files/fluids/Fluids-i386-0.1.0.dmg">Fluids 0.1 intel</a></li> 	<li><a href="http://luijten.org/files/fluids/Fluids-powerpc-0.1.0.dmg">Fluids 0.1 powerpc</a></li> 	<li><a href="http://luijten.org/files/fluids/fluids-0.1.0.tgz">Fluids source code</a></li> 	</ul>

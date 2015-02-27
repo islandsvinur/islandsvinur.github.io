@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Installed Debian GNU/Linux!!!"
+date: 2005-01-06 23:12:09 +0100
+---
+<p>All right then, I installed Linux on my Mac today, finally I was able to do so since the Debian installer from the 4th on has a kernel which supports this machine.</p> 	<p>A bit of fooling around with chroot and dpkg gave me a working system, which can also be accomplished by following the instructions in the <a href="http://lists.debian.org/debian-powerpc/2005/01/msg00159.html">thread</a> on the <a href="http://lists.debian.org/debian-powerpc/">debian-powerpc list</a> .</p> 	<p>I&#8217;m happy and can go to sleep now :-)</p>
