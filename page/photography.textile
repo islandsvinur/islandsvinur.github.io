@@ -1,6 +1,0 @@
----
-layout: post
-title: "Photography"
-date: 2005-08-02 15:40:42 +0200
----
-<p>I like taking pictures</p>
