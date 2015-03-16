@@ -3,4 +3,22 @@ layout: post
 title: "Study"
 date: 2005-10-22 09:37:31 +0200
 ---
-<p>This page contains links to various study related topics, internally and externally. The codes between parentheses are the <a href="http://owinfo.tue.nl/">course codes</a> used at TU Eindhoven.</p> 	<h2>Unpublished papers</h2> 	<ul> 	<li><a href="http://luijten.org/page/articles/concepts-of-programming-languages.html">Concepts of Programming Languages</a> (2M240)</li> 	<li><a href="http://luijten.org/page/articles/information-security.html">Information Security</a> (2IF30)</li> 	<li><a href="http://luijten.org/page/articles/parallel-programming.html">Parallel Programming</a> (2IN10)</li> 	<li><a href="http://luijten.org/page/articles/interactive-virtual-environments.html">Interactive Virtual Environments</a> (2IV50)</li> 	<li><a href="http://luijten.org/page/articles/advanced-algorithms.html">Advanced Algorithms</a> (2IL40)</li> 	<li><a href="http://luijten.org/page/articles/geometric-algorithms.html">Geometric Algorithms</a> (2IL20)</li> 	</ul> 	<h2>Software</h2> 	<ul> 	<li><a href="http://ffrenzy.luon.net/">Feeding Frenzy</a>   &#8211; a game for <acronym title="Ontwerp Gericht Onderwijs: Design Oriented Education">OGO</acronym> 2.3 (2R680)</li> 	<li><a href="http://goat.luon.net/"><span class="caps">GOAT</span>!</a>  &#8211; Goal-based Object-oriented Adaptive Teacher for the course of Intelligent Systems (2II40)</li> 	<li><a href="http://trains.win.tue.nl/">Trains</a>   &#8211; a model railroad web control system for Software Engineering Project (2IP40)</li> 	<li><a href="http://nemendur.ru.is/christian06/">Ambient Earth</a>   &#8211; an ambient semantic web monitor, internship at Reykjav&iacute;k University (2IM00)</li> 	<li><a href="http://nogates.nl/fluids/">V&ouml;kvar</a>   &#8211; a fluids simulation visualization application for Visualization (2IV40)</li> 	</ul>
+This page contains links to various study related topics, internally and externally. The codes between parentheses are the "course codes":http://owinfo.tue.nl/ used at TU Eindhoven.
+
+h2. Unpublished papers
+
+* "Concepts of Programming Languages":articles/concepts-of-programming-languages.html (2M240)
+* "Information Security":articles/information-security.html (2IF30)
+* "Parallel Programming":articles/parallel-programming.html (2IN10)
+* "Interactive Virtual Environments":articles/interactive-virtual-environments.html (1IV50)
+* "Advanced Algorithms":articles/advanced-algorithms.html (2IL40)
+* "Geometric Algorithms":articles/geometric-algorithms.html (2IL20)
+
+h2. Software
+
+* "Feeding Frenzy":http://ffrenzy.luon.net/ - a game for OGO(Ontwerp Gericht Onderwijs: Design Oriented Education) 2.3 (2R680)
+* GOAT - Goal-based Object-oriented Adaptive Teacher for the course of Intelligent Systems (2II40)
+* Trains - a model railroad web control system for Software Engineering Project (2IP40)
+* Ambient Earth - an ambient semantic web monitor, internship at Reykjavík University (2IM00)
+* "Vökvar":https://github.com/islandsvinur/vokvar - a fluids simulation visualization application for Visualization (2IV40)
+
