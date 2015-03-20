@@ -1,6 +1,0 @@
----
-layout: post
-title: "Geometric Algorithms"
-date: 2007-03-26 14:17:00 +0200
----
-<p>For the course of <a href="http://www.win.tue.nl/~speckman/2I240.html" title="2IL20">Geometric Algorithms</a> the examination was partly based upon a literature study concerning the term &#8220;Construction Sequences&#8221;.</p> 	<p>The <a href="http://luijten.org/files/papers/geometric%20algorithms%20-%20construction%20sequences.pdf">paper</a> can be downloaded here.</p> 	<p class="comment">This article is created within the framework of my <a href="http://luijten.org/page/study.html">study.</a></p>

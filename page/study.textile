@@ -7,12 +7,47 @@ This page contains links to various study related topics, internally and externa
 
 h2. Unpublished papers
 
-* "Concepts of Programming Languages":articles/concepts-of-programming-languages.html (2M240)
-* "Information Security":articles/information-security.html (2IF30)
-* "Parallel Programming":articles/parallel-programming.html (2IN10)
-* "Interactive Virtual Environments":articles/interactive-virtual-environments.html (1IV50)
-* "Advanced Algorithms":articles/advanced-algorithms.html (2IL40)
-* "Geometric Algorithms":articles/geometric-algorithms.html (2IL20)
+h3. Concepts of Programming Languages
+
+For the course of Concepts of Programming Languages (2M240), we had to write a paper on the delegate as introduced by Microsoft in their version of Java, Visual J++, and in the C# language.
+
+Delegates are the object oriented equivalent of function pointers as they are known from programming languages like C. Their introduction lead to discussions whether they were a good thing or not. Especially Sun, who were advised already in 1996 by Borland <em>not</em> to implement delegates in Java, due to bad experiences with trying the same in Delphi.
+
+The <a href="http://luijten.org/files/papers/concepts%20of%20programming%20languages%20-%20C%20Sharp%20delegates.pdf">full paper</a> can be downloaded here. It was graded with an 8.
+
+h3. Information Security
+
+Among the assignments for the course of Information Security (2IF30) were two papers; an essay and a case study.
+
+The subject of the essay is &#8220;firewalls and intrusion detection&#8221;. It is in my view a very bad essay, but nonetheless it was graded 7. The <a href="http://luijten.org/files/papers/information%20security%20-%20firewalls%20and%20intrusion%20detection.pdf">full essay</a> can be downloaded here.
+
+The subject of the case study is &#8220;the Royal Dodge Airlines&#8217; <span class="caps">RFID</span> programme&#8221;. The <span class="caps">RDA</span> wants to implement a customer relationship programme with the use of <span class="caps">RFID</span> chips to identify them. This paper studies the different ways of implementing, along with their (dis)advantages. The <a href="http://luijten.org/files/papers/information%20security%20-%20royal%20dodge%20airlines%20rfid%20case%20study.pdf">full case study</a> can be downloaded here. It was graded 8.
+
+h3.  Parallel Programming
+
+A very interesting assignment we got for the course of Parallel Programming (2IN10). Apart from the normal assignment to do some grain-size experiment on a <span class="caps">LAM</span>/MPI cluster, we were to create our own cluster. Very motivated, we jumped on the assignment and within no time we got our own cluster running, with 4 machines at Spacelabs, one at Bas&#8217; home.
+
+The <a href="http://luijten.org/files/papers/parallel%20programming%20-%20assignment%20report.pdf">full report</a> can be downloaded here. It was graded 10 for our engineering spirit.
+
+h3. Immersion and Presence in Virtual Environments
+
+For the course of Interactive Virtual Environments (2IV50) the examination was based upon a literature study concerning the two terms &#8220;immersion&#8221; and &#8220;presence&#8221;. Two terms with apparantly clear meaning, but with a great discussion around their definitions.
+
+The paper mainly deals with two measures of presence and immersion and summarizes a few more.
+
+The <a href="http://luijten.org/files/papers/interactive%20virtual%20environments%20-%20immersion%20and%20presence.pdf">paper</a> can be downloaded here.
+
+h3. Advanced Algorithms
+
+For the course of <a href="http://www.win.tue.nl/~speckman/2IL40.html" title="2IL40">Advanced Algorithms</a> the examination was partly based upon a literature study concerning the term &#8220;Fixed-Parameter Tractability&#8221;.
+
+The <a href="http://luijten.org/files/papers/advanced%20algorithms%20-%20fixed-parameter%20tractability.pdf">paper</a> can be downloaded here.
+
+h3. Geometric Algorithms
+
+For the course of <a href="http://www.win.tue.nl/~speckman/2I240.html" title="2IL20">Geometric Algorithms</a> the examination was partly based upon a literature study concerning the term &#8220;Construction Sequences&#8221;.
+
+The <a href="http://luijten.org/files/papers/geometric%20algorithms%20-%20construction%20sequences.pdf">paper</a> can be downloaded here.
 
 h2. Software
 
