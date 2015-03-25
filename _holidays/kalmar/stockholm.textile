@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: holidays
 title: "Stockholm"
 date: 2008-02-25 21:23:42 +0100
+permalink: /holidays/kalmar/stockholm/
 ---
 h3. Maandag 11 februari
 

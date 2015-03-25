@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: holidays
 title: "Helsinki"
 date: 2008-03-07 10:46:46 +0100
+permalink: /holidays/kalmar/helsinki/
 ---
 h3. Zondag 17 februari
 

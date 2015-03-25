@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: holidays
 title: "Trondheim"
 date: 2008-02-25 14:20:01 +0100
+permalink: /holidays/kalmar/trondheim/
 ---
 h3. Donderdag 7 februari
 
