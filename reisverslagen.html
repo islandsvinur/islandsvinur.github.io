@@ -1,0 +1,11 @@
+---
+layout: page
+title: Reisverslagen
+---
+
+
+<ul>
+{% for holiday in site.data.holidays %}
+  <li><a href="{{ holiday.docs[0] | prepend: "/holidays/" | append: "/" }}">{{ holiday.title }}</a></li>
+{% endfor %}
+</ul>
