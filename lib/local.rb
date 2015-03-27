@@ -11,7 +11,7 @@ class Weblog
         end
     end
 
-    def skel_sidebar( path_storage )
+    def skel_sidebar( path_storage, section_path )
         months = path_storage.get_months( storage.find )
         page = Page.new( 'sidebar' )
         page.updated = Time.now
