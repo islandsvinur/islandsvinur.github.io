@@ -2,6 +2,7 @@
 layout: post
 title: "Study"
 date: 2005-10-22 09:37:31 +0200
+published: false
 ---
 This page contains links to various study related topics, internally and externally. The codes between parentheses are the "course codes":http://owinfo.tue.nl/ used at TU Eindhoven.
 

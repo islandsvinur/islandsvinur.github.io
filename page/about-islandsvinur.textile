@@ -2,6 +2,7 @@
 layout: post
 title: "Over de naam Íslandsvinur"
 date: 2007-07-05 14:28:26 +0200
+published: false
 ---
 De bijnaam Íslandsvinur ("ISO-8859-15":http://en.wikipedia.org/wiki/ISO-8859-15 (Latin-9) "minuskele":http://nl.wikipedia.org/wiki/Minuskel versie: islandsvinur) heb ik aangenomen na mijn verblijf in IJsland in 2006. De term Íslandsvinur wordt vaak gebruikt in IJsland om aan te duiden dat iemand een "vriend van IJsland" is. Normaalgesproken noem je jezelf niet Íslandsvinur, maar wordt je zo genoemd. Toen een IJslandse vriend me zo noemde, kon ik het dus ook gaan gebruiken.
 

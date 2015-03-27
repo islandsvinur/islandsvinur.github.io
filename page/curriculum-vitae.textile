@@ -2,5 +2,6 @@
 layout: post
 title: "Curriculum Vitae"
 date: 2007-01-16 11:23:20 +0100
+published: false
 ---
 <p>Here be information&#8230; sometime.</p>

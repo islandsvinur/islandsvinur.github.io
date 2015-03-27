@@ -2,6 +2,7 @@
 layout: post
 title: "Who is @islandsvinur?"
 date: 2008-06-04 14:12:26 +0200
+published: false
 ---
 Hey, hi! You've landed on my Twitter introduction page! Thanks for clicking the link in "my Twitter profile":http://twitter.com/islandsvinur.
 
