@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Over dit weblog"
+site_header: "Over dit weblog"
 date: 2006-01-05 23:41:47 +0100
 ---
 *Logging the Switch* is een weblog van "Christian Luijten":/page/about-me.html, die in 2004 besloot dat hij zou stoppen met PCs en _switchen_ naar de Mac. In eerste instantie was het plan om te switchen van Linux op de PC naar Linux op de Mac. Het werd uiteindelijk een switch naar Mac OS X naar opperste tevredenheid.
