@@ -123,20 +123,15 @@ sidebar_archive: |
   <div class="sidebarBox" id="sidebarArchive">
   <h2 class="sidebarTitle">Archief</h2>
   <ol>
-  <!-- <% months = weblog.storage.get_months( weblog.storage.find ) %>
+  <% prev_year = DateTime.now.year %>
+  <% months = weblog.storage.get_months( weblog.storage.find ) %>
   <% months.reverse.each do |month_start, month_end, month_id| %>
-    <li id="sidebarArchiveMonth-<%= month_start.month %>-<%= month_start.year %>" class="sidebarArchiveMonth">
-      <a href="<%= weblog.expand_path month_id %>"><%= month_start.strftime( "%B %Y" ) %></a>
-    </li> 
-  <% end %> 
-  </li> -->
-  <% year = DateTime.now.year %>
-  <% months.reverse.each do |month_start, month_end, month_id| %>
-    <% if year == month_start.year %>
+    <% year = month_start.year %>
+    <% if prev_year > year %>
     <li id="sidebarArchiveYear-<%= year %>" class="sidebarArchiveYear">
       <a href="<%= weblog.expand_path year.to_s %>">Jaararchief <%= year %></a>
     </li>
-    <% year -= 1 %>
+    <% prev_year = year %>
     <% end %>
   <% end %>
   </ol>
