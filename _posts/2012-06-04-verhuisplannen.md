@@ -22,12 +22,12 @@ meebrengt (vaak is het pas na 5 jaar rendabel om een huis weer te
 verkopen door onder andere de overdrachtsbelasting).
 
 De zoektocht begon in de omgeving van Eindhoven, maar hier zijn de
-huizen gewoon veel te duur. We gingen ons ori&euml;nteren op plaatsen
-gelegen aan de spoorlijn Eindhoven â Venlo en met een station:
+huizen gewoon veel te duur. We gingen ons oriënteren op plaatsen
+gelegen aan de spoorlijn Eindhoven - Venlo en met een station:
 Helmond, Deurne, Horst-Sevenum, Blerick. In Helmond wil ik niet
 wonen :P, dus begonnen we in Deurne.
 
-h3. Deurne
+# Deurne
 
 We zagen het interessante nieuwbouwproject De Rijtse Vennen. Hier
 schreven we ons in op een van de 16 starterswoningen (zie hieronder)
@@ -47,7 +47,7 @@ geluidsbeperkende maatregelen bij de gemeente, dus dat wordt in de
 toekomst alleen maar erger. In de onmiddellijke nabijheid was er
 bovendien een natuursteenverwerkingsbedrijf (= lawaai), een drukke
 verkeersweg (= lawaai) en een uiensnijderij (= stank). Dat leek ons
-niet zoân prettig leefklimaat.
+niet zo'n prettig leefklimaat.
 
 Achteraf blijkt het maar goed te zijn geweest dat we er niet mee
 verder zijn gegaan, want na een half jaar is nog maar 7 van de 16
@@ -59,7 +59,7 @@ worden en het contract ontbonden. In Deurne zijn verder geen
 nieuwbouwplannen die interessant voor ons zijn (andere projecten
 zijn veel te duur).
 
-h3. Horst-Sevenum
+# Horst-Sevenum
 
 Het volgende station is Horst-Sevenum. Hier omheen liggen de dorpen
 Horst, Hegelsom, Sevenum en Meterik. Horst heeft een voor Horstse
