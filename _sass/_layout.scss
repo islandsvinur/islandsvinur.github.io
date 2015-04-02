@@ -235,12 +235,32 @@
     }
 }
 
+.post-nav,
 .section-nav {
   text-align: center;
 }
 
+.post-nav>div,
 .section-nav>div {
   width: 49.5%;
+}
+
+a.button,
+span.button,
+.post-nav>div>span,
+.post-nav>div>a,
+.section-nav>div>span,
+.section-nav>div>a {
+  border-radius: 5pt;
+  border: thin solid black;
+  padding: 5pt 15pt;
+}
+
+a.button:hover,
+.post-nav a:hover,
+.section-nav a:hover {
+  background: lightgray;
+  text-decoration: none;
 }
 
 .align-right { text-align: right; }

@@ -28,16 +28,42 @@ module Jekyll
   # Generator class invoked from Jekyll
   class YearlyArchiveGenerator < Generator
     def generate(site)
-      posts_group_by_year(site).each do |year, list|
+      posts_by_year = posts_group_by_year(site)
+      posts_by_year.each do |year, list|
         site.pages << YearlyArchivePage.new(site, YearlyArchiveUtil.archive_base(site),
                                              year, list)
       end
+      site.pages << ArchivePage.new(site, YearlyArchiveUtil.archive_base(site), posts_by_year)
     end
 
     def posts_group_by_year(site)
       site.posts.each.group_by { |post| post.date.year }
     end
 
+  end
+
+  class ArchivePage < Page
+    def initialize(site, dir, posts_by_year)
+      @site = site
+      @dir = dir
+      @years = posts_by_year
+      @layout = 'archive'
+      self.ext = '.html'
+      self.basename = 'archive'
+      self.content = <<-EOS
+{% for year in page.years reversed %}
+  <li><a href="{{ year[0] }}">{{ year[0] }}</a> ({{ year[1] | size }})</li>
+{% endfor %}
+EOS
+      self.data = {
+        'layout' => @layout,
+        'type' => 'archive',
+        'title' => 'Archives',
+        'site_header' => 'Archives',
+        'years' => @years,
+        'url' => File.join('/', YearlyArchiveUtil.archive_base(site), 'archives.html')
+      }
+    end
   end
 
   # Actual page instances
