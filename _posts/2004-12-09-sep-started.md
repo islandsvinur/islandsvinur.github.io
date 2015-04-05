@@ -3,4 +3,33 @@ layout: post
 title: "Software Engineering Project started"
 date: 2004-12-09 21:02:25 +0100
 ---
-<p>It has been a while since I wrote something here&#8230;</p> 	<p>The new trimester started last week on Monday (28 November). Together with the trimester also the Software Engineering Project (SEP) started, which is a two-trimester project teaching the process of managing and executing a larger software project.</p> 	<p>We got a three hour lecture in which every project could present themselves in order to let us give our preference. Our group of eight students chose a project for OcÃ© as our first choice. Since it is tradition for <span class="caps">SEP</span> that you don&#8217;t get the first choice, that was not really our first choice. We&#8217;d rather program Sony Aibo robots or create a user interface for a scientific grid computing application.</p> 	<p>A few days later we received our assignment, we were appointed for the grid computing user interface. However, since we apparantly were the only group to have that assignment in our top 3, it was considered by senior management that the presentation gave a wrong idea of the assignment (very strange). We would receive a new assignment, which one was unclear until this Monday.</p> 	<p>So, Monday we received our actual assignment for the next half year. We&#8217;re going to create a model railroad control and surveillance system. For what I&#8217;ve read so far, it seems like an interesting challenge.</p> 	<p>Now, the time of sitting back and relaxing is getting at an end, since <span class="caps">SEP</span> is notorious to be taking up every last bit of spare time&#8230; I hope everything goes well and we&#8217;re going to have good cooperation within the group and with our project manager, our customer and especially senior management (they&#8217;ll be grading us June 2005).</p>
+
+It has been a while since I wrote something here...
+
+The new trimester started last week on Monday (28 November). Together with the
+trimester also the Software Engineering Project (SEP) started, which is a
+two-trimester project teaching the process of managing and executing a larger
+software project.
+
+We got a three hour lecture in which every project could present themselves in
+order to let us give our preference. Our group of eight students chose a
+project for Océ as our first choice. Since it is tradition for SEP that you
+don't get the first choice, that was not really our first choice. We'd rather
+program Sony Aibo robots or create a user interface for a scientific grid
+computing application.
+
+A few days later we received our assignment, we were appointed for the grid
+computing user interface. However, since we apparantly were the only group to
+have that assignment in our top 3, it was considered by senior management that
+the presentation gave a wrong idea of the assignment (very strange). We would
+receive a new assignment, which one was unclear until this Monday.
+
+So, Monday we received our actual assignment for the next half year. We're
+going to create a model railroad control and surveillance system. For what I've
+read so far, it seems like an interesting challenge.
+
+Now, the time of sitting back and relaxing is getting at an end, since SEP is
+notorious to be taking up every last bit of spare time... I hope everything
+goes well and we're going to have good cooperation within the group and with
+our project manager, our customer and especially senior management (they'll be
+grading us June 2005).

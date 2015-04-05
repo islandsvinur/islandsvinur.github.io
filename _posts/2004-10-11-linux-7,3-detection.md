@@ -3,4 +3,15 @@ layout: post
 title: "Proper detection of PowerMac7,3 (mine) by Linux"
 date: 2004-10-11 15:53:56 +0200
 ---
-<p>From the Linux 2.6.9-rc4 changelog:</p> <blockquote> &lt;schwab@suse.de&gt; [PATCH] Properly recognize PowerMac7,3 	<p>Make the PowerMac7,3 no longer unknown.</p> Signed-off-by: Andreas Schwab &lt;schwab@suse.de&gt;<br/> Signed-off-by: Linus Torvalds &lt;torvalds@osdl.org&gt; </blockquote> 	<p>So that is nice already, let&#8217;s hope the <a href="http://www.ubuntulinux.org">Ubuntu</a> guys will create a new installer soon with this patch applied. Maybe it will boot (it currently <a href="https://bugzilla.ubuntu.com/show_bug.cgi?id=2137">doesn&#8217;t at all</a> ).</p>
+
+From the Linux 2.6.9-rc4 changelog:
+
+    <schwab@suse.de> [PATCH] Properly recognize PowerMac7,3 	
+
+    Make the PowerMac7,3 no longer unknown.
+    Signed-off-by: Andreas Schwab <schwab@suse.de>
+    Signed-off-by: Linus Torvalds <torvalds@osdl.org>
+
+So that is nice already, let's hope the [Ubuntu](http://www.ubuntulinux.org)
+guys will create a new installer soon with this patch applied. Maybe it will
+boot (it currently [doesn't at all](https://bugzilla.ubuntu.com/show_bug.cgi?id=2137)).

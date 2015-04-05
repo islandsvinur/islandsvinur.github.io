@@ -3,4 +3,51 @@ layout: post
 title: "Rendezvous is hip!"
 date: 2004-10-30 10:31:34 +0200
 ---
-<p>I have a laptop functioning as my mail and printer server. Of course it would be cool to be able to print directly from <span class="caps">OS X</span> instead of making a PostScript and then scp&#8217;ing it to the laptop.</p> 	<p>Well, Apple has been busy supporting a very functional print system known as <span class="caps">CUPS</span> (Common Unix Printing System). Linux (and other Unix) users have been converting their systems from the old lpr-style daemons to this new system and printers are supporting <span class="caps">IPP</span> (Internet Printing Protocol). No reason for Apple to not convert their apparantly broken printing system of <span class="caps">OS X 10</span>.1 (I don&#8217;t know, but I&#8217;ve read a lot of bad things about it) to the modern <span class="caps">CUPS</span>.</p> 	<p>So, with <span class="caps">CUPS</span> in place, I can easily print on my laptop&#8230; Or so I thought&#8230; Of course, I can go and edit the /etc/cups/printers.conf file myself, but that would be no fun. No, it should work the Mac-way: Everything automatically configured with a single click.</p> 	<p>The answer to this is Rendezvous (or OpenTalk nowadays). Rendezvous is Apple&#8217;s implementation of the <span class="caps">DNS</span>-SD (DNS Service Discovery) protocol, used for announcing services on remote machines to your machine. It works only on the local network, since it uses a multicast link local address (IPv4) which cannot go through routers.</p> 	<p>I installed Apple&#8217;s mDNSResponder from their <a href="http://developer.apple.com/macosx/rendezvous/">Rendezvous Developer Web Site</a> and configured it so that my printer would be announced.</p> <blockquote> Printer HP LaserJet 4M<br /> _ipp._tcp.<br /> txtvers=1<sup>Arp=printers/LaserJet-4M</sup>Aproduct=(LaserJet 4)^Apdl=application/postscript<br /> 631 </blockquote> 	<p>Now I start the responder, start an application I&#8217;d like to print from, select Print&#8230;, select Printer HP LaserJet 4M from the list, it is added automatically and I can press the Print button!</p> 	<p>Too bad this whole configuring has taken me a few days to figure out what software to use, what exactly should go where and then adding the printer is so fast&#8230; Since now my only other computer is already configured, the responder is a bit useless (not completely, it is also used to keep the printer in the list) so I am exploring new possibilities of Rendezvous like announcing a WebDAV server or a remote iTunes Library.</p> 	<p>Oh, and apparantly there is a bug in Howl mDNSResponder by Scott Herscher, which announces an incorrect <span class="caps">DNS TXT</span> record. I&#8217;ll have to mail him about that. I mailed to the rendezvous-dev list of Apple and Marc Krochmail of Apple was very helpful in detecting my problem.</p> 	<p><strong>Update:</strong> In the meantime, a much better implementation of mDNS has emerged, called <a href="http://avahi.org/">Avahi</a>.</p>
+
+I have a laptop functioning as my mail and printer server. Of course it would
+be cool to be able to print directly from OS X instead of making a PostScript
+and then scp'ing it to the laptop.
+
+Well, Apple has been busy supporting a very functional print system known as
+CUPS (Common Unix Printing System). Linux (and other Unix) users have been
+converting their systems from the old lpr-style daemons to this new system and
+printers are supporting IPP (Internet Printing Protocol). No reason for Apple
+to not convert their apparantly broken printing system of OS X 10.1 (I don't
+know, but I've read a lot of bad things about it) to the modern CUPS.
+
+So, with CUPS in place, I can easily print on my laptop... Or so I thought...
+Of course, I can go and edit the ``/etc/cups/printers.conf`` file myself, but
+that would be no fun. No, it should work the Mac-way: Everything automatically
+configured with a single click.
+
+The answer to this is Rendezvous (or OpenTalk nowadays). Rendezvous is Apple's
+implementation of the DNS-SD (DNS Service Discovery) protocol, used for
+announcing services on remote machines to your machine. It works only on the
+local network, since it uses a multicast link local address (IPv4) which cannot
+go through routers.
+
+I installed Apple's mDNSResponder from their [Rendezvous Developer Web Site](http://developer.apple.com/macosx/rendezvous/) and configured it so that my printer would be announced.
+
+    Printer HP LaserJet 4M
+    _ipp._tcp.
+    txtvers=1_Arp=printers/LaserJet-4M_Aproduct=(LaserJet 4)^Apdl=application/postscript
+    631
+
+Now I start the responder, start an application I'd like to print from, select
+Print..., select Printer HP LaserJet 4M from the list, it is added
+automatically and I can press the Print button!
+
+Too bad this whole configuring has taken me a few days to figure out what
+software to use, what exactly should go where and then adding the printer is so
+fast... Since now my only other computer is already configured, the responder
+is a bit useless (not completely, it is also used to keep the printer in the
+list) so I am exploring new possibilities of Rendezvous like announcing a
+WebDAV server or a remote iTunes Library.
+
+Oh, and apparantly there is a bug in Howl mDNSResponder by Scott Herscher,
+which announces an incorrect DNS TXT record. I'll have to mail him about that.
+I mailed to the rendezvous-dev list of Apple and Marc Krochmail of Apple was
+very helpful in detecting my problem.
+
+> Update: In the meantime, a much better implementation of mDNS has emerged,
+> called [Avahi](http://avahi.org/).
