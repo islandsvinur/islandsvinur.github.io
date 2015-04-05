@@ -9,7 +9,7 @@ heen reizen met het OV! Nu het nieuwe vervoersbewijs zo'n beetje
 definitief is ingevoerd (op Veolia-land na dan, belachelijk), staat
 iedereen opeens op z'n achterste benen dat "de privacy eraan gaat".
 
-!(left)/image/ov-chipkaart.png! Als je alleen even verder denkt, kon
+![OV chipkaart](https://www.dropbox.com/s/6pldsxpdp59e3s1/ov-chipkaart.png?dl=1) Als je alleen even verder denkt, kon
 de NS al jaren nagaan wie waarheen reed. Elke keer als je een
 kaartje koopt, dan gebruik je namelijk je pinpas. In het algemeen
 gebruik je daarvoor steeds dezelfde pas en dus kan de NS kaartjes

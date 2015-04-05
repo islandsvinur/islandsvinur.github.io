@@ -4,9 +4,9 @@ title: "Quit Facebook Day"
 date: 2010-05-18 08:43:09 +0200
 ---
 
-Op 31 mei is het "Quit Facebook
-Day":http://www.quitfacebookday.com/. Aanleiding zijn de uitspraken
-van "Mark Zuckerberg":http://en.wikipedia.org/wiki/Mark_Zuckerberg
+Op 31 mei is het [Quit Facebook
+Day](http://www.quitfacebookday.com/). Aanleiding zijn de uitspraken
+van [Mark Zuckerberg](http://en.wikipedia.org/wiki/Mark_Zuckerberg)
 -- eigenaar van Facebook -- dat "privacy niet zo belangrijk is", dat
 "privacy dood is" en de ondoorzichtigheid van Facebooks
 privacy-instellingen. Nou wil ik niet beamen dat privacy inderdaad
@@ -32,8 +32,8 @@ hebt je privacy-instellingen misschien op orde, maar wat weerhoudt
 je "vriend" ervan om die grappige opmerking over je baas te
 kopi&euml;ren?
 
-Mijn advies? Blijf lekker hangen op Facebook, "controleer je
-privacy-instellingen":http://incredibleadventure.nl/2010/05/bekijk-je-privacy-instellingen-op-facebook/,
+Mijn advies? Blijf lekker hangen op Facebook, [controleer je
+privacy-instellingen](http://incredibleadventure.nl/2010/05/bekijk-je-privacy-instellingen-op-facebook/),
 besef wie je vrienden zijn en gebruik je verstand als je iets
 publiceert (*openbaar* maakt) op internet. Ohja, en verwijder
 Farmville.

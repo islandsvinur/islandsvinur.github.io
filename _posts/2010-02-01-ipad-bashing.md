@@ -9,10 +9,10 @@ de basher in kwestie volledig voorbij aan het feit dat hij
 (opvallend genoeg is het meestal een hij) misschien wel helemaal
 niet tot de doelgroep van het product behoort.
 
-* "8 things that suck about the iPad":http://gizmodo.com/5458382/8-things-that-suck-about-the-ipad
-* "16 reasons the iPad sucks":http://www.iphonedownloadblog.com/2010/01/29/ipad-sucks/
+* [8 things that suck about the iPad](http://gizmodo.com/5458382/8-things-that-suck-about-the-ipad)
+* [16 reasons the iPad sucks](http://www.iphonedownloadblog.com/2010/01/29/ipad-sucks/)
 
-p(center). !/image/ipad.png!
+![](https://www.dropbox.com/s/5u55q41hsd1macx/ipad.png?dl=1)
 
 Een favoriet argument is dat bezitters van de producten collectief
 leiden aan het Stockholm-syndroom. Het is misschien moeilijk voor te
@@ -21,8 +21,8 @@ tijd met een laptop op schoot willen zitten. Gelukkig zijn er ook
 andere geluiden te horen die het "gemis" van features wel weten te
 relativeren:
 
-* "Think the iPad sucks? That's because it's not for you":http://dvice.com/archives/2010/01/think-the-ipad.php
-* "Apple's iPad: For what Audience?":http://52weeksofux.com/post/358515809/apples-ipad-for-what-audience
+* [Think the iPad sucks? That's because it's not for you](http://dvice.com/archives/2010/01/think-the-ipad.php)
+* [Apple's iPad: For what Audience?](http://52weeksofux.com/post/358515809/apples-ipad-for-what-audience)
 
 Tenslotte nog een filmpje van 16 jaar geleden. Bedenk bij het kijken
 dat het web in 1994 nog in de kinderschoenen stond (Netscape en
@@ -30,11 +30,7 @@ Opera werden pas in december dat jaar uitgegeven, de enige andere op
 dat moment was Mosaic, de allereerste grafische web browser voor de
 Mac en PC).
 
-p(center). <embed id="VideoPlayback"
-src="http://video.google.com/googleplayer.swf?docid=-4176721009838609904&hl=en&fs=true"
-style="width:400px;height:326px allowFullScreen=true"
-allowScriptAccess="always" type="application/x-shockwave-flash">
-</embed>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/JBEtPQDQNcI" frameborder="0" allowfullscreen></iframe>
 
 Ik denk niet dat de iPad gaat falen en wel precies om de reden
 waarom de iPhone niet is gefaald en de iPod niet is gefaald: Het

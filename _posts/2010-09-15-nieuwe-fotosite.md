@@ -13,4 +13,4 @@ zijn!
 Ik heb besloten dat ik het in de kwaliteit moet zoeken en niet in de
 kwantiteit. Vandaar, 1 foto per pagina, 1 foto per post en hooguit 1
 foto per dag; welkom op
-"fotografie.luijten.org":http://fotografie.luijten.org/!
+[fotografie.luijten.org](http://fotografie.luijten.org/)!

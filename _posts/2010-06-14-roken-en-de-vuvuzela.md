@@ -12,7 +12,7 @@ verboden moeten worden! De vuvuzela hoort echter bij de voetbalcultuur
 van Zuid-Afrika, dat wist men ook al toen het WK werd gegund aan dat
 land.
 
-p(center).  "!/image/taal-van-vuvuzela.jpg!":http://taal.web-log.nl/taaladviesdienst/2010/06/taal-van-de-vuvuzela.html <br/> _De taal van de vuvuzela_
+[![De taal van de vuvuzela](https://www.dropbox.com/s/2sp5hfdf512dj3t/taal-van-vuvuzela.jpg?dl=1)](http://taal.web-log.nl/taaladviesdienst/2010/06/taal-van-de-vuvuzela.html) <br/> _De taal van de vuvuzela_
 
 Ik vond de overlast door vuvuzela's eigenlijk treffend vergelijkbaar
 met de overlast die rokers constant veroorzaken op hun omgeving.
