@@ -240,9 +240,13 @@
   text-align: center;
 }
 
+.post-nav + h3 {
+  clear: both;
+}
+
 .post-nav>div,
 .section-nav>div {
-  width: 49.5%;
+  width: 33.3%;
 }
 
 a.button,
