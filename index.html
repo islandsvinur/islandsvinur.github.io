@@ -25,9 +25,9 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous button">Previous</a>
+    <a href="{{ paginator.previous_page_path }}" class="previous button">Back</a>
   {% else %}
-    <span class="previous button">Previous</span>
+    <span class="previous button">Back</span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}

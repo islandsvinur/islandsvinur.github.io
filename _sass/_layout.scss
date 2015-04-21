@@ -235,6 +235,7 @@
     }
 }
 
+.pagination,
 .post-nav,
 .section-nav {
   text-align: center;
@@ -258,6 +259,10 @@ span.button,
   border-radius: 5pt;
   border: thin solid black;
   padding: 5pt 15pt;
+}
+
+div.pagination   a.button {
+  margin: 0 30pt;
 }
 
 a.button:hover,
