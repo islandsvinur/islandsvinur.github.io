@@ -257,7 +257,7 @@ span.button,
 .section-nav>div>span,
 .section-nav>div>a {
   border-radius: 5pt;
-  border: thin solid black;
+  border: thin solid $grey-color-light;
   padding: 5pt 15pt;
 }
 
@@ -292,7 +292,7 @@ ul
 li
 {
   display: block;
-  border: thin solid black;
+  border: thin solid $grey-color-light;
   border-radius: 1em;
   padding: 6em;
   width: 15em;
