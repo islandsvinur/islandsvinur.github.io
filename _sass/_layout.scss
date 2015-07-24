@@ -177,10 +177,9 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
         background-color: white;
-        padding: 1em;
-        margin: 1em 0;
+        padding: $spacing-unit;
+        margin: $spacing-unit 0;
         border: thin solid #f0f0f0;
         box-shadow: 0em 0em 0.5em #ccc;
     }
@@ -215,8 +214,13 @@
     }
 }
 
+#disqus_thread,
 .post-content {
-    margin-bottom: $spacing-unit;
+    background-color: white;
+    padding: $spacing-unit;
+    margin: $spacing-unit 0;
+    border: thin solid #f0f0f0;
+    box-shadow: 0em 0em 0.5em #ccc;
 
     h2 {
         font-size: 32px;
@@ -248,8 +252,8 @@
 .section-nav {
   text-align: center;
         background-color: white;
-        padding: 1em;
-        margin: 1em 0;
+        padding: $spacing-unit;
+        margin: $spacing-unit 0;
         border: thin solid #f0f0f0;
         box-shadow: 0em 0em 0.5em #ccc;
 }
