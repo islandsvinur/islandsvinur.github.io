@@ -8,6 +8,7 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    box-shadow: 0em 0em 0.5em #ccc;
 }
 
 .site-title {
@@ -94,6 +95,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    box-shadow: 0em 0em 0.5em #ccc;
 }
 
 .footer-heading {
@@ -121,13 +123,13 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
@@ -163,6 +165,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-color: #f6f6f6;
 }
 
 .page-heading {
@@ -175,6 +178,11 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        background-color: white;
+        padding: 1em;
+        margin: 1em 0;
+        border: thin solid #f0f0f0;
+        box-shadow: 0em 0em 0.5em #ccc;
     }
 }
 
@@ -239,6 +247,11 @@
 .post-nav,
 .section-nav {
   text-align: center;
+        background-color: white;
+        padding: 1em;
+        margin: 1em 0;
+        border: thin solid #f0f0f0;
+        box-shadow: 0em 0em 0.5em #ccc;
 }
 
 .post-nav + h3 {
@@ -261,6 +274,7 @@ span.button,
   padding: 5pt 15pt;
 }
 
+div.post-nav .button,
 div.pagination   span.button,
 div.pagination   a.button {
   margin: 0 30pt;
