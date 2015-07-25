@@ -281,7 +281,7 @@ span.button,
 div.post-nav .button,
 div.pagination   span.button,
 div.pagination   a.button {
-  margin: 0 30pt;
+  margin: 0 5%;
 }
 
 a.button:hover,
@@ -316,5 +316,11 @@ li
   width: 15em;
   margin: 2em auto;
   text-align: center;
+}
+
+article iframe,
+ul.post-list iframe
+{
+  max-width: 100%;
 }
 
